@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\bin\Debug\net5.0\Inheritance3.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\bin\Debug\net5.0\Inheritance3.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\bin\Debug\net5.0\Inheritance3.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\bin\Debug\net5.0\Inheritance3.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\bin\Debug\net5.0\Inheritance3.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\bin\Debug\net5.0\Inheritance3.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\refint\Inheritance3.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\Inheritance3.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#18 - Inheritance(Kalıtım) Nedir 3. Bölüm\Inheritance3\obj\Debug\net5.0\ref\Inheritance3.dll

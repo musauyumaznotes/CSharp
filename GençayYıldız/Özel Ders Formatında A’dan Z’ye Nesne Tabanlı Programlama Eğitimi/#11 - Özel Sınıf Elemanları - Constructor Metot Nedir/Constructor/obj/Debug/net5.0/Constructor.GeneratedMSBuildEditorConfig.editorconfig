@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Constructor
+build_property.ProjectDir = D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#11 - Özel Sınıf Elemanları - Constructor Metot Nedir\Constructor\

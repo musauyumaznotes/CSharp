@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionalRecord", "PositionalRecord.csproj", "{DB3268DE-46F0-42C5-BCD7-32006DEB8D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3268DE-46F0-42C5-BCD7-32006DEB8D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3268DE-46F0-42C5-BCD7-32006DEB8D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3268DE-46F0-42C5-BCD7-32006DEB8D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3268DE-46F0-42C5-BCD7-32006DEB8D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FD9657-A7A0-45A4-88A3-4E9BC3EB0EF4}
+	EndGlobalSection
+EndGlobal

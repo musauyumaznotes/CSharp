@@ -1,0 +1,1 @@
+<img src ="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/%C3%96zel%20Ders%20Format%C4%B1nda%20A%E2%80%99dan%20Z%E2%80%99ye%20Nesne%20Tabanl%C4%B1%20Programlama%20E%C4%9Fitimi/%2316%20-%20Inheritance(Kal%C4%B1t%C4%B1m)%20Nedir%201.%20B%C3%B6l%C3%BCm/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-31%20194820.png" width ="auto">

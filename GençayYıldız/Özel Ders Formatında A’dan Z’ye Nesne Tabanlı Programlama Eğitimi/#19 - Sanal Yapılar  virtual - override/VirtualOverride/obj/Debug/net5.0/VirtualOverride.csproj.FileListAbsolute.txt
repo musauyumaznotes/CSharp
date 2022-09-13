@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\bin\Debug\net5.0\VirtualOverride.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\bin\Debug\net5.0\VirtualOverride.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\bin\Debug\net5.0\VirtualOverride.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\bin\Debug\net5.0\VirtualOverride.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\bin\Debug\net5.0\VirtualOverride.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\bin\Debug\net5.0\VirtualOverride.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\refint\VirtualOverride.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\VirtualOverride.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#19 - Sanal Yapılar  virtual - override\VirtualOverride\obj\Debug\net5.0\ref\VirtualOverride.dll

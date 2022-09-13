@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\bin\Debug\net5.0\Destructor.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\bin\Debug\net5.0\Destructor.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\bin\Debug\net5.0\Destructor.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\bin\Debug\net5.0\Destructor.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\refint\Destructor.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\Destructor.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi\#12 - Özel Sınıf Elemanları - Destructor Metot Nedir\Destructor\obj\Debug\net5.0\ref\Destructor.dll
