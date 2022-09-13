@@ -1,0 +1,4 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/13)%20Asp.NET%20Core%205.0%20-%20MVC%20Nedir%20Asp.NET%20Core%20MVC%20Pipeline'%C4%B1%20Nas%C4%B1ld%C4%B1r/1-)MVC%20Bilgiler.png" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/13)%20Asp.NET%20Core%205.0%20-%20MVC%20Nedir%20Asp.NET%20Core%20MVC%20Pipeline'%C4%B1%20Nas%C4%B1ld%C4%B1r/2-)ModelViewController.png" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/13)%20Asp.NET%20Core%205.0%20-%20MVC%20Nedir%20Asp.NET%20Core%20MVC%20Pipeline'%C4%B1%20Nas%C4%B1ld%C4%B1r/3-)%C3%87al%C4%B1%C5%9Fma%C5%9Eekli.png" width="auto">
+<img src="" width="auto">

@@ -1,0 +1,3 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/12)%20Asp.NET%20Core%205.0%20-%20Proje%20Olu%C5%9Fturma%20ve%20Dosya%20Yap%C4%B1s%C4%B1/1-)ProgramCsDosyas%C4%B1.png" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/12)%20Asp.NET%20Core%205.0%20-%20Proje%20Olu%C5%9Fturma%20ve%20Dosya%20Yap%C4%B1s%C4%B1/2-)StartupDosyas%C4%B1.png" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/12)%20Asp.NET%20Core%205.0%20-%20Proje%20Olu%C5%9Fturma%20ve%20Dosya%20Yap%C4%B1s%C4%B1/3-)AppSettingsDosyas%C4%B1.png" width="auto">
