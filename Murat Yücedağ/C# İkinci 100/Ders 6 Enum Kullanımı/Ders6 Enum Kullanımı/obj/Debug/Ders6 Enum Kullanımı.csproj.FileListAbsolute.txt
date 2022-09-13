@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\bin\Debug\Ders6 Enum Kullanımı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\bin\Debug\Ders6 Enum Kullanımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\bin\Debug\Ders6 Enum Kullanımı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6 Enum Kullanımı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6_Enum_Kullanımı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6_Enum_Kullanımı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6 Enum Kullanımı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6 Enum Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6 Enum Kullanımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders6 Enum Kullanımı\Ders6 Enum Kullanımı\obj\Debug\Ders6 Enum Kullanımı.pdb

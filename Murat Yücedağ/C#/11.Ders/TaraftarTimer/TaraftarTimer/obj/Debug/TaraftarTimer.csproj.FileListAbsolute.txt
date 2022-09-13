@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\bin\Debug\TaraftarTimer.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\bin\Debug\TaraftarTimer.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\bin\Debug\TaraftarTimer.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\TaraftarTimer\TaraftarTimer\obj\Debug\TaraftarTimer.csproj.ResolveComReference.cache

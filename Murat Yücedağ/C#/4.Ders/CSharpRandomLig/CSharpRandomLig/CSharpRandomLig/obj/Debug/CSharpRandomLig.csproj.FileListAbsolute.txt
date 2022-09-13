@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\bin\Debug\CSharpRandomLig.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\bin\Debug\CSharpRandomLig.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\bin\Debug\CSharpRandomLig.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\4.Ders\CSharpRandomLig\CSharpRandomLig\CSharpRandomLig\obj\Debug\CSharpRandomLig.csproj.ResolveComReference.cache

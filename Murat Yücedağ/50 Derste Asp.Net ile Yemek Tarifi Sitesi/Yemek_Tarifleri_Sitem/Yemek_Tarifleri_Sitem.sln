@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Yemek_Tarifleri_Sitem", "Yemek_Tarifleri_Sitem\", "{CFF27A88-AF18-4F5A-B66A-AD8F6054641D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_40334"
+		Debug.AspNetCompiler.PhysicalPath = "Yemek_Tarifleri_Sitem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_40334\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_40334"
+		Release.AspNetCompiler.PhysicalPath = "Yemek_Tarifleri_Sitem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_40334\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "40334"
+		SlnRelativePath = "Yemek_Tarifleri_Sitem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF27A88-AF18-4F5A-B66A-AD8F6054641D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF27A88-AF18-4F5A-B66A-AD8F6054641D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF27A88-AF18-4F5A-B66A-AD8F6054641D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF27A88-AF18-4F5A-B66A-AD8F6054641D}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5419DB6-D4B2-451A-8473-5B8732971749}
+	EndGlobalSection
+EndGlobal

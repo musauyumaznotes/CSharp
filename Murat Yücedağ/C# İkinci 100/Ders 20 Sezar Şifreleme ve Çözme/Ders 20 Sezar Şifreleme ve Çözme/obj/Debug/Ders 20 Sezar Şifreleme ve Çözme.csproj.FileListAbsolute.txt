@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\bin\Debug\Ders 20 Sezar Şifreleme ve Çözme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\bin\Debug\Ders 20 Sezar Şifreleme ve Çözme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\bin\Debug\Ders 20 Sezar Şifreleme ve Çözme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders 20 Sezar Şifreleme ve Çözme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders_20_Sezar_Şifreleme_ve_Çözme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders_20_Sezar_Şifreleme_ve_Çözme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders 20 Sezar Şifreleme ve Çözme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders 20 Sezar Şifreleme ve Çözme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders 20 Sezar Şifreleme ve Çözme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 20 Sezar Şifreleme ve Çözme\Ders 20 Sezar Şifreleme ve Çözme\obj\Debug\Ders 20 Sezar Şifreleme ve Çözme.pdb

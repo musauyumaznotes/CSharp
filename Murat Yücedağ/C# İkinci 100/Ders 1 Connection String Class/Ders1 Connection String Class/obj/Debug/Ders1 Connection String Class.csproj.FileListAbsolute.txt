@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\bin\Debug\Ders1 Connection String Class.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\bin\Debug\Ders1 Connection String Class.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\bin\Debug\Ders1 Connection String Class.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1 Connection String Class.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1_Connection_String_Class.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1_Connection_String_Class.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1 Connection String Class.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1 Connection String Class.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1 Connection String Class.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders1 Connection String Class\Ders1 Connection String Class\obj\Debug\Ders1 Connection String Class.pdb

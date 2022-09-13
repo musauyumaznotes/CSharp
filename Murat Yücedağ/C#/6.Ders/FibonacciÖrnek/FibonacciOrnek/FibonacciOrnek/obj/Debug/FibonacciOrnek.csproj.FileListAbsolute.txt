@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\FibonacciÖrnek\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.pdb

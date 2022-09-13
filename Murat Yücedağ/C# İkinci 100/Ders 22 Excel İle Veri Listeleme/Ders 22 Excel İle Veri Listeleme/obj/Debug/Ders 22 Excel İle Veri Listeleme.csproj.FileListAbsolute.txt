@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\bin\Debug\Ders 22 Excel İle Veri Listeleme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\bin\Debug\Ders 22 Excel İle Veri Listeleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\bin\Debug\Ders 22 Excel İle Veri Listeleme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders 22 Excel İle Veri Listeleme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders_22_Excel_İle_Veri_Listeleme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders_22_Excel_İle_Veri_Listeleme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders 22 Excel İle Veri Listeleme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders 22 Excel İle Veri Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders 22 Excel İle Veri Listeleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 22 Excel İle Veri Listeleme\Ders 22 Excel İle Veri Listeleme\obj\Debug\Ders 22 Excel İle Veri Listeleme.pdb

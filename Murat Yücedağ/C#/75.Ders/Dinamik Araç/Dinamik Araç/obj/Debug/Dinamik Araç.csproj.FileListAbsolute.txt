@@ -1,0 +1,41 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\Dinamik Araç.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\Dinamik Araç.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\Dinamik Araç.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik Araç.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik_Araç.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik_Araç.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik Araç.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik Araç.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik Araç.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik Araç.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik_Araç.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik Araç.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç\obj\Debug\Dinamik_Araç.Form3.resources

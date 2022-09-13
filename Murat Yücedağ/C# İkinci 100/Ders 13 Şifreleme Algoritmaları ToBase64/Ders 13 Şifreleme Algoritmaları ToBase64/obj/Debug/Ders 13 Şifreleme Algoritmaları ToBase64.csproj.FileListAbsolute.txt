@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\bin\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\bin\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\bin\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders_13_Şifreleme_Algoritmaları_ToBase64.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders_13_Şifreleme_Algoritmaları_ToBase64.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64\obj\Debug\Ders 13 Şifreleme Algoritmaları ToBase64.pdb

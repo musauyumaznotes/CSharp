@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\bin\Debug\Sag Tus Menüsü.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\bin\Debug\Sag Tus Menüsü.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\bin\Debug\Sag Tus Menüsü.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag Tus Menüsü.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag_Tus_Menüsü.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag_Tus_Menüsü.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag Tus Menüsü.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag Tus Menüsü.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag Tus Menüsü.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Sag Tus Menüsü\obj\Debug\Sag Tus Menüsü.pdb

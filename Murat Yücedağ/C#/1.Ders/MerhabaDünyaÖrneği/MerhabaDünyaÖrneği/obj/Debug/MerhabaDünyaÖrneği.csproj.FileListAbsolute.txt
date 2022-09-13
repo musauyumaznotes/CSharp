@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\bin\Debug\MerhabaDünyaÖrneği.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\bin\Debug\MerhabaDünyaÖrneği.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\bin\Debug\MerhabaDünyaÖrneği.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\MerhabaDünyaÖrneği\MerhabaDünyaÖrneği\obj\Debug\MerhabaDünyaÖrneği.pdb

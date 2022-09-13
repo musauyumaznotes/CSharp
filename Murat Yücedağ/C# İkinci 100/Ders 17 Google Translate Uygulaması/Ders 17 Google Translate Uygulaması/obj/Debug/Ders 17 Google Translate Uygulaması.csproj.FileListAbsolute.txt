@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\bin\Debug\Ders 17 Google Translate Uygulaması.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\bin\Debug\Ders 17 Google Translate Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\bin\Debug\Ders 17 Google Translate Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders 17 Google Translate Uygulaması.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders_17_Google_Translate_Uygulaması.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders_17_Google_Translate_Uygulaması.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders 17 Google Translate Uygulaması.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders 17 Google Translate Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders 17 Google Translate Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 17 Google Translate Uygulaması\Ders 17 Google Translate Uygulaması\obj\Debug\Ders 17 Google Translate Uygulaması.pdb

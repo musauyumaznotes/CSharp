@@ -1,0 +1,14 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\Ders 31 Entity Framework Listeleme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\Ders 31 Entity Framework Listeleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\Ders 31 Entity Framework Listeleme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\EntityFramework.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\EntityFramework.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders 31 Entity Framework Listeleme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders_31_Entity_Framework_Listeleme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders_31_Entity_Framework_Listeleme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders 31 Entity Framework Listeleme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders 31 Entity Framework Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders 31 Entity Framework Listeleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme\obj\Debug\Ders 31 Entity Framework Listeleme.pdb

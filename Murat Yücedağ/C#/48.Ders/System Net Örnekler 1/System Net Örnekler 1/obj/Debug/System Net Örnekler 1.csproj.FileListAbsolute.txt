@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\bin\Debug\System Net Örnekler 1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\bin\Debug\System Net Örnekler 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\bin\Debug\System Net Örnekler 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System Net Örnekler 1.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System_Net_Örnekler_1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System_Net_Örnekler_1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System Net Örnekler 1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System Net Örnekler 1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System Net Örnekler 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System Net Örnekler 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\48.Ders\System Net Örnekler 1\System Net Örnekler 1\obj\Debug\System_Net_Örnekler_1.Form2.resources

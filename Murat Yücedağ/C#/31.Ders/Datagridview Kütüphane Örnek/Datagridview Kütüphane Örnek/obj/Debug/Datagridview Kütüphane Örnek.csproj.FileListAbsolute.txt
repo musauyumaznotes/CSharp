@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\bin\Debug\Datagridview Kütüphane Örnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\bin\Debug\Datagridview Kütüphane Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\bin\Debug\Datagridview Kütüphane Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview Kütüphane Örnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview_Kütüphane_Örnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview_Kütüphane_Örnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview Kütüphane Örnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview Kütüphane Örnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview Kütüphane Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\31.Ders\Datagridview Kütüphane Örnek\Datagridview Kütüphane Örnek\obj\Debug\Datagridview Kütüphane Örnek.pdb

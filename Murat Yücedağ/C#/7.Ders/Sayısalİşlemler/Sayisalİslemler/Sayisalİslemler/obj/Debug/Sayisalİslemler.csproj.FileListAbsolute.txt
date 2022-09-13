@@ -1,0 +1,12 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\bin\Debug\Sayisalİslemler.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\bin\Debug\Sayisalİslemler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\bin\Debug\Sayisalİslemler.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.ModAlma.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\Sayisalİslemler\Sayisalİslemler\obj\Debug\Sayisalİslemler.SaatDakikaMod.resources

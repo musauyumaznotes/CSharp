@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\bin\Debug\Ders7 Struct Kullanımı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\bin\Debug\Ders7 Struct Kullanımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\bin\Debug\Ders7 Struct Kullanımı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7 Struct Kullanımı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7_Struct_Kullanımı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7_Struct_Kullanımı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7 Struct Kullanımı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7 Struct Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7 Struct Kullanımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders7 Struct Kullanımı\Ders7 Struct Kullanımı\obj\Debug\Ders7 Struct Kullanımı.pdb

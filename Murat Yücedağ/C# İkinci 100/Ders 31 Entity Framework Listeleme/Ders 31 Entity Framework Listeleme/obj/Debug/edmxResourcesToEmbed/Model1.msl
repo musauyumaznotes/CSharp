@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Personel2ModelStoreContainer" CdmEntityContainer="Personel2Entities">
+    <EntitySetMapping Name="Tbl_Personel">
+      <EntityTypeMapping TypeName="Personel2Model.Tbl_Personel">
+        <MappingFragment StoreEntitySet="Tbl_Personel">
+          <ScalarProperty Name="Perid" ColumnName="Perid" />
+          <ScalarProperty Name="PerAd" ColumnName="PerAd" />
+          <ScalarProperty Name="PerSoyad" ColumnName="PerSoyad" />
+          <ScalarProperty Name="PerSehir" ColumnName="PerSehir" />
+          <ScalarProperty Name="PerMaas" ColumnName="PerMaas" />
+          <ScalarProperty Name="PerDurum" ColumnName="PerDurum" />
+          <ScalarProperty Name="PerYas" ColumnName="PerYas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

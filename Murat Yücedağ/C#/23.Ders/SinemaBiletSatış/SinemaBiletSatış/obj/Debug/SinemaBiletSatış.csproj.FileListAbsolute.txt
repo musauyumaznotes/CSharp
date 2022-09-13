@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\SinemaBiletSatış.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\SinemaBiletSatış.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\SinemaBiletSatış.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\23.Ders\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\bin\Debug\MüzikÇalar.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\bin\Debug\MüzikÇalar.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\bin\Debug\MüzikÇalar.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\40.Ders\MüzikÇalar\MüzikÇalar\obj\Debug\MüzikÇalar.pdb

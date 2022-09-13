@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\1.Ders\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.pdb

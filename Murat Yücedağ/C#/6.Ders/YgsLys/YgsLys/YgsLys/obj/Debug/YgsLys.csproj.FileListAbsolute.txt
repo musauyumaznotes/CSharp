@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\bin\Debug\YgsLys.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\bin\Debug\YgsLys.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\bin\Debug\YgsLys.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\6.Ders\YgsLys\YgsLys\YgsLys\obj\Debug\YgsLys.pdb

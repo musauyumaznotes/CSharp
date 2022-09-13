@@ -1,0 +1,20 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\AForge.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\AForge.Video.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\AForge.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\AForge.Video.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders_71_Aforge_Kütüphanesi_İle_Web_Cam_Kontrolü.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders_71_Aforge_Kütüphanesi_İle_Web_Cam_Kontrolü.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\obj\Debug\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\zxing.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\zxing.presentation.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\zxing.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\Ders 71 Aforge Kütüphanesi İle Web Cam Kontrolü\bin\Debug\zxing.presentation.xml

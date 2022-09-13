@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 67 Xander UI Framework", "Ders 67 Xander UI Framework\Ders 67 Xander UI Framework.csproj", "{F4C803CA-598D-4EC5-B71F-5545CA6A12A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C803CA-598D-4EC5-B71F-5545CA6A12A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C803CA-598D-4EC5-B71F-5545CA6A12A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C803CA-598D-4EC5-B71F-5545CA6A12A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C803CA-598D-4EC5-B71F-5545CA6A12A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE6E260-5896-4286-AD98-21FB236B297A}
+	EndGlobalSection
+EndGlobal

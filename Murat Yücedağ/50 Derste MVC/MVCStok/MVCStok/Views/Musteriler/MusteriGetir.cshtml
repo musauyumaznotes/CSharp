@@ -1,0 +1,23 @@
+﻿@model MVCStok.Models.Entity.Musteriler
+@{
+    ViewBag.Title = "MusteriGetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle", "Musteriler", FormMethod.Post))
+{
+<div class="form-group">
+    @Html.LabelFor(m => m.Id)
+    @Html.TextBoxFor(m => m.Id, new { @class = "form-control"})
+    <br />
+    @Html.LabelFor(m => m.Ad)
+    @Html.TextBoxFor(m => m.Ad, new { @class = "form-control"})
+    <br />
+    @Html.LabelFor(m => m.Soyad)
+    @Html.TextBoxFor(m => m.Soyad, new { @class = "form-control"})
+    <br />
+</div>
+<div>
+    <button class="btn btn-warning">Müşteri Güncelle</button>
+</div>
+}

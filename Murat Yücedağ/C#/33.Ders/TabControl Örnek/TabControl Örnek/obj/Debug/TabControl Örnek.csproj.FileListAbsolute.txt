@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\bin\Debug\TabControl Örnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\bin\Debug\TabControl Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\bin\Debug\TabControl Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl Örnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl_Örnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl_Örnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl Örnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl Örnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\33.Ders\TabControl Örnek\TabControl Örnek\obj\Debug\TabControl Örnek.pdb

@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\3.Ders\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.pdb

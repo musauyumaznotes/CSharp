@@ -1,0 +1,17 @@
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\Yaz Okulu Projesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

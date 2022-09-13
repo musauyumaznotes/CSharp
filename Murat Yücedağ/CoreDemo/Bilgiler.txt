@@ -1,0 +1,8 @@
+=> Lazy Loading
+sayfada yer alan bir ögenin ihtiyaç duyulmadığı takdirde çağrılmaması prensibi ile çalışır yani bir nesne örneğinin gerçekten ihtiyaç duyulacağı ana kadar alınmaması ve bekletilmesi amacıyla kullanılır. Bu yöntemde veriler sorguya bağlı olarak çekilir ve veri setinin içindeki tüm dataları yüklemek yerine kullanılacağı an tekrar sorgu atar ve veriyi çeker.
+
+ => Eager Loading
+Lazy Loading’in tam tersi yönde çalışır. Kullanacağımız nesneleri, nesnenin ihtiyaç anından çok önce yaratır ve bekletir. Eager loading Linq sorgusu çalıştırıldığında verilerin tamamını yükler ve hafızaya alır.
+
+=>ViewComponent
+MVC’nin önceki sürümlerinde birden fazla alanda kullanmak istediğimiz bileşenleri genellikle Partial View olarak tasarlar ve [ChildActionOnly] attribute ile birlikte tek başlarına çağrılmalarını engellerdik. Bu yapı bizim için büyük kolaylık sağlardı. Asp.Net Core ile birlikte [ChildActionOnly] attribute kullanımı kaldırılmış ve yeni ViewComponent yapısı geliştirilmiştir. ViewComponentler dışarıdan Http istek ile doğrudan ulaşılamazlar. Ve view components'lar partial view'e  çok benzer, ancak partial view'e kıyasla çok daha güçlüdür. view components'lar model bağlama kullanmaz. Ancak, yalnızca onu çağırdığımızda sağlanan verilerle çalışır. partial view  gibi, view componentsi de controller'lara bağlı değildir. Bileşenin modelini ve ustura biçimlendirme görünüm sayfasını geliştirmek için mantığı uygulamak için kendi sınıfına sahiptir. En önemli şey, View Components'ın bağımlılık enjeksiyonunu kullanabilmesidir, bu da onları çok güçlü ve test edilebilir kılar.

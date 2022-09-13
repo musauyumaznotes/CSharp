@@ -1,0 +1,7 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\bin\Debug\Ders 79 Single Responsibility Principle1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\bin\Debug\Ders 79 Single Responsibility Principle1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\bin\Debug\Ders 79 Single Responsibility Principle1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\obj\Debug\Ders 79 Single Responsibility Principle1.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\obj\Debug\Ders 79 Single Responsibility Principle1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\obj\Debug\Ders 79 Single Responsibility Principle1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 79 Single Responsibility Principle1\Ders 79 Single Responsibility Principle1\obj\Debug\Ders 79 Single Responsibility Principle1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders12 Reportviewer Kullanımı", "Ders12 Reportviewer Kullanımı\Ders12 Reportviewer Kullanımı.csproj", "{8AAE640C-06C1-4F3D-9F64-1676B381CF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAE640C-06C1-4F3D-9F64-1676B381CF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAE640C-06C1-4F3D-9F64-1676B381CF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAE640C-06C1-4F3D-9F64-1676B381CF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAE640C-06C1-4F3D-9F64-1676B381CF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CB3B49-9F39-44ED-882B-0EB6EFFAAF27}
+	EndGlobalSection
+EndGlobal

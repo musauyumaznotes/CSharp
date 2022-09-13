@@ -1,0 +1,48 @@
+﻿@using MVCStok.Models.Entity;
+@model List<Musteriler>
+@{
+    ViewBag.Title = "MusteriListesi";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("MusteriListesi", "Musteriler", FormMethod.Get))
+{
+    <p>
+        <b>Aranacak Müşteri:</b> @Html.TextBox("p");
+        <input type="submit" value="Ara" />
+
+    </p>
+
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Müşteri Id</th>
+        <th>Müşteri Ad</th>
+        <th>Müşteri Soyad</th>
+        <th>Durum</th>
+        <th>Oluşturulma Tarihi</th>
+        <th></th>
+        <th></th>
+        <th>ALERT</th>
+
+
+    </tr>
+    <tbody>
+        @foreach (var musteri in Model)
+        {
+            <tr>
+                <th>@musteri.Id</th>
+                <td>@musteri.Ad</td>
+                <td>@musteri.Soyad</td>
+                <td>@musteri.IsActive</td>
+                <td>@musteri.CreatedAt</td>
+                <td><a href="/Musteriler/Sil/@musteri.Id" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Musteriler/MusteriGetir/@musteri.Id" class="btn btn-warning">Güncelle</a></td>
+                <td>@Html.ActionLink("Sil Butonu", "Sil", new { musteri.Id }, new { @class = "btn btn-warning", onclick = "return confirm('Gerçekten Silmek İstiyor Musunuz?')" })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Musteriler/YeniMusteri/" class="btn btn-primary">Yeni Ekle</a>
+

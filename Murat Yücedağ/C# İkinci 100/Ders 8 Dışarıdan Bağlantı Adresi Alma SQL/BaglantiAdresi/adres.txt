@@ -1,0 +1,1 @@
+Data Source=localhost;Initial Catalog=ogrenciler;Integrated Security=True

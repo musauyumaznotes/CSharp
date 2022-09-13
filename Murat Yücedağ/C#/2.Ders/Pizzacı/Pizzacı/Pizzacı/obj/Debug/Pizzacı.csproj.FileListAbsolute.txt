@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\bin\Debug\Pizzacı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\Pizzacı\Pizzacı\Pizzacı\obj\Debug\Pizzacı.pdb

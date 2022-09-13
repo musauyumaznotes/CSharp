@@ -1,0 +1,24 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\Ders 54 QR Code Çözme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\Ders 54 QR Code Çözme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\Ders 54 QR Code Çözme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders_54_QR_Code_Çözme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders_54_QR_Code_Çözme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\Ders 54 QR Code Çözme.exe.config
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\Ders 54 QR Code Çözme.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\Ders 54 QR Code Çözme.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.AssemblyReference.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.SuggestedBindingRedirects.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders_54_QR_Code_Çözme.Form1.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders_54_QR_Code_Çözme.Properties.Resources.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.GenerateResource.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.csproj.CoreCompileInputs.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 54 QR Code Çözme\Ders 54 QR Code Çözme\obj\Debug\Ders 54 QR Code Çözme.pdb

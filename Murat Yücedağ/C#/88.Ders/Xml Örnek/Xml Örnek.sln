@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml Örnek", "Xml Örnek\Xml Örnek.csproj", "{D1196C23-7BA9-4690-A487-C5D226F36A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1196C23-7BA9-4690-A487-C5D226F36A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1196C23-7BA9-4690-A487-C5D226F36A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1196C23-7BA9-4690-A487-C5D226F36A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1196C23-7BA9-4690-A487-C5D226F36A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A000DFF-A5FB-4383-A4F9-90D455D65676}
+	EndGlobalSection
+EndGlobal

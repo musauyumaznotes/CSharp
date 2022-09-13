@@ -1,0 +1,116 @@
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress Ders 7  RibbonControl Kullanımı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress Ders 7  RibbonControl Kullanımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress Ders 7  RibbonControl Kullanımı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.FrmOgrenciler.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.exe.licenses
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress Ders 7  RibbonControl Kullanımı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.FrmProg.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraGauges.v21.1.Win.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraGauges.v21.1.Win.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Map.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraMap.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.Map.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\DevExpress.XtraMap.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\de\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\es\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ja\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\bin\Debug\ru\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.FrmHarita.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.SplashScreen1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Devexpress ve Araçları\DevExpress Ders 7  RibbonControl Kullanımı\DevExpress Ders 7  RibbonControl Kullanımı\obj\Debug\DevExpress_Ders_7__RibbonControl_Kullanımı.WaitForm1.resources

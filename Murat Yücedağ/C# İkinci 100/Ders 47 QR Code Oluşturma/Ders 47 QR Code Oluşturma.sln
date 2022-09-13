@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 47 QR Code Oluşturma", "Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma.csproj", "{B196CA68-D126-4A03-B9A7-37D0631EAD05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B196CA68-D126-4A03-B9A7-37D0631EAD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B196CA68-D126-4A03-B9A7-37D0631EAD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B196CA68-D126-4A03-B9A7-37D0631EAD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B196CA68-D126-4A03-B9A7-37D0631EAD05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A0B0CA-F4E0-4140-A0D0-FE74FBF6D44F}
+	EndGlobalSection
+EndGlobal

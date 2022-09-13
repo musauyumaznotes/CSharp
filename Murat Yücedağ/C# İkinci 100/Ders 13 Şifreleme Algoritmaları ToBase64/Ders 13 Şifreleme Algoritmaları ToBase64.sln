@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 13 Şifreleme Algoritmaları ToBase64", "Ders 13 Şifreleme Algoritmaları ToBase64\Ders 13 Şifreleme Algoritmaları ToBase64.csproj", "{8060E955-8778-45CB-A89E-95F14315CCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8060E955-8778-45CB-A89E-95F14315CCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8060E955-8778-45CB-A89E-95F14315CCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8060E955-8778-45CB-A89E-95F14315CCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8060E955-8778-45CB-A89E-95F14315CCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91362D55-B4B7-45B5-92FF-4E54C2B4473A}
+	EndGlobalSection
+EndGlobal

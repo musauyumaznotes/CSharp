@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\bin\Debug\Karakter Doğrulama.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\bin\Debug\Karakter Doğrulama.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\bin\Debug\Karakter Doğrulama.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter Doğrulama.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter_Doğrulama.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter_Doğrulama.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter Doğrulama.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter Doğrulama.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter Doğrulama.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\93.Ders\Karakter Doğrulama\Karakter Doğrulama\obj\Debug\Karakter Doğrulama.pdb

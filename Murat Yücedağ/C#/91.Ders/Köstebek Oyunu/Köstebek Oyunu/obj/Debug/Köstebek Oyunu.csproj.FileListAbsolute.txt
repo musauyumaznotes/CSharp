@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\bin\Debug\Köstebek Oyunu.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\bin\Debug\Köstebek Oyunu.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\bin\Debug\Köstebek Oyunu.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek_Oyunu.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek_Oyunu.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\91.Ders\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.pdb

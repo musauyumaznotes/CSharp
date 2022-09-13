@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.FrmKayitForm.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\38.Ders\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.FrmAdmin.resources

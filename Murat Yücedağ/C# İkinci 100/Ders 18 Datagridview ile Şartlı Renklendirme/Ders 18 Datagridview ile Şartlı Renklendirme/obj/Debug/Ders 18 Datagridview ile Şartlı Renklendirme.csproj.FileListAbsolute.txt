@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\bin\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\bin\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\bin\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders_18_Datagridview_ile_Şartlı_Renklendirme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders_18_Datagridview_ile_Şartlı_Renklendirme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 18 Datagridview ile Şartlı Renklendirme\Ders 18 Datagridview ile Şartlı Renklendirme\obj\Debug\Ders 18 Datagridview ile Şartlı Renklendirme.pdb

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\bin\Debug\Datagridview Ekleme-Silme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\bin\Debug\Datagridview Ekleme-Silme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\bin\Debug\Datagridview Ekleme-Silme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview Ekleme-Silme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview_Ekleme_Silme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview_Ekleme_Silme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview Ekleme-Silme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview Ekleme-Silme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview Ekleme-Silme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\30.Ders\Datagridview Ekleme-Silme\Datagridview Ekleme-Silme\obj\Debug\Datagridview Ekleme-Silme.pdb

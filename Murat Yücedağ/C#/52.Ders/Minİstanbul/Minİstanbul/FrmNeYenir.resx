@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Yemek kültürü İstanbul kadar zengin ve renkli çok az şehir vardır. Çünkü Türkiye'nin bin bir lezzetinin en iyi temsilcileri İstanbul'da toplanmıştır. Amerikan yemek dergisi Eater da dünyanın dört bir yanındaki lezzet tutkunları için İstanbul'da yiyebilecekleri en muhteşem lezzetleri listeledi. Hurriyet.com.tr yazarı Tuba Şatana'nın imzasını taşıyan listede ne yok ki? İşte her damak zevkini tatmin edebilecek İstanbul lezzetleri...
+Amanda Bravo Gastronomique
+Reşitpaşa'da bulunan Amanda Bravo, basit ama enfes yemekleri ve atmosferiyle kolayca müdavimi olunabilecek bir mekân. Zeytinyağlı ayvalı kereviz, fırında boyun ve rezene salatası eşliğinde palamut, Amanda Bravo'nun öne çıkan lezzetlerinden birkaçı.
+Tatbak'ta lahmacun
+1960'lardan bu yana Nişantaşı kurumu haline gelen Tatbak'ın lahmacunu, şehirdeki yüzlercesinden çıtır hamur ve üzerindeki et dengesiyle ayrılıyor. Lahmacundan sonra kuzu şiş veya yoğurtlu kebap da alabilirsiniz.
+Adana Ocakbaşı'da kebap
+Kurtuluş'ta bir ara sokakta bulunan bu küçük ve salaş mekân, bir zamanlar çok az kişinin bildiği bir yerdi. Ama ünü çok hızlı yayıldı. Özellikle sumaklı soğan ve lavaşla servis edilen Adana kebabı çok meşhur. Ayrıca ciğer şişini ve ilkbahar gelince uykuluğunu da mutlaka tatmalısınız.
+Damla Dondurma'da dondurma
+Feriköy'deki bu eski usul dondurmacının kimileri çileklisini, kimileri limonlusunu, kimileri de karamellisini öneriyor. Tufan Kardeşler'in 1989'da kurduğu mekânın önünde, çocukluklarından kalma lezzetlerin peşinde koşan dondurma meraklıları, özellikle yaz aylarında kuyruk oluyor.
+Karadeniz Pide ve Döner Salonu
+İstanbul'da döner deyince akla Beşiktaş'ın çarşısında bulunan Karadeniz Pide ve Döner Salonu gelir. Kendi yaptıkları dönerli pidelerini tadabileceğiniz gibi ekmek arası ya da dürüm de alabilirsiniz. Sabah 10.30'da asılan dev döner, öğleden sonraya kalmıyor. Sıra beklediğinize değecek...
+Lades'te menemen
+Beyoğlu'nun en popüler mekânlarından Lades'e gün boyunca hangi saatte giderseniz gidin, tavuklu, peynirli, sucuklu ya da sade menemen yiyebilirsiniz. Masanın üzerindeki yığın yığın ekmekler, insana çatalı kaşığı unutturuyor.
+Üç Yıldız Şekerleme'de sakızlı lokum
+Beyoğlu Balık Pazarı'nda bulunan nostaljik Üç Yıldız Şekerleme, akide şekeriyle, lokumuyla ve tahin helvasıyla 1926'dan beri gözde. Güllü, ayvalı, çilekli, incirli, portakallı ve vişneli lokum da bulabilirsiniz.
+Sabırtaşı'nda içli köfte
+Beyoğlu'nun bir başka meşhur sokak lezzeti de, Sabırtaşı'nın içli köftesi. Dışı çıtır çıtır, içi yumuşacık. Yalnız yoldan dönmemek için iki tane almanızı tavsiye ediyoruz, çünkü bir tanesi asla yetmiyor.</value>
+  </data>
+</root>

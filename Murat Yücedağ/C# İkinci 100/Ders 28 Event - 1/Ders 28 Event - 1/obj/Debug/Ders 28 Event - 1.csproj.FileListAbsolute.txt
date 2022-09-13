@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\bin\Debug\Ders 28 Event - 1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\bin\Debug\Ders 28 Event - 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\bin\Debug\Ders 28 Event - 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\obj\Debug\Ders_28_Event___1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\obj\Debug\Ders_28_Event___1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\obj\Debug\Ders 28 Event - 1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\obj\Debug\Ders 28 Event - 1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\obj\Debug\Ders 28 Event - 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 28 Event - 1\Ders 28 Event - 1\obj\Debug\Ders 28 Event - 1.pdb

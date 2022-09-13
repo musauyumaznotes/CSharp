@@ -1,0 +1,11 @@
+﻿<div class="content-form">
+    <h3>Bir Yorum Yapın</h3>
+    <form method="post">
+        <input type="hidden"  name="BlogId" required value="@ViewBag.deger" />
+        <input type="text" placeholder="Ad Soyad" name="AdSoyad" required />
+        <input type="text" placeholder="Email" name="Mail" required />
+        <textarea placeholder="Yorum" name="Icerik"></textarea>
+        <input type="submit" name="gonderButonu" value="Gonder" />
+    </form>
+
+</div>

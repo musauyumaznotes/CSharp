@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\bin\Debug\Psikolojik Analiz.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\bin\Debug\Psikolojik Analiz.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\bin\Debug\Psikolojik Analiz.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik Analiz.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik_Analiz.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik_Analiz.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik Analiz.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik Analiz.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik Analiz.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik Analiz.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\24.Ders\Psikolojik Analiz\Psikolojik Analiz\obj\Debug\Psikolojik Analiz.csproj.ResolveComReference.cache

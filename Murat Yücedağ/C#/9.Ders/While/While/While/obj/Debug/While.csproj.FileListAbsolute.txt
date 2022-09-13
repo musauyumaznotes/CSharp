@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\bin\Debug\While.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\bin\Debug\While.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\bin\Debug\While.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\obj\Debug\While.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\obj\Debug\While.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\obj\Debug\While.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\obj\Debug\While.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\While\While\While\obj\Debug\While.pdb

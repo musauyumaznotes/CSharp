@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 31 Entity Framework Listeleme", "Ders 31 Entity Framework Listeleme\Ders 31 Entity Framework Listeleme.csproj", "{1079B5F7-E79D-4E8E-A191-74DF976CD9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1079B5F7-E79D-4E8E-A191-74DF976CD9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1079B5F7-E79D-4E8E-A191-74DF976CD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1079B5F7-E79D-4E8E-A191-74DF976CD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1079B5F7-E79D-4E8E-A191-74DF976CD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2F6231-8B6F-4BAE-A599-CBBF8C061028}
+	EndGlobalSection
+EndGlobal

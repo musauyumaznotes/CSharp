@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\bin\Debug\Grafik İşlemleri 2.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\bin\Debug\Grafik İşlemleri 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\bin\Debug\Grafik İşlemleri 2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik_İşlemleri_2.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik_İşlemleri_2.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik İşlemleri 2.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik İşlemleri 2.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik İşlemleri 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik İşlemleri 2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik İşlemleri 2\obj\Debug\Grafik İşlemleri 2.csproj.AssemblyReference.cache

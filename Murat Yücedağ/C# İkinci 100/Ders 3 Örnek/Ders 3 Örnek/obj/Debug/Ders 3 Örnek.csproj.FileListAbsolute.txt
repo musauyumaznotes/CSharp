@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\bin\Debug\Ders 3 Örnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\bin\Debug\Ders 3 Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\bin\Debug\Ders 3 Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders 3 Örnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders_3_Örnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders_3_Örnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders 3 Örnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders 3 Örnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders 3 Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 3 Örnek\Ders 3 Örnek\obj\Debug\Ders 3 Örnek.pdb

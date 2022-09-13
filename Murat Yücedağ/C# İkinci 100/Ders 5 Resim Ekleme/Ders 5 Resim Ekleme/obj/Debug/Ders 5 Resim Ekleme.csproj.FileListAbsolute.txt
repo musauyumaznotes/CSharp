@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\bin\Debug\Ders 5 Resim Ekleme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\bin\Debug\Ders 5 Resim Ekleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\bin\Debug\Ders 5 Resim Ekleme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders_5_Resim_Ekleme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders_5_Resim_Ekleme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders 5 Resim Ekleme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders 5 Resim Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders 5 Resim Ekleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders 5 Resim Ekleme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 5 Resim Ekleme\Ders 5 Resim Ekleme\obj\Debug\Ders 5 Resim Ekleme.csproj.AssemblyReference.cache

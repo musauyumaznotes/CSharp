@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\bin\Debug\Ders 15 İlişkili Tablolar.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\bin\Debug\Ders 15 İlişkili Tablolar.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\bin\Debug\Ders 15 İlişkili Tablolar.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders 15 İlişkili Tablolar.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders_15_İlişkili_Tablolar.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders_15_İlişkili_Tablolar.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders 15 İlişkili Tablolar.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders 15 İlişkili Tablolar.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders 15 İlişkili Tablolar.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 15 İlişkili Tablolar\Ders 15 İlişkili Tablolar\obj\Debug\Ders 15 İlişkili Tablolar.pdb

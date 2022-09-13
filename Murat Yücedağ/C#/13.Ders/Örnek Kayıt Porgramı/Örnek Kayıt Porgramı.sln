@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Örnek Kayıt Porgramı", "Örnek Kayıt Porgramı\Örnek Kayıt Porgramı.csproj", "{5BFA65F8-650A-41F8-BB4E-85940B6D72B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFA65F8-650A-41F8-BB4E-85940B6D72B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFA65F8-650A-41F8-BB4E-85940B6D72B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFA65F8-650A-41F8-BB4E-85940B6D72B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFA65F8-650A-41F8-BB4E-85940B6D72B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0E5710-3E17-4577-8F59-8056C1F4A47D}
+	EndGlobalSection
+EndGlobal

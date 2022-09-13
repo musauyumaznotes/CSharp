@@ -1,0 +1,65 @@
+﻿@model TravelTripProje.Models.Sınıflar.BlogYorum
+
+@{
+    ViewBag.Title = "BlogDetay";
+    Layout = "~/Views/Shared/_TravelLayout.cshtml";
+}
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <link href="~/web2/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="~/web2/css/style.css" rel='stylesheet' type='text/css' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Personal Blog Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!----webfonts---->
+    <link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+    <!----//webfonts---->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="single">
+        <div class="container">
+
+            <div class="single-grid">
+                @foreach (var x in Model.Blog)
+                {
+                    <img src="@x.BlogImage" alt="" />
+                    <br /><br />
+                    <h2>@x.Baslik</h2>
+                    <br /><br />
+                    <p>
+                        @x.Aciklama
+                    </p>
+                }
+            </div>
+            @foreach (var y in Model.Yorum)
+            {
+                <ul class="comment-list">
+                    <li>
+                        <div class="desc">
+                            <img src="~/web2/images/avatar.png"  alt="" height="50" width="50">
+                            <p>@y.AdSoyad : @y.Icerik</p>
+                        </div>
+                    </li>
+                </ul>
+            }
+           @Html.Action("YorumYap","Blog")
+
+        </div>
+    </div>
+</body>
+</html>
+
+

@@ -1,0 +1,57 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\Back Ground Worker.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\Back Ground Worker.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\Back Ground Worker.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back Ground Worker.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back_Ground_Worker.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back_Ground_Worker.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back Ground Worker.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back Ground Worker.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back Ground Worker.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back Ground Worker.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\78.Ders\Back Ground Worker\Back Ground Worker\obj\Debug\Back Ground Worker.pdb

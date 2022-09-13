@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\bin\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\bin\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\bin\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders_64_Sesli_Komut_İşlemleri___1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders_64_Sesli_Komut_İşlemleri___1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 64 Sesli Komut İşlemleri ~ 1\Ders 64 Sesli Komut İşlemleri ~ 1\obj\Debug\Ders 64 Sesli Komut İşlemleri ~ 1.pdb

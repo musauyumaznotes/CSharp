@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\bin\Debug\Metin Belgesi İşlemleri.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\bin\Debug\Metin Belgesi İşlemleri.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\bin\Debug\Metin Belgesi İşlemleri.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin Belgesi İşlemleri.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin_Belgesi_İşlemleri.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin_Belgesi_İşlemleri.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin Belgesi İşlemleri.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin Belgesi İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin Belgesi İşlemleri.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\41.Ders\Metin Belgesi İşlemleri\Metin Belgesi İşlemleri\obj\Debug\Metin Belgesi İşlemleri.pdb

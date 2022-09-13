@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\bin\Debug\Ülkeler ve Başkentleri.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\bin\Debug\Ülkeler ve Başkentleri.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\bin\Debug\Ülkeler ve Başkentleri.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler ve Başkentleri.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler_ve_Başkentleri.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler_ve_Başkentleri.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler ve Başkentleri.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler ve Başkentleri.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler ve Başkentleri.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler ve Başkentleri.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\43.Ders\Ülkeler ve Başkentleri\Ülkeler ve Başkentleri\obj\Debug\Ülkeler ve Başkentleri.csproj.ResolveComReference.cache

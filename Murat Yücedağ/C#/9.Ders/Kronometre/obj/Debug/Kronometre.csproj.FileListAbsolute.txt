@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\bin\Debug\Kronometre.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\bin\Debug\Kronometre.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\bin\Debug\Kronometre.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\Kronometre\obj\Debug\Kronometre.csproj.AssemblyReference.cache

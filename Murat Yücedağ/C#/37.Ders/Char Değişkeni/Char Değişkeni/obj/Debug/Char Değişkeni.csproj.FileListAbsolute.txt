@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\bin\Debug\Char Değişkeni.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\bin\Debug\Char Değişkeni.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\bin\Debug\Char Değişkeni.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char Değişkeni.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char Değişkeni.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char Değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char Değişkeni.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char Değişkeni.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Form3.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Form4.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Form5.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\37.Ders\Char Değişkeni\Char Değişkeni\obj\Debug\Char_Değişkeni.Form6.resources

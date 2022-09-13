@@ -1,0 +1,8 @@
+Rich Site Summary(Zengin Site Özeti)
+RSS
+
+haber sağlayan sitelerin,blogların 
+ve podcastler gibi sürekli olarak güncellenen
+sitelerin güncellemelerinden geri kalmamanız 
+için kullanılan ve bazı site ve dosya formatları ile 
+çalışan bir döküman takip sistemidir 

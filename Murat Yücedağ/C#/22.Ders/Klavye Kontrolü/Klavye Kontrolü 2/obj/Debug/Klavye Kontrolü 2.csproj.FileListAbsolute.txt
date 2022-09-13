@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\bin\Debug\Klavye Kontrolü 2.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\bin\Debug\Klavye Kontrolü 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\bin\Debug\Klavye Kontrolü 2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye Kontrolü 2.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye_Kontrolü_2.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye_Kontrolü_2.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye Kontrolü 2.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye Kontrolü 2.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye Kontrolü 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\22.Ders\Klavye Kontrolü\Klavye Kontrolü 2\obj\Debug\Klavye Kontrolü 2.pdb

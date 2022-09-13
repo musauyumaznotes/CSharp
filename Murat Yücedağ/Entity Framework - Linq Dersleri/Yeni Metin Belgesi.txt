@@ -1,0 +1,11 @@
+Entity Framework
+
+DbFirst
+CodeFirst
+ModelFirst
+
+Öğrenci
+Dersler
+Notlar
+
+Orm

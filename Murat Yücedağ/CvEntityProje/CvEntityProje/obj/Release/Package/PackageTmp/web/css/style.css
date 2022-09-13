@@ -1,0 +1,964 @@
+/*--Author: W3Layouts
+	Author URL: http://w3layouts.com
+	License: Creative Commons Attribution 3.0 Unported
+	License URL: http://creativecommons.org/licenses/by/3.0/
+ --*/
+html {
+  scroll-behavior: smooth;
+}
+body {
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+	background: #fff;
+}
+
+body a,
+.slider-info a {
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+	text-decoration: none;
+	outline: none;
+	cursor:pointer !important;
+}
+button,
+.btn {
+	cursor:pointer !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+p {
+    margin: 0;
+    color: #777;
+    font-size: 16px;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+body a:hover {
+	text-decoration: none;
+}
+
+body a:focus {
+	outline: none;
+	text-decoration: none;
+}
+/*-- bottom-to-top --*/
+.side_top {
+    padding: 2em 1em;
+}
+nav ul li {
+    padding: 0.5rem;
+}
+/*-- header --*/
+
+/* CSS Document */
+
+header {
+    position: relative;
+    z-index: 9;
+    width: 100%;
+}
+
+.toggle,
+[id^=drop] {
+    display: none;
+}
+
+/* Giving a background-color to the nav container. */
+
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+
+#logo a {
+    float: left;
+    display: initial;
+    margin: 0;
+    color: #fff;
+}
+
+#logo a span {
+    color: #fff;
+}
+nav.mnu {
+    text-align:center;
+}
+/* Since we'll have the "ul li" "float:left"
+ * we need to add a clear after the container. */
+
+nav:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Removing padding, margin and "list-style" from the "ul",
+ * and adding "position:reltive" */
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+
+/* Positioning the navigation items inline */
+
+nav ul li {
+    margin: 0px;
+    display: block;
+}
+
+/* Styling the links */
+
+nav a {
+    color: #ffffff;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    font-size: 17px;
+    opacity: 0.5;
+}
+
+
+nav ul li ul li:hover {
+    background: #f8f9fa;
+}
+
+/* Background color change on Hover */
+
+nav a:hover {
+    color: #fff;
+    opacity: 1;
+}
+
+.menu li.active a {
+    color: #fff;
+    opacity: 1;
+}
+
+/* Hide Dropdowns by Default
+ * and giving it a position of absolute */
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    /* has to be the same number as the "line-height" of "nav a" */
+    top: 30px;
+    background: #fff;
+    padding: 10px;
+}
+
+/* Display Dropdowns on Hover */
+
+nav ul li:hover > ul {
+    display: inherit;
+}
+
+/* Fisrt Tier Dropdown */
+
+nav ul ul li {
+    width: 170px;
+    float: none;
+    display: list-item;
+    position: relative;
+}
+
+nav ul ul li a {
+    color: #333;
+    padding: 5px 10px;
+    display: block;
+}
+
+/* Second, Third and more Tiers	
+ * We move the 2nd and 3rd etc tier dropdowns to the left
+ * by the amount of the width of the first tier.
+*/
+
+nav ul ul ul li {
+    position: relative;
+    top: -60px;
+    /* has to be the same number as the "width" of "nav ul ul li" */
+    left: 170px;
+}
+
+
+/* Change ' +' in order to change the Dropdown symbol */
+
+li > a:only-child:after {
+    content: '';
+}
+
+
+/* Media Queries
+--------------------------------------------- */
+
+@media all and (max-width: 768px) {
+
+    #logo {
+        display: block;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+
+    nav {
+        margin: 0;
+    }
+
+    /* Hide the navigation menu by default */
+    /* Also hide the  */
+    .toggle + a,
+    .menu {
+        display: none;
+    }
+
+    /* Stylinf the toggle lable */
+    .toggle {
+        display: block;
+        padding: 8px 20px;
+        font-size: 15px;
+        text-decoration: none;
+        border: none;
+        float: right;
+        background-color: #ffffff;
+        color: #333;
+        cursor: pointer;
+    }
+    .menu .toggle {
+        float: none;
+        text-align: center;
+        margin: auto;
+        width: 80%;
+        padding: 5px;
+        font-weight: normal;
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+
+    .toggle:hover {
+        color: #333;
+        background-color: #fff;
+    }
+
+    /* Display Dropdown when clicked on Parent Lable */
+    [id^=drop]:checked + ul {
+        display: block;
+        background: rgba(16, 16, 16, 0.85);
+        padding: 15px 0;
+        text-align: center;
+		width: 100%;
+    }
+
+    /* Change menu item's width to 100% */
+    nav ul li {
+        display: block;
+        width: 100%;
+        padding: 5px 0;
+    }
+
+    nav ul ul .toggle,
+    nav ul ul a {
+        padding: 0 40px;
+    }
+
+    nav ul ul ul a {
+        padding: 0 80px;
+    }
+
+    nav a:hover,
+    nav ul ul ul a {
+        background-color: transparent;
+    }
+
+    nav ul li ul li .toggle,
+    nav ul ul a,
+    nav ul ul ul a {
+        padding: 14px 20px;
+        color: #FFF;
+        font-size: 17px;
+    }
+
+
+    nav ul li ul li .toggle,
+    nav ul ul a {
+        background-color: #212121;
+    }
+
+    /* Hide Dropdowns by Default */
+    nav ul ul {
+        float: none;
+        position: static;
+        color: #ffffff;
+        /* has to be the same number as the "line-height" of "nav a" */
+    }
+
+    /* Hide menus on hover */
+    nav ul ul li:hover > ul,
+    nav ul li:hover > ul {
+        display: none;
+    }
+
+    /* Fisrt Tier Dropdown */
+    nav ul ul li {
+        display: block;
+        width: 100%;
+        padding: 0;
+    }
+
+    nav ul ul ul li {
+        position: static;
+        /* has to be the same number as the "width" of "nav ul ul li" */
+    }
+    nav ul ul li a {
+        color: #fff;
+        font-size: 0.85em;
+    }
+	 nav ul li {
+        display: inline-block;
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 330px) {
+
+   
+
+}
+.sidenav {
+	height: 100%;
+	width: 320px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	background: #4a9aca;
+	overflow-x: hidden;
+	padding-top: 20px;
+}
+
+.serv_link {
+    color: #000;
+    font-weight: 600;
+}
+.main {
+	margin-right: 320px;
+}
+
+@media screen and (max-height: 450px) {
+	.sidenav {
+		padding-top: 15px;
+	}
+
+}
+.sidenav img{
+    border-radius: 50%;
+	margin:0 auto;
+}
+h1.top_hd a {
+    font-size: 30px;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+h1.top_hd a:hover {
+    color: #ffffff;
+}
+p.top_hdp {
+    font-style: italic;
+    color: #d2f2e9;
+}
+.banner-text-w3ls {
+    background: url(../images/banner1.jpg) no-repeat bottom;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+  padding: 18vw 0;
+}
+.banner-text-w3ls h3 {
+    color: #fff;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+p.banp.mt-3 {
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: rgba(238, 238, 238, 0.61);
+    width: 61%;
+    font-weight: 400;
+}
+
+.agile-link-bnr {
+    padding: 10px 40px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 14px;
+    text-transform: uppercase;
+    background: none;
+    border: 1px solid #fff;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+	opacity:0.7;
+}
+.agile-link-bnr:hover {
+    border: 1px solid #fff;
+    background: none;
+    color: #fff;
+	opacity:1;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+section.services {
+    padding: 5em 12em;
+    text-align: left;
+    background: #fff;
+   border-top: solid 6px #f4f4f4;
+}
+ul.list-unstyled li {
+    width: 49%;
+    display: inline-block;
+    margin: 1em 0;
+}
+.services h6 {
+    font-size: 1.1em;
+    line-height: 2em;
+    letter-spacing: 0.075em;
+    color: #999;
+    font-weight: 400;
+}
+.services ul li span {
+    font-size: 16px;
+    color: #fff;
+}
+.services li span {
+    background:#4a9aca;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+}
+.news {
+    padding: 5em 12em;
+    background: #fff;
+   border-top: solid 6px #f4f4f4;
+}
+.news img{
+	border-radius:5px;
+}
+.newsgrid1 {
+    padding: 0;
+}
+.newsgrid2 {
+    padding: 2em 5em;
+    background: #1d89e4;
+}
+.gri2 {
+    background: #42a5f6;
+}
+.gri3 {
+    background:  #1564c0;
+}
+
+.news p {
+    color: #999;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.news h5 {
+    letter-spacing: 2px;
+    color: #777;
+    font-weight: 700;
+    line-height: 1.5em;
+    margin: 0;
+    font-size: 1.25em;
+    text-align: left;
+}
+.news_top1 {
+    padding: 2em;
+}
+.news-grids-left,.news-grids-middle{
+    border-bottom: solid 3px #f4f4f4;
+    margin-bottom: 2.25em;
+    padding-bottom: 2.25em;
+}
+.news_top {
+    box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+}
+.wthree-inner-sec.services-bg {
+    background: rgba(255, 255, 255, 0.12);
+}
+h2.w3_head, h3.w3_head {
+    font-weight: 700;
+    letter-spacing: 0.075em;
+    line-height: 1.35em;
+    color: #4a9aca;
+    font-size: 3em;
+}
+p.main_p {
+    font-size: 1.4em;
+    line-height: 1.8em;
+    letter-spacing: 0.075em;
+    color: #777;
+    font-weight: 300;
+}
+section.slide-wrapper {
+    padding: 5em 12em;
+    text-align: left;
+    background: #fff;
+}
+h4.main_hd {
+    color: #777;
+    font-size: 1.75em;
+    font-weight: 700;
+    letter-spacing: 0.075em;
+    line-height: 1.5em;
+}
+p.iner {
+    font-size: 1.1em;
+    line-height: 1.8em;
+    letter-spacing: 0.075em;
+    color: #999;
+    font-weight: 400;
+}
+/* contact */
+.wedo {
+    padding: 5em 12em 0;
+    border-top: solid 6px #f4f4f4;
+}
+.contact_grid_right input[type="text"], .contact_grid_right input[type="email"], .contact_grid_right textarea {
+    outline: none;
+    padding: 15px 15px;
+    font-size: 14px;
+    color: #777;
+    background: rgba(255, 255, 255, 0.75);
+    width: 100%;
+    letter-spacing: 1px;
+    border: solid 1px rgba(0, 0, 0, 0.15);
+    border-radius: 0.25em;
+    margin-top: 1em;
+}
+
+.contact_grid_right input[type="text"]:nth-child(2),
+.contact_grid_right input[type="email"] {
+    margin: 1em 0 0;
+}
+
+.contact_grid_right textarea {
+    min-height: 17em;
+    margin: 1em 0em;
+    resize: none;
+}
+
+.contact_grid_right button[type="submit"], .contact_grid_right button[type="reset"] {
+    outline: none;
+    padding: 16px 0;
+    font-size: 1em;
+    color: #fff;
+    background: #4a9aca;
+    width: 22%;
+    border: none;
+    letter-spacing: 1px;
+    border-radius: 0.25em;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+    font-weight: 700;
+    cursor: pointer;
+    opacity:0.8;
+}
+
+.contact_grid_right button[type="submit"]:hover,
+.contact_grid_right button[type="reset"]:hover {
+    opacity:1;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+
+.cpy-right {
+    padding: 3em 0;
+    margin: 3em 0 0;
+    border-top: 1px solid #dcdcdc;
+}
+.cpy-right p{
+	color:#999;
+}
+.cpy-right p a {
+    color: #43b3e0;
+}
+.cpy-right p a:hover{
+	color:#999;
+}
+#success-message {
+	opacity: 0;
+}
+
+.col-xs-12.col-sm-12.col-md-12.col-lg-12 {
+	padding: 0 20% 0 20%;
+}
+
+.form-title {
+	padding: 25px;
+	font-size: 30px;
+	font-weight: 300;
+}
+
+.form-group .form-control {
+	-webkit-box-shadow: none;
+	border-bottom: 1px;
+	border-style: none none solid none;
+	border-color:#ffd708;
+}
+
+.form-group .form-control:focus {
+	box-shadow: none;
+	border-width: 0 0 2px 0;
+	border-color: #000;
+}
+
+textarea {
+	resize: none;
+}
+
+.btn-mod.btn-large {
+	height: auto;
+	padding: 13px 52px;
+	font-size: 15px;
+}
+
+.btn-mod.btn-border {
+	color: #000000;
+	border: 1px solid #000000;
+	background: transparent;
+}
+
+.btn-mod,
+a.btn-mod {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 4px 13px;
+	color: #fff;
+	background: rgba(34, 34, 34, .9);
+	border: 1px solid transparent;
+	font-size: 11px;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	-moz-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	-o-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	-ms-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+}
+
+.btn-mod.btn-border:hover,
+.btn-mod.btn-border:active,
+.btn-mod.btn-border:focus,
+.btn-mod.btn-border:active:focus {
+	color: #fff;
+	border-color: #000;
+	background: #000;
+	outline: none;
+}
+
+@media only screen and (max-width: 500px) {
+	.btn-mod.btn-large {
+		padding: 6px 16px;
+		font-size: 11px;
+	}
+	.form-title {
+		font-size: 20px;
+	}
+}
+
+form#contact-form label {
+	color: #ea4335;
+}
+
+label {
+	color: #000 !important;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+}
+
+.form-control {
+	background-color: #e2e2e2;
+	border: none;
+}
+
+.map iframe {
+	width: 100%;
+	border: 7px solid #e4e4e4;
+	min-height: 500px;
+}
+
+/* //contact */
+/* -- Responsive code -- */
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1366px) {
+
+}
+
+@media screen and (max-width: 1280px) {
+	section.slide-wrapper {
+    padding: 5em 5em;
+}
+section.services {
+    padding: 5em 5em;
+}
+.news {
+    padding: 5em 5em;
+}
+.wedo {
+    padding: 5em 5em 0;
+}
+p.banp.mt-3 {
+    width: 78%;
+}
+}
+
+@media screen and (max-width: 1080px) {
+	.sidenav {
+		width: 260px;
+	}
+	.main {
+		margin-right: 260px;
+	}
+	h2.w3_head, h3.w3_head {
+    font-size: 2.5em !important;
+}
+p.iner {
+    font-size: 1em !important;
+}
+.news p {
+    font-size: 16px !important;
+}
+.news_top1 {
+    padding: 1em;
+}
+h4.main_hd {
+    font-size: 1.5em !important;
+}
+.banner-text-w3ls h3 {
+    font-size: 2.2em !important;
+}
+p.banp.mt-3 {
+    font-size: 18px !important;
+}
+}
+
+@media screen and (max-width: 1050px) {
+.contact_grid_right button[type="submit"], .contact_grid_right button[type="reset"] {
+    width: 30%;	
+}
+h4.main_hd {
+    font-size: 1.3em !important;
+}
+}
+@media screen and (max-width: 991px) {
+	header {
+		padding-top: 0em;
+	}
+	.side_top {
+    padding: 1em 1em;
+}
+}
+
+@media screen and (max-width: 900px) {
+	ul.list-unstyled li {
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 800px) {
+.contact_grid_right button[type="submit"], .contact_grid_right button[type="reset"] {
+    width: 43%;
+}	
+}
+
+@media screen and (max-width: 768px) {
+	.sidenav {
+		width: 100%;
+		height: 60%;
+		position: relative;
+	}
+	.main {
+		margin-right: 0;
+	}
+	header {
+		padding-top: 0;
+	}
+	nav ul {
+    position: static;
+}
+.sidenav {
+    padding: 1em;
+}
+.side_top {
+    padding: 0;
+    margin-bottom: 1em;
+}
+}
+@media screen and (max-width: 736px) {
+.banner-text-w3ls h3 {
+    font-size: 2em !important;
+}
+p.banp.mt-3 {
+    width: 100%;
+}	
+}
+@media screen and (max-width: 640px) {
+	
+}
+
+@media screen and (max-width: 600px) {
+	
+}
+
+@media screen and (max-width: 568px) {
+section.slide-wrapper {
+    padding: 3em 3em;
+}
+section.services {
+    padding: 3em 3em;
+}
+.news {
+    padding: 3em 3em;
+}
+.wedo {
+    padding: 3em 3em 0;
+}	
+}
+
+@media screen and (max-width: 480px) {
+	.banner-text-w3ls h3 {
+    font-size: 1.7em !important;
+}
+p.banp.mt-3 {
+    font-size: 16px !important;
+}
+h2.w3_head, h3.w3_head {
+    font-size: 2em !important;
+}
+h4.main_hd {
+    font-size: 1.2em !important;
+}
+}
+
+@media screen and (max-width: 440px) {
+.banner-text-w3ls h3 {
+    font-size: 1.5em !important;
+}	
+.wedo {
+    padding: 2em 2em 0;
+}
+.news {
+    padding: 2em 2em;
+}
+section.services {
+    padding: 2em 2em;
+}
+section.slide-wrapper {
+    padding: 2em 2em;
+}
+}
+
+@media screen and (max-width: 384px) {
+	
+}
+
+@media screen and (max-width: 375px) {
+	
+}
+
+@media screen and (max-width: 320px) {
+	
+.wedo {
+    padding: 2em 1.5em 0;
+}
+.contact_grid_right button[type="submit"], .contact_grid_right button[type="reset"] {
+    padding: 14px 0;
+    font-size: 0.9em !important;
+    width:49%;
+}
+.contact_grid_right textarea {
+    min-height: 12em;
+}
+.news {
+    padding: 2em 1.5em;
+}
+h2.w3_head, h3.w3_head {
+    font-size: 1.8em !important;
+}
+section.services {
+    padding: 2em 1.5em;
+}
+.services h6 {
+    font-size: 1em !important;
+}
+.ic-lft{
+	padding-left:0;
+}
+section.slide-wrapper {
+    padding: 2em 1.5em;
+}
+h4.main_hd {
+    font-size: 1.1em !important;
+}
+.banner-text-w3ls h3 {
+    font-size: 1.4em !important;
+}
+}
+
+/* -- //Responsive code -- */

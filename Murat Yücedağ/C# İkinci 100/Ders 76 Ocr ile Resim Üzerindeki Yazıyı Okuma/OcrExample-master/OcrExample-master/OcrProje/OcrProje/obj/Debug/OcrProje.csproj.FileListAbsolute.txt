@@ -1,0 +1,22 @@
+C:\Users\14may\source\repos\OcrProje\OcrProje\bin\Debug\OcrProje.exe.config
+C:\Users\14may\source\repos\OcrProje\OcrProje\bin\Debug\OcrProje.exe
+C:\Users\14may\source\repos\OcrProje\OcrProje\bin\Debug\OcrProje.pdb
+C:\Users\14may\source\repos\OcrProje\OcrProje\bin\Debug\IronOcr.dll
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.csprojAssemblyReference.cache
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.Form1.resources
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.Properties.Resources.resources
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.csproj.GenerateResource.cache
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.csproj.CoreCompileInputs.cache
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.csproj.CopyComplete
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.exe
+C:\Users\14may\source\repos\OcrProje\OcrProje\obj\Debug\OcrProje.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\bin\Debug\OcrProje.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\bin\Debug\OcrProje.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\bin\Debug\OcrProje.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 76 Ocr ile Resim Üzerindeki Yazıyı Okuma\OcrExample-master\OcrExample-master\OcrProje\OcrProje\obj\Debug\OcrProje.pdb

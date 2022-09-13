@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+  
+    <!-- Sidebar -->
+    <div class="w3-sidebar w3-bar-block w3-border-right" style="display:none" id="mySidebar">
+        <button onclick="w3_close()" class="w3-bar-item w3-large">☰</button>
+        <a href="/Default/Index" class="w3-bar-item w3-button">Siteye Git</a>
+        <a href="/Admin/Index" class="w3-bar-item w3-button">Bloglar</a>
+        <a href="/Admin/YorumListele" class="w3-bar-item w3-button">Yorumlar</a>
+        <a href="#" class="w3-bar-item w3-button">Hakkımızda</a>
+        <a href="#" class="w3-bar-item w3-button">İletişim</a>
+    </div>
+
+    <!-- Page Content -->
+    <div class="w3-teal">
+     
+        <button class="w3-button w3-teal w3-xlarge" onclick="w3_open()">☰</button>
+        <div class="w3-container">
+            <h1 style="text-align:center">Admin Paneli</h1>
+        </div>
+    </div>
+
+
+    <div class="w3-container">
+        @RenderBody()
+    </div>
+
+    <script>
+        function w3_open() {
+            document.getElementById("mySidebar").style.display = "block";
+        }
+
+        function w3_close() {
+            document.getElementById("mySidebar").style.display = "none";
+        }
+    </script>
+
+</body>
+</html>
+

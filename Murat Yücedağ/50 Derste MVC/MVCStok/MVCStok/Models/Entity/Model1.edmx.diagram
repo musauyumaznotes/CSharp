@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a83e2c054bd04c1c8ca23d998a98069a" Name="Diagram1">
+        <EntityTypeShape EntityType="MvcDbStokModel.Kategoriler" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcDbStokModel.Markalar" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcDbStokModel.Musteriler" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcDbStokModel.Satislar" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcDbStokModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcDbStokModel.Urunler" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="MvcDbStokModel.FK_Urunler_Kategoriler" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcDbStokModel.FK_Urunler_Markalar" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcDbStokModel.FK_Satislar_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcDbStokModel.FK_Satislar_Urunler" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

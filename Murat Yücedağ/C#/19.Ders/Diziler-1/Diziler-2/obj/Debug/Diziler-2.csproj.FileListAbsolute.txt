@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\bin\Debug\Diziler-2.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\bin\Debug\Diziler-2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\bin\Debug\Diziler-2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\obj\Debug\Diziler_2.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\obj\Debug\Diziler_2.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\obj\Debug\Diziler-2.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\obj\Debug\Diziler-2.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\obj\Debug\Diziler-2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\19.Ders\Diziler-1\Diziler-2\obj\Debug\Diziler-2.pdb

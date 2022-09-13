@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\bin\Debug\SayaçTimer.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\bin\Debug\SayaçTimer.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\bin\Debug\SayaçTimer.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\obj\Debug\SayaçTimer.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\obj\Debug\SayaçTimer.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\obj\Debug\SayaçTimer.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\obj\Debug\SayaçTimer.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\obj\Debug\SayaçTimer.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\SayaçTimer\obj\Debug\SayaçTimer.pdb

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\11.Ders\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb

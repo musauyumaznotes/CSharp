@@ -1,0 +1,17 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\bin\Debug\IstanbulKocaeliSeyahat.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\bin\Debug\IstanbulKocaeliSeyahat.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\bin\Debug\IstanbulKocaeliSeyahat.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\İstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\IstanbulKocaeliSeyahat\obj\Debug\IstanbulKocaeliSeyahat.Form3.resources

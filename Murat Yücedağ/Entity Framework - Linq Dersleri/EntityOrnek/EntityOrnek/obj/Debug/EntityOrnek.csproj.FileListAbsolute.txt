@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form2.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 50 Material Design ile Tasarım ~ 1", "Ders 50 Material Design ile Tasarım ~ 1\Ders 50 Material Design ile Tasarım ~ 1.csproj", "{14CF86F9-76FD-4B6D-ADC5-A4D7042D73FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CF86F9-76FD-4B6D-ADC5-A4D7042D73FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CF86F9-76FD-4B6D-ADC5-A4D7042D73FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CF86F9-76FD-4B6D-ADC5-A4D7042D73FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CF86F9-76FD-4B6D-ADC5-A4D7042D73FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD557DFB-8BFD-4B00-8728-3976B0FBC934}
+	EndGlobalSection
+EndGlobal

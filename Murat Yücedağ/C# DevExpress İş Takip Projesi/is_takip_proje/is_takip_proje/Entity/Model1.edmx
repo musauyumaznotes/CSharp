@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DbIsTakipModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DbIsTakipModelStoreContainer">
+    <EntitySet Name="Adminler" EntityType="DbIsTakipModel.Store.Adminler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Departmanlar" EntityType="DbIsTakipModel.Store.Departmanlar" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Firmalar" EntityType="DbIsTakipModel.Store.Firmalar" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Gorevler" EntityType="DbIsTakipModel.Store.Gorevler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Ilceler" EntityType="DbIsTakipModel.Store.Ilceler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Personeller" EntityType="DbIsTakipModel.Store.Personeller" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Sehirler" EntityType="DbIsTakipModel.Store.Sehirler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Sektorler" EntityType="DbIsTakipModel.Store.Sektorler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Cagrilar" EntityType="DbIsTakipModel.Store.Cagrilar" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Personeller_Departmanlar" Association="DbIsTakipModel.Store.FK_Personeller_Departmanlar">
+      <End Role="Departmanlar" EntitySet="Departmanlar" />
+      <End Role="Personeller" EntitySet="Personeller" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firmalar_Ilceler" Association="DbIsTakipModel.Store.FK_Firmalar_Ilceler">
+      <End Role="Ilceler" EntitySet="Ilceler" />
+      <End Role="Firmalar" EntitySet="Firmalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firmalar_Sehirler" Association="DbIsTakipModel.Store.FK_Firmalar_Sehirler">
+      <End Role="Sehirler" EntitySet="Sehirler" />
+      <End Role="Firmalar" EntitySet="Firmalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Firmalar_Sektorler" Association="DbIsTakipModel.Store.FK_Firmalar_Sektorler">
+      <End Role="Sektorler" EntitySet="Sektorler" />
+      <End Role="Firmalar" EntitySet="Firmalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GorevDetaylar_Personeller" Association="DbIsTakipModel.Store.FK_GorevDetaylar_Personeller">
+      <End Role="Personeller" EntitySet="Personeller" />
+      <End Role="Gorevler" EntitySet="Gorevler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GorevDetaylar_Personeller1" Association="DbIsTakipModel.Store.FK_GorevDetaylar_Personeller1">
+      <End Role="Personeller" EntitySet="Personeller" />
+      <End Role="Gorevler" EntitySet="Gorevler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ilceler_Sehirler" Association="DbIsTakipModel.Store.FK_Ilceler_Sehirler">
+      <End Role="Sehirler" EntitySet="Sehirler" />
+      <End Role="Ilceler" EntitySet="Ilceler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cagrilar_Firmalar" Association="DbIsTakipModel.Store.FK_Cagrilar_Firmalar">
+      <End Role="Firmalar" EntitySet="Firmalar" />
+      <End Role="Cagrilar" EntitySet="Cagrilar" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Adminler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kullanici" Type="nvarchar" Nullable="true" MaxLength="15" />
+    <Property Name="Sifre" Type="nvarchar" Nullable="true" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="Departmanlar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" Nullable="true" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Firmalar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SehirId" Type="int" Nullable="true" />
+    <Property Name="IlceId" Type="int" Nullable="true" />
+    <Property Name="SektorId" Type="int" Nullable="true" />
+    <Property Name="FirmaAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Yetkili" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Telefon" Type="nvarchar" Nullable="true" MaxLength="20" />
+    <Property Name="Mail" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Adres" Type="nvarchar" Nullable="true" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Gorevler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GorevAlanId" Type="int" Nullable="true" />
+    <Property Name="GorevVerenId" Type="int" Nullable="true" />
+    <Property Name="Aciklama" Type="varchar(max)" Nullable="true" />
+    <Property Name="Tarih" Type="datetime" Nullable="true" />
+    <Property Name="Durum" Type="bit" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Ilceler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SehirId" Type="int" Nullable="true" />
+    <Property Name="IlceAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Personeller">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DepartmanId" Type="int" Nullable="true" />
+    <Property Name="Ad" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="Soyad" Type="nvarchar" Nullable="true" MaxLength="30" />
+    <Property Name="Mail" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Telefon" Type="nvarchar" Nullable="true" MaxLength="20" />
+    <Property Name="Gorsel" Type="nvarchar" Nullable="true" MaxLength="100" />
+    <Property Name="Durum" Type="bit" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Sehirler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SehirAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Sektorler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SektorAdi" Type="nvarchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Cagrilar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirmaId" Type="int" Nullable="true" />
+    <Property Name="Konu" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Aciklama" Type="varchar(max)" Nullable="true" />
+    <Property Name="Tarih" Type="datetime" Nullable="true" />
+    <Property Name="Durum" Type="bit" Nullable="true" />
+  </EntityType>
+  <Association Name="FK_Personeller_Departmanlar">
+    <End Role="Departmanlar" Type="DbIsTakipModel.Store.Departmanlar" Multiplicity="0..1" />
+    <End Role="Personeller" Type="DbIsTakipModel.Store.Personeller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departmanlar">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personeller">
+        <PropertyRef Name="DepartmanId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firmalar_Ilceler">
+    <End Role="Ilceler" Type="DbIsTakipModel.Store.Ilceler" Multiplicity="0..1" />
+    <End Role="Firmalar" Type="DbIsTakipModel.Store.Firmalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ilceler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Firmalar">
+        <PropertyRef Name="IlceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firmalar_Sehirler">
+    <End Role="Sehirler" Type="DbIsTakipModel.Store.Sehirler" Multiplicity="0..1" />
+    <End Role="Firmalar" Type="DbIsTakipModel.Store.Firmalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sehirler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Firmalar">
+        <PropertyRef Name="SehirId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Firmalar_Sektorler">
+    <End Role="Sektorler" Type="DbIsTakipModel.Store.Sektorler" Multiplicity="0..1" />
+    <End Role="Firmalar" Type="DbIsTakipModel.Store.Firmalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sektorler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Firmalar">
+        <PropertyRef Name="SektorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GorevDetaylar_Personeller">
+    <End Role="Personeller" Type="DbIsTakipModel.Store.Personeller" Multiplicity="0..1" />
+    <End Role="Gorevler" Type="DbIsTakipModel.Store.Gorevler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personeller">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Gorevler">
+        <PropertyRef Name="GorevAlanId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GorevDetaylar_Personeller1">
+    <End Role="Personeller" Type="DbIsTakipModel.Store.Personeller" Multiplicity="0..1" />
+    <End Role="Gorevler" Type="DbIsTakipModel.Store.Gorevler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personeller">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Gorevler">
+        <PropertyRef Name="GorevVerenId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ilceler_Sehirler">
+    <End Role="Sehirler" Type="DbIsTakipModel.Store.Sehirler" Multiplicity="0..1" />
+    <End Role="Ilceler" Type="DbIsTakipModel.Store.Ilceler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sehirler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Ilceler">
+        <PropertyRef Name="SehirId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cagrilar_Firmalar">
+    <End Role="Firmalar" Type="DbIsTakipModel.Store.Firmalar" Multiplicity="0..1" />
+    <End Role="Cagrilar" Type="DbIsTakipModel.Store.Cagrilar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Firmalar">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cagrilar">
+        <PropertyRef Name="FirmaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DbIsTakipModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Adminler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Kullanici" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+          <Property Name="Sifre" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Departmanlar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ad" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Personeller" Relationship="Self.FK_Personeller_Departmanlar" FromRole="Departmanlar" ToRole="Personeller" />
+        </EntityType>
+        <EntityType Name="Firmalar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SehirId" Type="Int32" />
+          <Property Name="IlceId" Type="Int32" />
+          <Property Name="SektorId" Type="Int32" />
+          <Property Name="FirmaAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Yetkili" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Adres" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Ilceler" Relationship="Self.FK_Firmalar_Ilceler" FromRole="Firmalar" ToRole="Ilceler" />
+          <NavigationProperty Name="Sehirler" Relationship="Self.FK_Firmalar_Sehirler" FromRole="Firmalar" ToRole="Sehirler" />
+          <NavigationProperty Name="Sektorler" Relationship="Self.FK_Firmalar_Sektorler" FromRole="Firmalar" ToRole="Sektorler" />
+          <NavigationProperty Name="Cagrilar" Relationship="DbIsTakipModel.FK_Cagrilar_Firmalar" FromRole="Firmalar" ToRole="Cagrilar" />
+        </EntityType>
+        <EntityType Name="Gorevler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GorevAlanId" Type="Int32" />
+          <Property Name="GorevVerenId" Type="Int32" />
+          <Property Name="Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Tarih" Type="DateTime" Precision="3" />
+          <Property Name="Durum" Type="Boolean" />
+          <NavigationProperty Name="Personeller" Relationship="Self.FK_GorevDetaylar_Personeller" FromRole="Gorevler" ToRole="Personeller" />
+          <NavigationProperty Name="Personeller1" Relationship="Self.FK_GorevDetaylar_Personeller1" FromRole="Gorevler" ToRole="Personeller" />
+        </EntityType>
+        <EntityType Name="Ilceler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SehirId" Type="Int32" />
+          <Property Name="IlceAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Firmalar" Relationship="Self.FK_Firmalar_Ilceler" FromRole="Ilceler" ToRole="Firmalar" />
+          <NavigationProperty Name="Sehirler" Relationship="Self.FK_Ilceler_Sehirler" FromRole="Ilceler" ToRole="Sehirler" />
+        </EntityType>
+        <EntityType Name="Personeller">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DepartmanId" Type="Int32" />
+          <Property Name="Ad" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="Soyad" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Gorsel" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Durum" Type="Boolean" />
+          <NavigationProperty Name="Departmanlar" Relationship="Self.FK_Personeller_Departmanlar" FromRole="Personeller" ToRole="Departmanlar" />
+          <NavigationProperty Name="Gorevler" Relationship="Self.FK_GorevDetaylar_Personeller" FromRole="Personeller" ToRole="Gorevler" />
+          <NavigationProperty Name="Gorevler1" Relationship="Self.FK_GorevDetaylar_Personeller1" FromRole="Personeller" ToRole="Gorevler" />
+        </EntityType>
+        <EntityType Name="Sehirler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SehirAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Firmalar" Relationship="Self.FK_Firmalar_Sehirler" FromRole="Sehirler" ToRole="Firmalar" />
+          <NavigationProperty Name="Ilceler" Relationship="Self.FK_Ilceler_Sehirler" FromRole="Sehirler" ToRole="Ilceler" />
+        </EntityType>
+        <EntityType Name="Sektorler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SektorAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Firmalar" Relationship="Self.FK_Firmalar_Sektorler" FromRole="Sektorler" ToRole="Firmalar" />
+        </EntityType>
+        <Association Name="FK_Personeller_Departmanlar">
+          <End Role="Departmanlar" Type="Self.Departmanlar" Multiplicity="0..1" />
+          <End Role="Personeller" Type="Self.Personeller" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departmanlar">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Personeller">
+              <PropertyRef Name="DepartmanId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Firmalar_Ilceler">
+          <End Role="Ilceler" Type="Self.Ilceler" Multiplicity="0..1" />
+          <End Role="Firmalar" Type="Self.Firmalar" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ilceler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Firmalar">
+              <PropertyRef Name="IlceId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Firmalar_Sehirler">
+          <End Role="Sehirler" Type="Self.Sehirler" Multiplicity="0..1" />
+          <End Role="Firmalar" Type="Self.Firmalar" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sehirler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Firmalar">
+              <PropertyRef Name="SehirId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Firmalar_Sektorler">
+          <End Role="Sektorler" Type="Self.Sektorler" Multiplicity="0..1" />
+          <End Role="Firmalar" Type="Self.Firmalar" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sektorler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Firmalar">
+              <PropertyRef Name="SektorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GorevDetaylar_Personeller">
+          <End Role="Personeller" Type="Self.Personeller" Multiplicity="0..1" />
+          <End Role="Gorevler" Type="Self.Gorevler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personeller">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Gorevler">
+              <PropertyRef Name="GorevAlanId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GorevDetaylar_Personeller1">
+          <End Role="Personeller" Type="Self.Personeller" Multiplicity="0..1" />
+          <End Role="Gorevler" Type="Self.Gorevler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personeller">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Gorevler">
+              <PropertyRef Name="GorevVerenId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ilceler_Sehirler">
+          <End Role="Sehirler" Type="Self.Sehirler" Multiplicity="0..1" />
+          <End Role="Ilceler" Type="Self.Ilceler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sehirler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Ilceler">
+              <PropertyRef Name="SehirId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DbIsTakipEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Adminler" EntityType="Self.Adminler" />
+          <EntitySet Name="Departmanlar" EntityType="Self.Departmanlar" />
+          <EntitySet Name="Firmalar" EntityType="Self.Firmalar" />
+          <EntitySet Name="Gorevler" EntityType="Self.Gorevler" />
+          <EntitySet Name="Ilceler" EntityType="Self.Ilceler" />
+          <EntitySet Name="Personeller" EntityType="Self.Personeller" />
+          <EntitySet Name="Sehirler" EntityType="Self.Sehirler" />
+          <EntitySet Name="Sektorler" EntityType="Self.Sektorler" />
+          <AssociationSet Name="FK_Personeller_Departmanlar" Association="Self.FK_Personeller_Departmanlar">
+            <End Role="Departmanlar" EntitySet="Departmanlar" />
+            <End Role="Personeller" EntitySet="Personeller" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Firmalar_Ilceler" Association="Self.FK_Firmalar_Ilceler">
+            <End Role="Ilceler" EntitySet="Ilceler" />
+            <End Role="Firmalar" EntitySet="Firmalar" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Firmalar_Sehirler" Association="Self.FK_Firmalar_Sehirler">
+            <End Role="Sehirler" EntitySet="Sehirler" />
+            <End Role="Firmalar" EntitySet="Firmalar" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Firmalar_Sektorler" Association="Self.FK_Firmalar_Sektorler">
+            <End Role="Sektorler" EntitySet="Sektorler" />
+            <End Role="Firmalar" EntitySet="Firmalar" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GorevDetaylar_Personeller" Association="Self.FK_GorevDetaylar_Personeller">
+            <End Role="Personeller" EntitySet="Personeller" />
+            <End Role="Gorevler" EntitySet="Gorevler" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GorevDetaylar_Personeller1" Association="Self.FK_GorevDetaylar_Personeller1">
+            <End Role="Personeller" EntitySet="Personeller" />
+            <End Role="Gorevler" EntitySet="Gorevler" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ilceler_Sehirler" Association="Self.FK_Ilceler_Sehirler">
+            <End Role="Sehirler" EntitySet="Sehirler" />
+            <End Role="Ilceler" EntitySet="Ilceler" />
+          </AssociationSet>
+          <EntitySet Name="Cagrilar" EntityType="DbIsTakipModel.Cagrilar" />
+          <AssociationSet Name="FK_Cagrilar_Firmalar" Association="DbIsTakipModel.FK_Cagrilar_Firmalar">
+            <End Role="Firmalar" EntitySet="Firmalar" />
+            <End Role="Cagrilar" EntitySet="Cagrilar" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Cagrilar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FirmaId" Type="Int32" />
+          <Property Name="Konu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Tarih" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="Firmalar" Relationship="DbIsTakipModel.FK_Cagrilar_Firmalar" FromRole="Cagrilar" ToRole="Firmalar" />
+          <Property Name="Durum" Type="Boolean" />
+        </EntityType>
+        <Association Name="FK_Cagrilar_Firmalar">
+          <End Type="DbIsTakipModel.Firmalar" Role="Firmalar" Multiplicity="0..1" />
+          <End Type="DbIsTakipModel.Cagrilar" Role="Cagrilar" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Firmalar">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cagrilar">
+              <PropertyRef Name="FirmaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbIsTakipModelStoreContainer" CdmEntityContainer="DbIsTakipEntities">
+    <EntitySetMapping Name="Adminler">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Adminler)">
+        <MappingFragment StoreEntitySet="Adminler">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Kullanici" ColumnName="Kullanici" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departmanlar">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Departmanlar)">
+        <MappingFragment StoreEntitySet="Departmanlar">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Firmalar">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Firmalar)">
+        <MappingFragment StoreEntitySet="Firmalar">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SehirId" ColumnName="SehirId" />
+          <ScalarProperty Name="IlceId" ColumnName="IlceId" />
+          <ScalarProperty Name="SektorId" ColumnName="SektorId" />
+          <ScalarProperty Name="FirmaAdi" ColumnName="FirmaAdi" />
+          <ScalarProperty Name="Yetkili" ColumnName="Yetkili" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gorevler">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Gorevler)">
+        <MappingFragment StoreEntitySet="Gorevler">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="GorevAlanId" ColumnName="GorevAlanId" />
+          <ScalarProperty Name="GorevVerenId" ColumnName="GorevVerenId" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ilceler">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Ilceler)">
+        <MappingFragment StoreEntitySet="Ilceler">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SehirId" ColumnName="SehirId" />
+          <ScalarProperty Name="IlceAdi" ColumnName="IlceAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personeller">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Personeller)">
+        <MappingFragment StoreEntitySet="Personeller">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DepartmanId" ColumnName="DepartmanId" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Gorsel" ColumnName="Gorsel" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sehirler">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Sehirler)">
+        <MappingFragment StoreEntitySet="Sehirler">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SehirAdi" ColumnName="SehirAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sektorler">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Sektorler)">
+        <MappingFragment StoreEntitySet="Sektorler">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SektorAdi" ColumnName="SektorAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cagrilar">
+      <EntityTypeMapping TypeName="IsTypeOf(DbIsTakipModel.Cagrilar)">
+        <MappingFragment StoreEntitySet="Cagrilar">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirmaId" ColumnName="FirmaId" />
+          <ScalarProperty Name="Konu" ColumnName="Konu" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

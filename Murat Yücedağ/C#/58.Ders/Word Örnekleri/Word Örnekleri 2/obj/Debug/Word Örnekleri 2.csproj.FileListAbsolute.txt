@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\bin\Debug\Word Örnekleri 2.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\bin\Debug\Word Örnekleri 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\bin\Debug\Word Örnekleri 2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word Örnekleri 2.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word Örnekleri 2.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word_Örnekleri_2.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word_Örnekleri_2.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word Örnekleri 2.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word Örnekleri 2.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word Örnekleri 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\58.Ders\Word Örnekleri\Word Örnekleri 2\obj\Debug\Word Örnekleri 2.pdb

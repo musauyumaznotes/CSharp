@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormlarArasıGeçiş", "FormlarArasıGeçiş\FormlarArasıGeçiş.csproj", "{323CDF6F-E6B5-478F-9AC8-C44B45AB04D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323CDF6F-E6B5-478F-9AC8-C44B45AB04D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323CDF6F-E6B5-478F-9AC8-C44B45AB04D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323CDF6F-E6B5-478F-9AC8-C44B45AB04D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323CDF6F-E6B5-478F-9AC8-C44B45AB04D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61846152-6D67-44A8-BD24-419561995A7D}
+	EndGlobalSection
+EndGlobal

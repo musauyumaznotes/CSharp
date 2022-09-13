@@ -1,0 +1,14 @@
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.exe
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.exe
+C:\Users\musau\Desktop\Murat Yücedağ\Entity Framework - Linq Dersleri\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.pdb

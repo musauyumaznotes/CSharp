@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\bin\Debug\Web Tarayıcı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\35.Ders\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.ResolveComReference.cache

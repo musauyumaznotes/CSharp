@@ -1,0 +1,43 @@
+﻿@using MVCStok.Models.Entity
+@model List<Urunler>
+@{
+    ViewBag.Title = "UrunListesi";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table table-bordered" id="tab1">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Kategori</th>
+            <th>Marka</th>
+            <th>Fiyat</th>
+            <th>Stok</th>
+            <th>Durum</th>
+            <th>Oluşturulma Tarihi</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+                <th>@urun.Id</th>
+                <td>@urun.Ad</td>
+                <td>@urun.Kategoriler.Ad</td>
+                <td>@urun.Markalar.Ad</td>
+                <td>@urun.Fiyat ₺</td>
+                <td>@urun.Stok</td>
+                <td>@urun.IsActive</td>
+                <td>@urun.CreatedAt</td>
+                <td><a href="/URUN/Sil/@urun.Id" class="btn btn-danger">Sil</a></td>
+                <td><a href="/URUN/UrunGetir/@urun.Id" class="btn btn-warning">Güncelle</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Urun/YeniUrun/" class="btn btn-primary">Yeni Ekle</a>
+<link href="~/Content/DataTables/css/select.bootstrap4.css" rel="stylesheet" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

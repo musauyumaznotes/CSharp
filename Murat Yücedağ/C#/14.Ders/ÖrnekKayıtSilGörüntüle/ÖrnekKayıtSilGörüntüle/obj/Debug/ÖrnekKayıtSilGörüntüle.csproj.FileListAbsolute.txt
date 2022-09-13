@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\bin\Debug\ÖrnekKayıtSilGörüntüle.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\bin\Debug\ÖrnekKayıtSilGörüntüle.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\bin\Debug\ÖrnekKayıtSilGörüntüle.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\14.Ders\ÖrnekKayıtSilGörüntüle\ÖrnekKayıtSilGörüntüle\obj\Debug\ÖrnekKayıtSilGörüntüle.pdb

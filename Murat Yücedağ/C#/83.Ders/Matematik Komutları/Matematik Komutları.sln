@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik Komutları", "Matematik Komutları\Matematik Komutları.csproj", "{8ADF0DF9-0FB6-4166-BBA1-F249EA5DCFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADF0DF9-0FB6-4166-BBA1-F249EA5DCFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADF0DF9-0FB6-4166-BBA1-F249EA5DCFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADF0DF9-0FB6-4166-BBA1-F249EA5DCFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADF0DF9-0FB6-4166-BBA1-F249EA5DCFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC8FAAB1-EC39-441A-97E1-7722D7A9688F}
+	EndGlobalSection
+EndGlobal

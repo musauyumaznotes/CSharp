@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\bin\Debug\BiletYolcuBilgiler.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\bin\Debug\BiletYolcuBilgiler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\bin\Debug\BiletYolcuBilgiler.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\27.Ders\BiletYolcuBilgiler\BiletYolcuBilgiler\obj\Debug\BiletYolcuBilgiler.pdb

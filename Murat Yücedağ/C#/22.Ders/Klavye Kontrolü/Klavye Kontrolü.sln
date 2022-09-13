@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klavye Kontrolü", "Klavye Kontrolü\Klavye Kontrolü.csproj", "{FA6CC68B-94A2-4147-9F80-23F08F39A9B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klavye Kontrolü 2", "Klavye Kontrolü 2\Klavye Kontrolü 2.csproj", "{A4F122A7-2FA6-4AC1-8E6D-54C5F623D2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6CC68B-94A2-4147-9F80-23F08F39A9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6CC68B-94A2-4147-9F80-23F08F39A9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6CC68B-94A2-4147-9F80-23F08F39A9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6CC68B-94A2-4147-9F80-23F08F39A9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F122A7-2FA6-4AC1-8E6D-54C5F623D2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F122A7-2FA6-4AC1-8E6D-54C5F623D2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F122A7-2FA6-4AC1-8E6D-54C5F623D2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F122A7-2FA6-4AC1-8E6D-54C5F623D2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83AD4CF4-2C9E-4753-88CF-2A21AA9469EF}
+	EndGlobalSection
+EndGlobal

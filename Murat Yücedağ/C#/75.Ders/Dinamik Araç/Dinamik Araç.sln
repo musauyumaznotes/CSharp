@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinamik Araç", "Dinamik Araç\Dinamik Araç.csproj", "{D317613E-A2F8-4E75-8370-304B4496A949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinamik Araç 4", "Dinamik Araç 4\Dinamik Araç 4.csproj", "{E5B8EBD2-8E9F-482D-A0C0-AC214D76E406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D317613E-A2F8-4E75-8370-304B4496A949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D317613E-A2F8-4E75-8370-304B4496A949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D317613E-A2F8-4E75-8370-304B4496A949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D317613E-A2F8-4E75-8370-304B4496A949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B8EBD2-8E9F-482D-A0C0-AC214D76E406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B8EBD2-8E9F-482D-A0C0-AC214D76E406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B8EBD2-8E9F-482D-A0C0-AC214D76E406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B8EBD2-8E9F-482D-A0C0-AC214D76E406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1E6BD5-F04C-49B6-815D-075EAABFB78D}
+	EndGlobalSection
+EndGlobal

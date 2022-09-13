@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\bin\Debug\Veritabanı Arama.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\bin\Debug\Veritabanı Arama.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\bin\Debug\Veritabanı Arama.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı Arama.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı_Arama.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı_Arama.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı Arama.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı Arama.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı Arama.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\28.Ders\Veritabanı Arama\Veritabanı Arama\obj\Debug\Veritabanı Arama.pdb

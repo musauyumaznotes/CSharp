@@ -1,0 +1,36 @@
+﻿@using MVCStok.Models.Entity
+@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<Kategoriler>
+@{
+    ViewBag.Title = "KategoriListesi";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<table class="table table-bordered">
+    <tr>
+        <th>Kategori Id</th>
+        <th>Kategori Adı</th>
+        <th>Kategori Durum</th>
+        <th>Oluşturulma Tarihi</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tbody>
+        @foreach (var kategori in Model)
+        {
+            <tr>
+                <th>@kategori.Id</th>
+                <td>@kategori.Ad</td>
+                <td>@kategori.IsActive</td>
+                <td>@kategori.CreatedAt</td>
+                <td><a href="/Kategori/Sil/@kategori.Id" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Kategori/KategoriGetir/@kategori.Id" class="btn btn-warning">Güncelle</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("KategoriListesi", new { sayfa }))
+
+<a href="/KATEGORI/YeniKategori/" class="btn btn-primary">Yeni Ekle</a>
+
+

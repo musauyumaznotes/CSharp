@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\x86\tesseract41.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\x64\tesseract41.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\bin\Debug\Tesseract.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders_77_Ocr_Tesseract_ile_Resim_Üzerindeki_Yazı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders_77_Ocr_Tesseract_ile_Resim_Üzerindeki_Yazı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı\obj\Debug\Ders 77 Ocr Tesseract ile Resim Üzerindeki Yazı.pdb

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\MatematikHesaplamaları.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\MatematikHesaplamaları.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\MatematikHesaplamaları.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\2.Ders\MatematikHesaplamaları\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.pdb

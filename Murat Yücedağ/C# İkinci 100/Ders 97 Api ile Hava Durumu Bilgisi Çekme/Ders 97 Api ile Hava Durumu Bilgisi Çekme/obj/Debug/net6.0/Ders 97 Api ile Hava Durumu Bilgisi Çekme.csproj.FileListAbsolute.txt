@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\bin\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\bin\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.deps.json
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\bin\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.runtimeconfig.json
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\bin\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\bin\Debug\net6.0\ref\Ders 97 Api ile Hava Durumu Bilgisi Çekme.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\bin\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.AssemblyInfo.cs
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.ImplicitNamespaceImports.cs
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\ref\Ders 97 Api ile Hava Durumu Bilgisi Çekme.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 97 Api ile Hava Durumu Bilgisi Çekme\Ders 97 Api ile Hava Durumu Bilgisi Çekme\obj\Debug\net6.0\Ders 97 Api ile Hava Durumu Bilgisi Çekme.genruntimeconfig.cache

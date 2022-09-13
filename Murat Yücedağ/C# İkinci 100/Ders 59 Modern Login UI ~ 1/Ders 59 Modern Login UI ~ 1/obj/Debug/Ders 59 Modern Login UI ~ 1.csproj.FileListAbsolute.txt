@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\bin\Debug\Ders 59 Modern Login UI ~ 1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\bin\Debug\Ders 59 Modern Login UI ~ 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\bin\Debug\Ders 59 Modern Login UI ~ 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders 59 Modern Login UI ~ 1.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders_59_Modern_Login_UI___1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders_59_Modern_Login_UI___1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders 59 Modern Login UI ~ 1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders 59 Modern Login UI ~ 1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders 59 Modern Login UI ~ 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders 59 Modern Login UI ~ 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 59 Modern Login UI ~ 1\Ders 59 Modern Login UI ~ 1\obj\Debug\Ders_59_Modern_Login_UI___1.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\bin\Debug\WebBrowserKullanimi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\8.Ders\WebBrowserKullanımı\WebBrowserKullanimi\WebBrowserKullanimi\obj\Debug\WebBrowserKullanimi.pdb

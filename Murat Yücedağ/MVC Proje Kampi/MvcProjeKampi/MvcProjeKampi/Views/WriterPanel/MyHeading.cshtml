@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewBag.Title = "MyHeading";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+@{string[] color = { "badge badge-success", "badge badge-warning", "badge badge-danger", "badge badge-dark", "badge badge-info" };
+    Random random = new Random();}
+<!DOCTYPE html>
+<html>
+
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <!-- Default box -->
+        <br />
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title" style="font-size:x-large"><b>Başlık İşlemleri</b></h2>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-striped projects">
+                    <thead>
+                        <tr>
+                            <th style="width: 1%">
+                                #
+                            </th>
+                            <th style="width: 20%">
+                                Başlık Adı
+                            </th>
+                            <th style="width: 8%" class="text-center">
+                                Kategori
+                            </th>
+                            <th style="width: 20%">
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var heading in Model)
+                        {
+                            int sayi = random.Next(0, color.Length);
+
+                            <tr>
+                                <td>
+                                    @heading.HeadingId
+                                </td>
+                                <td>
+                                    <a>
+                                        @heading.HeadingName
+                                    </a>
+                                    <br />
+                                    <small>
+                                        @(((DateTime)heading.HeadingDate).ToString("dd-MMMM-yyyy"))
+                                    </small>
+                                </td>
+                                <td class="project-state">
+                                    <span class="@color[sayi]" style="font-size:large">@heading.Category.CategoryName</span>
+                                </td>
+                                <td class="project-actions text-right">
+                                    <a class="btn btn-primary btn-sm" href="/Content/ContentByHeading/@heading.HeadingId">
+                                        <i class="fas fa-folder">
+                                        </i>
+                                        Yazılar
+                                    </a>
+                                    <a class="btn btn-info btn-sm" href="/WriterPanel/EditMyHeading/@heading.HeadingId">
+                                        <i class="fas fa-pencil-alt">
+                                        </i>
+                                        Düzenle
+                                    </a>
+                                    <a class="btn btn-danger btn-sm" href="/WriterPanel/DeleteMyHeading/@heading.HeadingId">
+                                        <i class="fas fa-trash">
+                                        </i>
+                                        Sil
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+<a href="/WriterPanel/NewHeading/" class="btn btn-primary">Yeni Başlık Girişi</a>

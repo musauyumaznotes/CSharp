@@ -1,0 +1,32 @@
+﻿@using MVCStok.Models.Entity
+@model List<Markalar>
+@{
+    ViewBag.Title = "MarkaListele";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Marka Id</th>
+        <th>Marka Ad</th>
+        <th>Durum</th>
+        <th>Oluşturulma Tarihi</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tbody>
+        @foreach (var marka in Model)
+        {
+        <tr>
+            <th>@marka.Id</th>
+            <td>@marka.Ad</td>
+            <td>@marka.IsActive</td>
+            <td>@marka.CreatedAt</td>
+            <td><a href="MARKA/Sil/@marka.Id" class="btn btn-danger">Sil</a></td>
+            <td><a href="MARKA/GUNCELLE/@marka.Id" class="btn btn-warning">Güncelle</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+<a href="MARKA/YeniMarka/" class="btn btn-primary">Yeni Ekle</a>
+

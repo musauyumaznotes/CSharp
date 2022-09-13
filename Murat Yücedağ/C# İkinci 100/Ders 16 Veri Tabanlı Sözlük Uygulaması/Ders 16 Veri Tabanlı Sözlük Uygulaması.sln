@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 16 Veri Tabanlı Sözlük Uygulaması", "Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması.csproj", "{B76C764D-2E7B-4CA3-B63C-3A5E8C48884C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76C764D-2E7B-4CA3-B63C-3A5E8C48884C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76C764D-2E7B-4CA3-B63C-3A5E8C48884C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76C764D-2E7B-4CA3-B63C-3A5E8C48884C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76C764D-2E7B-4CA3-B63C-3A5E8C48884C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE935E3F-EDE4-4C07-939D-1CE24F18FAB6}
+	EndGlobalSection
+EndGlobal

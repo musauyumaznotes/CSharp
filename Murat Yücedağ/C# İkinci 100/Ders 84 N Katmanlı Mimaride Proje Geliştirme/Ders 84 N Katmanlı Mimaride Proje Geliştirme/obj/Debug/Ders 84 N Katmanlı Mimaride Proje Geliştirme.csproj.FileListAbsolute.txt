@@ -1,0 +1,12 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\EntityFramework.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\EntityFramework.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\obj\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\obj\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\obj\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\obj\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 84 N Katmanlı Mimaride Proje Geliştirme\Ders 84 N Katmanlı Mimaride Proje Geliştirme\obj\Debug\Ders 84 N Katmanlı Mimaride Proje Geliştirme.pdb

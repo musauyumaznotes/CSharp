@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\bin\Debug\Dinamik Araç 4.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\bin\Debug\Dinamik Araç 4.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\bin\Debug\Dinamik Araç 4.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik_Araç_4.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik_Araç_4.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik Araç 4.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik Araç 4.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik Araç 4.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik Araç 4.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\75.Ders\Dinamik Araç\Dinamik Araç 4\obj\Debug\Dinamik Araç 4.csproj.AssemblyReference.cache

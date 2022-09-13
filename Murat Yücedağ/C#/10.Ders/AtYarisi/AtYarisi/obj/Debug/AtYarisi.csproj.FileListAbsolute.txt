@@ -1,0 +1,20 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\bin\Debug\AtYarisi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe.config
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\bin\Debug\AtYarisi.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.AssemblyReference.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Form1.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.Properties.Resources.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.csproj.CoreCompileInputs.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C#\10.Ders\AtYarisi\AtYarisi\obj\Debug\AtYarisi.pdb

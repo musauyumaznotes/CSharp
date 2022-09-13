@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\bin\Debug\Ders 98 Hava Durumu Apisi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\bin\Debug\Ders 98 Hava Durumu Apisi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\bin\Debug\Ders 98 Hava Durumu Apisi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders 98 Hava Durumu Apisi.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders_98_Hava_Durumu_Apisi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders_98_Hava_Durumu_Apisi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders 98 Hava Durumu Apisi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders 98 Hava Durumu Apisi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders 98 Hava Durumu Apisi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 98 Hava Durumu Apisi ile Hava Kartı Oluşturma\Ders 98 Hava Durumu Apisi\obj\Debug\Ders 98 Hava Durumu Apisi.pdb

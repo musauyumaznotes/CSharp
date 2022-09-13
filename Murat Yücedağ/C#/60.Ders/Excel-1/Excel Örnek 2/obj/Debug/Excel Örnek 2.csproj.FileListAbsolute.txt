@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\bin\Debug\Excel Örnek 2.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\bin\Debug\Excel Örnek 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\bin\Debug\Excel Örnek 2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel Örnek 2.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel_Örnek_2.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel_Örnek_2.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel Örnek 2.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel Örnek 2.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel Örnek 2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel Örnek 2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel Örnek 2\obj\Debug\Excel Örnek 2.csproj.ResolveComReference.cache

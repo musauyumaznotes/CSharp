@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\bin\Debug\AlgoritmaOrnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\bin\Debug\AlgoritmaOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\bin\Debug\AlgoritmaOrnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\15.Ders\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.pdb

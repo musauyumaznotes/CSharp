@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\bin\Debug\Ornek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\bin\Debug\Ornek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\bin\Debug\Ornek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\12.Ders\Ornek\Ornek\obj\Debug\Ornek.pdb

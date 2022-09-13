@@ -1,0 +1,51 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\Paint Uygulaması.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\Paint Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\Paint Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint_Uygulaması.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint_Uygulaması.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint Uygulaması.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint Uygulaması.exe.licenses
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint Uygulaması.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\74.Ders\Color Dialog Örnek\Paint Uygulaması\obj\Debug\Paint Uygulaması.pdb

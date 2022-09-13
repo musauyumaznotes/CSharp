@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\Asansör Uygulaması.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\Asansör Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\Asansör Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör_Uygulaması.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör_Uygulaması.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör Uygulaması.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\Asansör Uygulaması.csproj.AssemblyReference.cache

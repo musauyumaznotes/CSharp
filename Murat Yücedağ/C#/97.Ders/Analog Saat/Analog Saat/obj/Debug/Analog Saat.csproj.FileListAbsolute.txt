@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\bin\Debug\Analog Saat.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\bin\Debug\Analog Saat.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\bin\Debug\Analog Saat.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog Saat.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog_Saat.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog_Saat.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog Saat.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog Saat.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog Saat.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\97.Ders\Analog Saat\Analog Saat\obj\Debug\Analog Saat.pdb

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\46.Ders\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.pdb

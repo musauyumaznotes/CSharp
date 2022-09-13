@@ -1,0 +1,64 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\Ders 47 QR Code Oluşturma.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\Ders 47 QR Code Oluşturma.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\Ders 47 QR Code Oluşturma.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders_47_QR_Code_Oluşturma.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders_47_QR_Code_Oluşturma.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\Ders 47 QR Code Oluşturma.exe.config
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\Ders 47 QR Code Oluşturma.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\Ders 47 QR Code Oluşturma.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.AssemblyReference.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders_47_QR_Code_Oluşturma.Form1.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders_47_QR_Code_Oluşturma.Properties.Resources.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.GenerateResource.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.csproj.CoreCompileInputs.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\C# İkinci 100\Ders 47 QR Code Oluşturma\Ders 47 QR Code Oluşturma\obj\Debug\Ders 47 QR Code Oluşturma.exe.licenses

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\bin\Debug\Bilgilerr.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\bin\Debug\Bilgilerr.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\bin\Debug\Bilgilerr.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\85.Ders\Bilgilerr\Bilgilerr\obj\Debug\Bilgilerr.pdb

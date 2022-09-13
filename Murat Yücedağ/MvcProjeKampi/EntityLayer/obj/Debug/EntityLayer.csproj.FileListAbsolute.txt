@@ -1,0 +1,12 @@
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb

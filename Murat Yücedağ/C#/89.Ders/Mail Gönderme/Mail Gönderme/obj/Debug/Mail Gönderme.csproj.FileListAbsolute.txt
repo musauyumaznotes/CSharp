@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\89.Ders\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.pdb

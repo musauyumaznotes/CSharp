@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\bin\Debug\DörtİşlemTahmin.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\bin\Debug\DörtİşlemTahmin.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\bin\Debug\DörtİşlemTahmin.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\42.Ders\DörtİşlemTahmin\DörtİşlemTahmin\obj\Debug\DörtİşlemTahmin.pdb

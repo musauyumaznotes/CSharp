@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\bin\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\bin\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\bin\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders_4_Veritabanından_Grafiğe_Veri_Çekme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders_4_Veritabanından_Grafiğe_Veri_Çekme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 4 Veritabanından Grafiğe Veri Çekme\Ders 4 Veritabanından Grafiğe Veri Çekme\obj\Debug\Ders 4 Veritabanından Grafiğe Veri Çekme.pdb

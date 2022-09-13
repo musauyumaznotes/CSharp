@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbCvModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adminler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullaniciAdi" Type="varchar" MaxLength="25" />
+    <Property Name="Sifre" Type="varchar" MaxLength="16" />
+    <Property Name="CreatedAt" Type="smalldatetime" />
+  </EntityType>
+  <EntityType Name="Bilgiler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="varchar" MaxLength="50" />
+    <Property Name="Soyad" Type="varchar" MaxLength="50" />
+    <Property Name="Telefon" Type="varchar" MaxLength="20" />
+    <Property Name="Mail" Type="varchar" MaxLength="50" />
+    <Property Name="Adres" Type="varchar" MaxLength="250" />
+    <Property Name="Konum" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Calismalar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KisiId" Type="int" />
+    <Property Name="Adres" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="GenelBilgiler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BilgilerId" Type="int" />
+    <Property Name="Egitim" Type="varchar(max)" />
+    <Property Name="IsDeneyimleri" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="Mesajlar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="varchar" MaxLength="80" />
+    <Property Name="Mail" Type="varchar" MaxLength="100" />
+    <Property Name="Konu" Type="varchar" MaxLength="100" />
+    <Property Name="Mesaj" Type="varchar" MaxLength="500" />
+    <Property Name="Tarih" Type="smalldatetime" />
+  </EntityType>
+  <EntityType Name="Yetenekler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KisiId" Type="int" />
+    <Property Name="Yetenek" Type="varchar" MaxLength="50" />
+    <Property Name="Derece" Type="tinyint" />
+  </EntityType>
+  <Association Name="FK_Calismalar_Bilgiler">
+    <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="0..1" />
+    <End Role="Calismalar" Type="Self.Calismalar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bilgiler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Calismalar">
+        <PropertyRef Name="KisiId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GenelBilgiler_Bilgiler">
+    <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="0..1" />
+    <End Role="GenelBilgiler" Type="Self.GenelBilgiler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bilgiler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GenelBilgiler">
+        <PropertyRef Name="BilgilerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yetenekler_Bilgiler">
+    <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="0..1" />
+    <End Role="Yetenekler" Type="Self.Yetenekler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bilgiler">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Yetenekler">
+        <PropertyRef Name="KisiId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbCvModelStoreContainer">
+    <EntitySet Name="Adminler" EntityType="Self.Adminler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Bilgiler" EntityType="Self.Bilgiler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Calismalar" EntityType="Self.Calismalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GenelBilgiler" EntityType="Self.GenelBilgiler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mesajlar" EntityType="Self.Mesajlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yetenekler" EntityType="Self.Yetenekler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Calismalar_Bilgiler" Association="Self.FK_Calismalar_Bilgiler">
+      <End Role="Bilgiler" EntitySet="Bilgiler" />
+      <End Role="Calismalar" EntitySet="Calismalar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GenelBilgiler_Bilgiler" Association="Self.FK_GenelBilgiler_Bilgiler">
+      <End Role="Bilgiler" EntitySet="Bilgiler" />
+      <End Role="GenelBilgiler" EntitySet="GenelBilgiler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yetenekler_Bilgiler" Association="Self.FK_Yetenekler_Bilgiler">
+      <End Role="Bilgiler" EntitySet="Bilgiler" />
+      <End Role="Yetenekler" EntitySet="Yetenekler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

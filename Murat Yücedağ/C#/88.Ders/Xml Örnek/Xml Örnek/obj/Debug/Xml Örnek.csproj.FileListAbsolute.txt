@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\bin\Debug\Xml Örnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\bin\Debug\Xml Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\bin\Debug\Xml Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml_Örnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml_Örnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml Örnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml Örnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\88.Ders\Xml Örnek\Xml Örnek\obj\Debug\Xml Örnek.csproj.AssemblyReference.cache

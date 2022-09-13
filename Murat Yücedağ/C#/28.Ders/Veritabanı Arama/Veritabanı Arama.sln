@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veritabanı Arama", "Veritabanı Arama\Veritabanı Arama.csproj", "{6F7D78F8-4512-4F02-B543-DF1A0147214D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7D78F8-4512-4F02-B543-DF1A0147214D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7D78F8-4512-4F02-B543-DF1A0147214D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7D78F8-4512-4F02-B543-DF1A0147214D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7D78F8-4512-4F02-B543-DF1A0147214D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E954E7-80CB-40AD-B0BC-AF22224B01D6}
+	EndGlobalSection
+EndGlobal

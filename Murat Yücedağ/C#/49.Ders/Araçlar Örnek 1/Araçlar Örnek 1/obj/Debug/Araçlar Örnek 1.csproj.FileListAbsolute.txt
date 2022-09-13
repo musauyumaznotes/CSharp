@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\bin\Debug\Araçlar Örnek 1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\bin\Debug\Araçlar Örnek 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\bin\Debug\Araçlar Örnek 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar Örnek 1.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar_Örnek_1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar_Örnek_1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar Örnek 1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar Örnek 1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar Örnek 1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar Örnek 1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\49.Ders\Araçlar Örnek 1\Araçlar Örnek 1\obj\Debug\Araçlar_Örnek_1.Form2.resources

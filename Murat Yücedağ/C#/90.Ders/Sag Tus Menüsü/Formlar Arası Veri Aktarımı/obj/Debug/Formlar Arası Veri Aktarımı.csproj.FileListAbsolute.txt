@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\bin\Debug\Formlar Arası Veri Aktarımı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\bin\Debug\Formlar Arası Veri Aktarımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\bin\Debug\Formlar Arası Veri Aktarımı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar_Arası_Veri_Aktarımı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar_Arası_Veri_Aktarımı.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar_Arası_Veri_Aktarımı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar Arası Veri Aktarımı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar Arası Veri Aktarımı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar Arası Veri Aktarımı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\90.Ders\Sag Tus Menüsü\Formlar Arası Veri Aktarımı\obj\Debug\Formlar Arası Veri Aktarımı.pdb

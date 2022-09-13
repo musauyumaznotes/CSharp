@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\bin\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\bin\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\bin\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Interop.SpeechLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders_49_SpeechLib_ile_Sesli_Metin_İşlemi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders_49_SpeechLib_ile_Sesli_Metin_İşlemi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 49 SpeechLib ile Sesli Metin İşlemi\Ders 49 SpeechLib ile Sesli Metin İşlemi\obj\Debug\Ders 49 SpeechLib ile Sesli Metin İşlemi.pdb

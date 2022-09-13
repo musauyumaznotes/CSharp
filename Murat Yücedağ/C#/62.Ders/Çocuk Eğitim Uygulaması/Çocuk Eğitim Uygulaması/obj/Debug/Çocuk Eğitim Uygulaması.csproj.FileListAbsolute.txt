@@ -1,0 +1,18 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmAnaForm.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmResimlerSesler.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmEslestirKelime.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\62.Ders\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.FrmAritmetik.resources

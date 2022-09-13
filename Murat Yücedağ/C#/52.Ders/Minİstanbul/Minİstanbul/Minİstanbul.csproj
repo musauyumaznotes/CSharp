@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0FEF2F94-F552-4DB8-8963-E94D650E0B66}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Minİstanbul</RootNamespace>
+    <AssemblyName>Minİstanbul</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAnasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnasayfa.Designer.cs">
+      <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCamiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCamiler.Designer.cs">
+      <DependentUpon>FrmCamiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCarsılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCarsılar.Designer.cs">
+      <DependentUpon>FrmCarsılar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHarita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHarita.Designer.cs">
+      <DependentUpon>FrmHarita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKamera.Designer.cs">
+      <DependentUpon>FrmKamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKorular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKorular.Designer.cs">
+      <DependentUpon>FrmKorular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMetro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMetro.Designer.cs">
+      <DependentUpon>FrmMetro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMetrobus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMetrobus.Designer.cs">
+      <DependentUpon>FrmMetrobus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMuzeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMuzeler.Designer.cs">
+      <DependentUpon>FrmMuzeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNeAlinir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNeAlinir.Designer.cs">
+      <DependentUpon>FrmNeAlinir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNeYenir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNeYenir.Designer.cs">
+      <DependentUpon>FrmNeYenir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kopruler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kopruler.Designer.cs">
+      <DependentUpon>Kopruler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAnasayfa.resx">
+      <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCamiler.resx">
+      <DependentUpon>FrmCamiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCarsılar.resx">
+      <DependentUpon>FrmCarsılar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHarita.resx">
+      <DependentUpon>FrmHarita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKamera.resx">
+      <DependentUpon>FrmKamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKorular.resx">
+      <DependentUpon>FrmKorular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMetro.resx">
+      <DependentUpon>FrmMetro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMetrobus.resx">
+      <DependentUpon>FrmMetrobus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMuzeler.resx">
+      <DependentUpon>FrmMuzeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNeAlinir.resx">
+      <DependentUpon>FrmNeAlinir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNeYenir.resx">
+      <DependentUpon>FrmNeYenir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kopruler.resx">
+      <DependentUpon>Kopruler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

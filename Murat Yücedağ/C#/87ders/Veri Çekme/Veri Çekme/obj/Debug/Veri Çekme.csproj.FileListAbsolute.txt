@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\bin\Debug\Veri Çekme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\bin\Debug\Veri Çekme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\bin\Debug\Veri Çekme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri Çekme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri_Çekme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri_Çekme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri Çekme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri Çekme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri Çekme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri Çekme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri_Çekme.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\87ders\Veri Çekme\Veri Çekme\obj\Debug\Veri Çekme.csproj.CopyComplete

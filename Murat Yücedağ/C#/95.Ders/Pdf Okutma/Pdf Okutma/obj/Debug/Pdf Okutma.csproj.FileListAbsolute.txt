@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf Okutma.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf_Okutma.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf_Okutma.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf Okutma.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf Okutma.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf Okutma.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\bin\Debug\Pdf Okutma.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\bin\Debug\Pdf Okutma.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\bin\Debug\Pdf Okutma.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf Okutma.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\95.Ders\Pdf Okutma\Pdf Okutma\obj\Debug\Pdf Okutma.pdb

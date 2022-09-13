@@ -1,0 +1,121 @@
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\CvEntityProje.dll.config
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\CvEntityProje.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\CvEntityProje.pdb
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\csc.exe
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\csc.exe.config
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\csc.rsp
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\csi.exe
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\csi.exe.config
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\csi.rsp
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.AppContext.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Console.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Net.Http.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\vbc.exe
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\vbc.exe.config
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\vbc.rsp
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.dll
+C:\Users\musau\Desktop\CS(15.10.2021)\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\CvEntityProje.dll.config
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\CvEntityProje.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\CvEntityProje.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\csc.exe
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\csc.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\csc.rsp
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\csi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\csi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\csi.rsp
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.AppContext.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Console.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Net.Http.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\vbc.exe
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\vbc.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\vbc.rsp
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\EntityFramework.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\EntityFramework.SqlServer.dll
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\EntityFramework.xml
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\bin\EntityFramework.SqlServer.xml
+C:\Users\musau\Desktop\Murat Yücedağ\CvEntityProje\CvEntityProje\obj\Debug\CvEntityProje.csproj.CopyComplete

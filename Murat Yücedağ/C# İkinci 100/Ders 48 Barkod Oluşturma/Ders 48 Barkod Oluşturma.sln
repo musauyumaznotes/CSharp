@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 48 Barkod Oluşturma", "Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma.csproj", "{5955F41C-91F3-461D-AB13-ADBC23C9134A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5955F41C-91F3-461D-AB13-ADBC23C9134A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5955F41C-91F3-461D-AB13-ADBC23C9134A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5955F41C-91F3-461D-AB13-ADBC23C9134A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5955F41C-91F3-461D-AB13-ADBC23C9134A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C8DE0F8-30A0-4765-86AC-5F5F6F6434D1}
+	EndGlobalSection
+EndGlobal

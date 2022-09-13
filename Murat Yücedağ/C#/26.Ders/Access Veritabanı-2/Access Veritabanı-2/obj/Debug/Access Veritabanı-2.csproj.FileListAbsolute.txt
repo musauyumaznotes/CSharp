@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\bin\Debug\Access Veritabanı-2.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\bin\Debug\Access Veritabanı-2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\bin\Debug\Access Veritabanı-2.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access Veritabanı-2.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access_Veritabanı_2.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access_Veritabanı_2.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access Veritabanı-2.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access Veritabanı-2.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access Veritabanı-2.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\26.Ders\Access Veritabanı-2\Access Veritabanı-2\obj\Debug\Access Veritabanı-2.pdb

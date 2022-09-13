@@ -1,0 +1,17 @@
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

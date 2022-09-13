@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\bin\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\bin\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\bin\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders_16_Veri_Tabanlı_Sözlük_Uygulaması.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders_16_Veri_Tabanlı_Sözlük_Uygulaması.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 16 Veri Tabanlı Sözlük Uygulaması\Ders 16 Veri Tabanlı Sözlük Uygulaması\obj\Debug\Ders 16 Veri Tabanlı Sözlük Uygulaması.pdb

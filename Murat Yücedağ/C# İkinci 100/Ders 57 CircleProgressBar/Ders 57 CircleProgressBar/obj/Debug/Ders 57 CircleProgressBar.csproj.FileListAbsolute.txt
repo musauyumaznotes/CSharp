@@ -1,0 +1,13 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\bin\Debug\Ders 57 CircleProgressBar.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\bin\Debug\Ders 57 CircleProgressBar.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\bin\Debug\Ders 57 CircleProgressBar.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\bin\Debug\CircularProgressBar.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\bin\Debug\WinFormAnimation.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\bin\Debug\CircularProgressBar.xml
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders 57 CircleProgressBar.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders_57_CircleProgressBar.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders_57_CircleProgressBar.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders 57 CircleProgressBar.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders 57 CircleProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders 57 CircleProgressBar.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 57 CircleProgressBar\Ders 57 CircleProgressBar\obj\Debug\Ders 57 CircleProgressBar.pdb

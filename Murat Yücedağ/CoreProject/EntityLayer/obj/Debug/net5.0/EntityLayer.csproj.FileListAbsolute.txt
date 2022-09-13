@@ -1,0 +1,12 @@
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\GithubRepom\CSharp\Murat Yücedağ\CoreProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

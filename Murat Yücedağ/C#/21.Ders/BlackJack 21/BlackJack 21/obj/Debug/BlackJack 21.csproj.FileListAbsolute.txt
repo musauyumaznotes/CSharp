@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\bin\Debug\BlackJack 21.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\bin\Debug\BlackJack 21.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\bin\Debug\BlackJack 21.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack 21.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack_21.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack_21.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack 21.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack 21.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack 21.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\21.Ders\BlackJack 21\BlackJack 21\obj\Debug\BlackJack 21.pdb

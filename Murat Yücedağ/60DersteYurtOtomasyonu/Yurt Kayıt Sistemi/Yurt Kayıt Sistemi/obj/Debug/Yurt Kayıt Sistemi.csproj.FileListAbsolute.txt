@@ -1,0 +1,64 @@
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Yurt Kayıt Sistemi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Yurt Kayıt Sistemi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Yurt Kayıt Sistemi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrKayit.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmBolumler.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmAnaForm.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOdemeler.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrenciDuzenle.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrenciListesi.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGider.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGiderDuzenle.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGiderListesi.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGelirIstatistik.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmAdminGiris.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmKullaniciIslemleri.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmPersonel.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmNotEkle.resources
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\musau\Desktop\Murat Yücedağ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrenciRapor.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Yurt Kayıt Sistemi.exe.config
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Yurt Kayıt Sistemi.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Yurt Kayıt Sistemi.pdb
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Newtonsoft.Json.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\Interop.WMPLib.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\bin\Debug\AxInterop.WMPLib.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.AssemblyReference.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Interop.WMPLib.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\AxInterop.WMPLib.dll
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.ResolveComReference.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmAdminGiris.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmAnaForm.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmBolumler.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGelirIstatistik.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGider.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGiderDuzenle.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmGiderListesi.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmKullaniciIslemleri.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmNotEkle.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOdemeler.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrenciDuzenle.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrenciListesi.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrenciRapor.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmOgrKayit.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.FrmPersonel.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt_Kayıt_Sistemi.Properties.Resources.resources
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.GenerateResource.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.CoreCompileInputs.cache
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.csproj.CopyComplete
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.exe
+D:\Tamamlanan Projeler\MURAT YÜCEDAĞ\60DersteYurtOtomasyonu\Yurt Kayıt Sistemi\Yurt Kayıt Sistemi\obj\Debug\Yurt Kayıt Sistemi.pdb

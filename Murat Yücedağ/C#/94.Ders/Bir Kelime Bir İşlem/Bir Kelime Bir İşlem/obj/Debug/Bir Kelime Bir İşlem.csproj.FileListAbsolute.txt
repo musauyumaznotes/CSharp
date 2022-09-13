@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\94.Ders\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.pdb

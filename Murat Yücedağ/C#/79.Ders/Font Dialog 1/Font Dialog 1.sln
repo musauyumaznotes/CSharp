@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Font Dialog 1", "Font Dialog 1\Font Dialog 1.csproj", "{A6540218-869D-4F06-8405-BAE41ABE767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6540218-869D-4F06-8405-BAE41ABE767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6540218-869D-4F06-8405-BAE41ABE767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6540218-869D-4F06-8405-BAE41ABE767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6540218-869D-4F06-8405-BAE41ABE767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADD484B-A9BB-4DF6-AC14-D39FE4BE87DD}
+	EndGlobalSection
+EndGlobal

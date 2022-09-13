@@ -1,0 +1,12 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\bin\Debug\Ders 48 Barkod Oluşturma.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\bin\Debug\Ders 48 Barkod Oluşturma.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\bin\Debug\Ders 48 Barkod Oluşturma.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders 48 Barkod Oluşturma.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders_48_Barkod_Oluşturma.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders_48_Barkod_Oluşturma.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders 48 Barkod Oluşturma.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders 48 Barkod Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders 48 Barkod Oluşturma.csproj.CopyComplete
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders 48 Barkod Oluşturma.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 48 Barkod Oluşturma\Ders 48 Barkod Oluşturma\obj\Debug\Ders 48 Barkod Oluşturma.pdb

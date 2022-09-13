@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Personel2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Tbl_Personel">
+    <Key>
+      <PropertyRef Name="Perid" />
+    </Key>
+    <Property Name="Perid" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PerAd" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="PerSoyad" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="PerSehir" Type="String" MaxLength="13" FixedLength="false" Unicode="false" />
+    <Property Name="PerMaas" Type="Int16" />
+    <Property Name="PerDurum" Type="Boolean" />
+    <Property Name="PerYas" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Personel2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tbl_Personel" EntityType="Self.Tbl_Personel" />
+  </EntityContainer>
+</Schema>

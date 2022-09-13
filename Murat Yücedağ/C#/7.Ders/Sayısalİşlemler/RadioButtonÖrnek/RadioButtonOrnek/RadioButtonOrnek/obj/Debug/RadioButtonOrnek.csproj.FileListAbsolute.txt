@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\bin\Debug\RadioButtonOrnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\bin\Debug\RadioButtonOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\bin\Debug\RadioButtonOrnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\7.Ders\Sayısalİşlemler\RadioButtonÖrnek\RadioButtonOrnek\RadioButtonOrnek\obj\Debug\RadioButtonOrnek.MenuStrip.resources

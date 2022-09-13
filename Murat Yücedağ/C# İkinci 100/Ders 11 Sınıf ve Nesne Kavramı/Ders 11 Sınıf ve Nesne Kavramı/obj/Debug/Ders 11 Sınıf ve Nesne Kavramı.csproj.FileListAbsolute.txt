@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\bin\Debug\Ders 11 Sınıf ve Nesne Kavramı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\bin\Debug\Ders 11 Sınıf ve Nesne Kavramı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\bin\Debug\Ders 11 Sınıf ve Nesne Kavramı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders 11 Sınıf ve Nesne Kavramı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders_11_Sınıf_ve_Nesne_Kavramı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders_11_Sınıf_ve_Nesne_Kavramı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders 11 Sınıf ve Nesne Kavramı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders 11 Sınıf ve Nesne Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders 11 Sınıf ve Nesne Kavramı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 11 Sınıf ve Nesne Kavramı\Ders 11 Sınıf ve Nesne Kavramı\obj\Debug\Ders 11 Sınıf ve Nesne Kavramı.pdb

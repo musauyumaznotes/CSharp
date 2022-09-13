@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\bin\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\bin\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\bin\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\obj\Debug\Ders8_Dışarıdan_Bağlantı_Adresi_Alma_SQL.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\obj\Debug\Ders8_Dışarıdan_Bağlantı_Adresi_Alma_SQL.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\obj\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\obj\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\obj\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\Ders8 Dışarıdan Bağlantı Adresi Alma SQL\obj\Debug\Ders8 Dışarıdan Bağlantı Adresi Alma SQL.pdb

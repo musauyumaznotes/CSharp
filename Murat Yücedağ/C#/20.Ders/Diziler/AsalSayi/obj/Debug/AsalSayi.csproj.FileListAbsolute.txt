@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\bin\Debug\AsalSayi.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\bin\Debug\AsalSayi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\bin\Debug\AsalSayi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\AsalSayi\obj\Debug\AsalSayi.csproj.AssemblyReference.cache

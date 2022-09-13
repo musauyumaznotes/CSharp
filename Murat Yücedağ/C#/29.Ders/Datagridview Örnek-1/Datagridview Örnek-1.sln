@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datagridview Örnek-1", "Datagridview Örnek-1\Datagridview Örnek-1.csproj", "{1E6CB37A-B8CB-4FEA-8F04-67E3AA9EFA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datagridview Örnek-2", "..\Datagridview Örnek-2\Datagridview Örnek-2.csproj", "{C81516F7-1804-4608-996B-9F2F64101035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6CB37A-B8CB-4FEA-8F04-67E3AA9EFA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6CB37A-B8CB-4FEA-8F04-67E3AA9EFA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6CB37A-B8CB-4FEA-8F04-67E3AA9EFA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6CB37A-B8CB-4FEA-8F04-67E3AA9EFA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81516F7-1804-4608-996B-9F2F64101035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81516F7-1804-4608-996B-9F2F64101035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81516F7-1804-4608-996B-9F2F64101035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81516F7-1804-4608-996B-9F2F64101035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867FAC09-8688-4915-9AF1-CE91BB43DF52}
+	EndGlobalSection
+EndGlobal

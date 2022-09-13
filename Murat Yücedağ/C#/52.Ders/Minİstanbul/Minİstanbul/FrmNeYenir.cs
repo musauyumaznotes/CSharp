@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Minİstanbul
+{
+    public partial class FrmNeYenir : Form
+    {
+        public FrmNeYenir()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmAnasayfa frmAnasayfa = new FrmAnasayfa();
+            frmAnasayfa.Show();
+            this.Hide();
+        }
+    }
+}

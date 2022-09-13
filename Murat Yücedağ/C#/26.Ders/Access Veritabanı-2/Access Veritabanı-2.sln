@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access Veritabanı-2", "Access Veritabanı-2\Access Veritabanı-2.csproj", "{406E0A4A-8180-448A-93B2-3EA75B29755C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406E0A4A-8180-448A-93B2-3EA75B29755C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406E0A4A-8180-448A-93B2-3EA75B29755C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406E0A4A-8180-448A-93B2-3EA75B29755C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406E0A4A-8180-448A-93B2-3EA75B29755C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9A7B2D-8375-41D9-A98A-53EF1794DC2D}
+	EndGlobalSection
+EndGlobal

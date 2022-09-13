@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\50.Ders\TreeView\TreeView\obj\Debug\TreeView.Form2.resources

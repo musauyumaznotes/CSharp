@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\bin\Debug\Point Örnek.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\bin\Debug\Point Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\bin\Debug\Point Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point_Örnek.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point_Örnek.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point Örnek.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point Örnek.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point Örnek.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point Örnek.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point Örnek.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\34.Ders\Point Örnek\Point Örnek\obj\Debug\Point_Örnek.Form2.resources

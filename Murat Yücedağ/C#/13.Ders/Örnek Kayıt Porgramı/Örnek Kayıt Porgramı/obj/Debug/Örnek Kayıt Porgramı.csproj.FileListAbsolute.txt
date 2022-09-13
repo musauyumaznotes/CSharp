@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\bin\Debug\Örnek Kayıt Porgramı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\bin\Debug\Örnek Kayıt Porgramı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\bin\Debug\Örnek Kayıt Porgramı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek_Kayıt_Porgramı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek_Kayıt_Porgramı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek Kayıt Porgramı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek Kayıt Porgramı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek Kayıt Porgramı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek Kayıt Porgramı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\13.Ders\Örnek Kayıt Porgramı\Örnek Kayıt Porgramı\obj\Debug\Örnek Kayıt Porgramı.csproj.AssemblyReference.cache

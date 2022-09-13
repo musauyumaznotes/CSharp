@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\bin\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\bin\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\bin\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders_21_SQL_de_Mükerrer_Kayıt_Engelleme.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders_21_SQL_de_Mükerrer_Kayıt_Engelleme.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 21 SQL'de Mükerrer Kayıt Engelleme\Ders 21 SQL'de Mükerrer Kayıt Engelleme\obj\Debug\Ders 21 SQL'de Mükerrer Kayıt Engelleme.pdb

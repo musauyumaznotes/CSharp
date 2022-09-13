@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\92.Ders\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.pdb

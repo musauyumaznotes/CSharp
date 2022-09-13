@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DbCvModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Adminler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KullaniciAdi" Type="varchar" MaxLength="25" />
+          <Property Name="Sifre" Type="varchar" MaxLength="16" />
+          <Property Name="CreatedAt" Type="smalldatetime" />
+        </EntityType>
+        <EntityType Name="Bilgiler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Ad" Type="varchar" MaxLength="50" />
+          <Property Name="Soyad" Type="varchar" MaxLength="50" />
+          <Property Name="Telefon" Type="varchar" MaxLength="20" />
+          <Property Name="Mail" Type="varchar" MaxLength="50" />
+          <Property Name="Adres" Type="varchar" MaxLength="250" />
+          <Property Name="Konum" Type="varchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="Calismalar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KisiId" Type="int" />
+          <Property Name="Adres" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="GenelBilgiler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BilgilerId" Type="int" />
+          <Property Name="Egitim" Type="varchar(max)" />
+          <Property Name="IsDeneyimleri" Type="varchar(max)" />
+        </EntityType>
+        <EntityType Name="Mesajlar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AdSoyad" Type="varchar" MaxLength="80" />
+          <Property Name="Mail" Type="varchar" MaxLength="100" />
+          <Property Name="Konu" Type="varchar" MaxLength="100" />
+          <Property Name="Mesaj" Type="varchar" MaxLength="500" />
+          <Property Name="Tarih" Type="smalldatetime" />
+        </EntityType>
+        <EntityType Name="Yetenekler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KisiId" Type="int" />
+          <Property Name="Yetenek" Type="varchar" MaxLength="50" />
+          <Property Name="Derece" Type="tinyint" />
+        </EntityType>
+        <Association Name="FK_Calismalar_Bilgiler">
+          <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="0..1" />
+          <End Role="Calismalar" Type="Self.Calismalar" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bilgiler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Calismalar">
+              <PropertyRef Name="KisiId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GenelBilgiler_Bilgiler">
+          <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="0..1" />
+          <End Role="GenelBilgiler" Type="Self.GenelBilgiler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bilgiler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="GenelBilgiler">
+              <PropertyRef Name="BilgilerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Yetenekler_Bilgiler">
+          <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="0..1" />
+          <End Role="Yetenekler" Type="Self.Yetenekler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bilgiler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Yetenekler">
+              <PropertyRef Name="KisiId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DbCvModelStoreContainer">
+          <EntitySet Name="Adminler" EntityType="Self.Adminler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Bilgiler" EntityType="Self.Bilgiler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Calismalar" EntityType="Self.Calismalar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="GenelBilgiler" EntityType="Self.GenelBilgiler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Mesajlar" EntityType="Self.Mesajlar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Yetenekler" EntityType="Self.Yetenekler" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Calismalar_Bilgiler" Association="Self.FK_Calismalar_Bilgiler">
+            <End Role="Bilgiler" EntitySet="Bilgiler" />
+            <End Role="Calismalar" EntitySet="Calismalar" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GenelBilgiler_Bilgiler" Association="Self.FK_GenelBilgiler_Bilgiler">
+            <End Role="Bilgiler" EntitySet="Bilgiler" />
+            <End Role="GenelBilgiler" EntitySet="GenelBilgiler" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Yetenekler_Bilgiler" Association="Self.FK_Yetenekler_Bilgiler">
+            <End Role="Bilgiler" EntitySet="Bilgiler" />
+            <End Role="Yetenekler" EntitySet="Yetenekler" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DbCvModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Mesajlar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AdSoyad" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+          <Property Name="Mail" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Mesaj" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="Konu" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Tarih" Type="DateTime" Precision="0" />
+        </EntityType>
+        <EntityContainer Name="DbCvEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Mesajlar" EntityType="Self.Mesajlar" />
+          <EntitySet Name="Bilgiler" EntityType="DbCvModel.Bilgiler" />
+          <EntitySet Name="Calismalar" EntityType="DbCvModel.Calismalar" />
+          <EntitySet Name="GenelBilgiler" EntityType="DbCvModel.GenelBilgiler" />
+          <EntitySet Name="Yetenekler" EntityType="DbCvModel.Yetenekler" />
+          <AssociationSet Name="FK_Calismalar_Bilgiler" Association="DbCvModel.FK_Calismalar_Bilgiler">
+            <End Role="Bilgiler" EntitySet="Bilgiler" />
+            <End Role="Calismalar" EntitySet="Calismalar" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GenelBilgiler_Bilgiler" Association="DbCvModel.FK_GenelBilgiler_Bilgiler">
+            <End Role="Bilgiler" EntitySet="Bilgiler" />
+            <End Role="GenelBilgiler" EntitySet="GenelBilgiler" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Yetenekler_Bilgiler" Association="DbCvModel.FK_Yetenekler_Bilgiler">
+            <End Role="Bilgiler" EntitySet="Bilgiler" />
+            <End Role="Yetenekler" EntitySet="Yetenekler" />
+          </AssociationSet>
+          <EntitySet Name="Adminler" EntityType="DbCvModel.Adminler" />
+        </EntityContainer>
+        <EntityType Name="Bilgiler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Adres" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Konum" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Calismalar" Relationship="DbCvModel.FK_Calismalar_Bilgiler" FromRole="Bilgiler" ToRole="Calismalar" />
+          <NavigationProperty Name="GenelBilgiler" Relationship="DbCvModel.FK_GenelBilgiler_Bilgiler" FromRole="Bilgiler" ToRole="GenelBilgiler" />
+          <NavigationProperty Name="Yetenekler" Relationship="DbCvModel.FK_Yetenekler_Bilgiler" FromRole="Bilgiler" ToRole="Yetenekler" />
+        </EntityType>
+        <EntityType Name="Calismalar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KisiId" Type="Int32" />
+          <Property Name="Adres" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Bilgiler" Relationship="DbCvModel.FK_Calismalar_Bilgiler" FromRole="Calismalar" ToRole="Bilgiler" />
+        </EntityType>
+        <EntityType Name="GenelBilgiler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="BilgilerId" Type="Int32" />
+          <Property Name="Egitim" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IsDeneyimleri" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Bilgiler" Relationship="DbCvModel.FK_GenelBilgiler_Bilgiler" FromRole="GenelBilgiler" ToRole="Bilgiler" />
+        </EntityType>
+        <EntityType Name="Yetenekler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KisiId" Type="Int32" />
+          <Property Name="Yetenek" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Derece" Type="Byte" />
+          <NavigationProperty Name="Bilgiler" Relationship="DbCvModel.FK_Yetenekler_Bilgiler" FromRole="Yetenekler" ToRole="Bilgiler" />
+        </EntityType>
+        <Association Name="FK_Calismalar_Bilgiler">
+          <End Type="DbCvModel.Bilgiler" Role="Bilgiler" Multiplicity="0..1" />
+          <End Type="DbCvModel.Calismalar" Role="Calismalar" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bilgiler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Calismalar">
+              <PropertyRef Name="KisiId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GenelBilgiler_Bilgiler">
+          <End Type="DbCvModel.Bilgiler" Role="Bilgiler" Multiplicity="0..1" />
+          <End Type="DbCvModel.GenelBilgiler" Role="GenelBilgiler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bilgiler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="GenelBilgiler">
+              <PropertyRef Name="BilgilerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Yetenekler_Bilgiler">
+          <End Type="DbCvModel.Bilgiler" Role="Bilgiler" Multiplicity="0..1" />
+          <End Type="DbCvModel.Yetenekler" Role="Yetenekler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bilgiler">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Yetenekler">
+              <PropertyRef Name="KisiId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Adminler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KullaniciAdi" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+          <Property Name="Sifre" Type="String" MaxLength="16" FixedLength="false" Unicode="false" />
+          <Property Name="CreatedAt" Type="DateTime" Precision="0" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DbCvModelStoreContainer" CdmEntityContainer="DbCvEntities">
+          <EntitySetMapping Name="Mesajlar">
+            <EntityTypeMapping TypeName="DbCvModel.Mesajlar">
+              <MappingFragment StoreEntitySet="Mesajlar">
+                <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+                <ScalarProperty Name="Konu" ColumnName="Konu" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+                <ScalarProperty Name="Mail" ColumnName="Mail" />
+                <ScalarProperty Name="Mesaj" ColumnName="Mesaj" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Bilgiler">
+            <EntityTypeMapping TypeName="DbCvModel.Bilgiler">
+              <MappingFragment StoreEntitySet="Bilgiler">
+                <ScalarProperty Name="Konum" ColumnName="Konum" />
+                <ScalarProperty Name="Adres" ColumnName="Adres" />
+                <ScalarProperty Name="Mail" ColumnName="Mail" />
+                <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+                <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Calismalar">
+            <EntityTypeMapping TypeName="DbCvModel.Calismalar">
+              <MappingFragment StoreEntitySet="Calismalar">
+                <ScalarProperty Name="Adres" ColumnName="Adres" />
+                <ScalarProperty Name="KisiId" ColumnName="KisiId" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GenelBilgiler">
+            <EntityTypeMapping TypeName="DbCvModel.GenelBilgiler">
+              <MappingFragment StoreEntitySet="GenelBilgiler">
+                <ScalarProperty Name="IsDeneyimleri" ColumnName="IsDeneyimleri" />
+                <ScalarProperty Name="Egitim" ColumnName="Egitim" />
+                <ScalarProperty Name="BilgilerId" ColumnName="BilgilerId" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Yetenekler">
+            <EntityTypeMapping TypeName="DbCvModel.Yetenekler">
+              <MappingFragment StoreEntitySet="Yetenekler">
+                <ScalarProperty Name="Derece" ColumnName="Derece" />
+                <ScalarProperty Name="Yetenek" ColumnName="Yetenek" />
+                <ScalarProperty Name="KisiId" ColumnName="KisiId" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Adminler">
+            <EntityTypeMapping TypeName="DbCvModel.Adminler">
+              <MappingFragment StoreEntitySet="Adminler">
+                <ScalarProperty Name="CreatedAt" ColumnName="CreatedAt" />
+                <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+                <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

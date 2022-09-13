@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ders 97 Api ile Hava Durumu Bilgisi Çekme/1.0.0": {
+        "runtime": {
+          "Ders 97 Api ile Hava Durumu Bilgisi Çekme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders 97 Api ile Hava Durumu Bilgisi Çekme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

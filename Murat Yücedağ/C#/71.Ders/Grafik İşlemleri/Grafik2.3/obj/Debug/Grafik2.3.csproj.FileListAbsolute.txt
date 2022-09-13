@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\bin\Debug\Grafik2.3.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\bin\Debug\Grafik2.3.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\bin\Debug\Grafik2.3.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2._3.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2._3.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2.3.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2.3.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2.3.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2.3.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2.3.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\71.Ders\Grafik İşlemleri\Grafik2.3\obj\Debug\Grafik2._3.Form2.resources

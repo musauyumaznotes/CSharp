@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\80.Ders\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.EkranGoruntusu.resources

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\20.Ders\Diziler\Diziler\obj\Debug\Diziler.pdb

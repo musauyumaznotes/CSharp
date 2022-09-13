@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\bin\Debug\Yuvarlak Buton.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\bin\Debug\Yuvarlak Buton.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\bin\Debug\Yuvarlak Buton.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak_Buton.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak_Buton.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\76.Ders\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.pdb

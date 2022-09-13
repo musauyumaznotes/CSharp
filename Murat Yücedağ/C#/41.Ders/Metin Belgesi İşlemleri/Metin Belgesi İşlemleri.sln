@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metin Belgesi İşlemleri", "Metin Belgesi İşlemleri\Metin Belgesi İşlemleri.csproj", "{36482CEA-614C-4371-844E-1A7755A49A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36482CEA-614C-4371-844E-1A7755A49A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36482CEA-614C-4371-844E-1A7755A49A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36482CEA-614C-4371-844E-1A7755A49A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36482CEA-614C-4371-844E-1A7755A49A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B281FA-8E9A-4661-BAC8-EC83B9FC7095}
+	EndGlobalSection
+EndGlobal

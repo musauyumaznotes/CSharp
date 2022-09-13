@@ -1,0 +1,12 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\bin\Debug\Excel-1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\bin\Debug\Excel-1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\bin\Debug\Excel-1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel-1.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel-1.csproj.ResolveComReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel_1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel_1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel-1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel-1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel-1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel-1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\60.Ders\Excel-1\Excel-1\obj\Debug\Excel_1.Form2.resources

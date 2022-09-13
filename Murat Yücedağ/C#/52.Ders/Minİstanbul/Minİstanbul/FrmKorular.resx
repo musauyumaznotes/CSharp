@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Ayazağa Korusu, İstanbul'da Sarıyer ilçesinde yer alan bir korudur. İki parçalı, Şişli ilçesinin kuzey bölümünde, kendisiyle aynı adı taşıyan Ayazağa mahallesinde bulunur. Yüzölçümü 7,8 hektar olan korunun içinde günümüze de ulaşan, Osmanlı döneminden kalma kasırlar ve bir av köşkü vardır.
+
+II. Mahmut döneminden bu yana hazine-i hassaya ait olan koru padişahın sık sık ziyaret ettiği avlaklardandı. Koru, Hazinedar Çiftliği'ne aitti. Koru içinde bulunan tarihî değerdeki yapılarla birlikte 90'lı yıllarda İstanbul Kültür ve Sanat Vakfı'na verilmiş ve bu kuruluşun girişimiyle koru çevresinde Ayazağa Kültür ve Kongre Merkezi adında bir yapı kompleksinin yapımına başlanmıştır.
+
+Koruda, 1300 kadar büyük boyutlu, iyi korunmuş anıt ağaç vardır. Bu ağaçlar, diğer İstanbul korularında görülemeyecek boy ve çaplara ulaşmış durumdadır. Koru içinde 40 metreyi aşan boy ve 2 metreyi aşan çapta ağaçlar kayda geçirilmiştir. Koruda genel olarak en sık görülen ağaçlar arasında çınar, ıhlamur, saplı meşe, akçaağaç, at kestanesi sayılabilir.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Emirgân Korusu, İstanbul'un Sarıyer ilçesinde yer alan bir korudur. İstanbul Boğazı kıyılarında, Emirgân-İstinye semtleri arasında yer alır. İstanbul Boğazı kıyısında, 47,2 hektarlık bir alanda sırtlar ve yamaçlar üstüne yayılmıştır. Çevresi yüksek duvarlarla çevrilmiş durumdadır.
+
+Koru, 17. yüzyılda Osmanlı padişahı IV. Murad tarafından İranlı Emir Güne Han'a armağan edilmiştir. Daha önce Feridun Bahçeleri olarak anılan bölge bundan sonra Emirgân Korusu olarak anılmaya başlanmıştır. Yüzyıllar boyunca pek çok kez el değiştirmiş, 19. yüzyılda Osmanlı Padişahı Abdülaziz tarafından Mısır Hıdivi İsmail Paşa'ya verilmiştir. 1871-1878 yılları arasında koru içinde 3 köşk yaptırılmıştır. Günümüze de ulaşan bu köşkler Sarı Köşk, Pembe Köşk ve Beyaz Köşk olarak adlandırılmaktadır. 1940 yılında dönemin İstanbul belediye başkanı Lütfi Kırdar'ın girişimiyle kamulaştırılıp park olarak düzenlenerek halka açılmıştır.
+
+2006 yılından itibaren her yıl nisan ayında Lâle Festivali düzenlenmektedir.</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>Yıldız Parkı (Yıldız Korusu olarak da bilinir), İstanbul'un, Beşiktaş İlçesinde yer alan tarihi park. Balmumcu'dan Ortaköy'e uzanan Palanga Caddesi kuzey ve doğu sınırını, Ortaköy'den Beşiktaş'a uzanan Çırağan Caddesi güney sınırını oluşturur. Biri Palanga Caddesi, diğeri de Çırağan Caddesi üzerinde olmak üzere iki ayrı kapısı olan Yıldız Parkı'nın içinde Malta köşkü ve Çadır Köşkü adı altında iki tane köşk vardır.</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>Fethipaşa Korusu, İstanbul'un Üsküdar ilçesi, Paşalimanı bölgesinde bulunan, denize bakan bir korudur. Kuzguncuk ve Sultantepe mahalleleri arasında yer alır. Koru adını, Osmanlı vezirlerinden Fethi Ahmet Paşa'dan almaktadır. Uzun yıllar boyunca bakımsız kaldıktan sonra, yenilenmiş ve halka açık park hâline getirilmiştir.
+</value>
+  </data>
+</root>

@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\bin\Debug\Ders 42 DataSet Kullanımı ~ Select.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\bin\Debug\Ders 42 DataSet Kullanımı ~ Select.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\bin\Debug\Ders 42 DataSet Kullanımı ~ Select.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders 42 DataSet Kullanımı ~ Select.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders_42_DataSet_Kullanımı___Select.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders_42_DataSet_Kullanımı___Select.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders 42 DataSet Kullanımı ~ Select.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders 42 DataSet Kullanımı ~ Select.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders 42 DataSet Kullanımı ~ Select.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 42 DataSet Kullanımı ~ Select\Ders 42 DataSet Kullanımı ~ Select\obj\Debug\Ders 42 DataSet Kullanımı ~ Select.pdb

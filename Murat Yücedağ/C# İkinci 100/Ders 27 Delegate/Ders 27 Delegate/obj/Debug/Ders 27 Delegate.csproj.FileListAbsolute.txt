@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\bin\Debug\Ders 27 Delegate.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\bin\Debug\Ders 27 Delegate.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\bin\Debug\Ders 27 Delegate.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders 27 Delegate.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders_27_Delegate.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders_27_Delegate.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders 27 Delegate.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders 27 Delegate.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders 27 Delegate.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C# İkinci 100\Ders 27 Delegate\Ders 27 Delegate\obj\Debug\Ders 27 Delegate.pdb

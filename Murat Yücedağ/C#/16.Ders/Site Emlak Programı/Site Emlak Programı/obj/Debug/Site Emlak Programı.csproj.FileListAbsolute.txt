@@ -1,0 +1,11 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site_Emlak_Programı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site_Emlak_Programı.Form2.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site_Emlak_Programı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\16.Ders\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.pdb

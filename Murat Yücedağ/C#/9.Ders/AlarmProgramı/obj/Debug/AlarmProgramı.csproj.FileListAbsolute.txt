@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\bin\Debug\AlarmProgramı.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\bin\Debug\AlarmProgramı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\bin\Debug\AlarmProgramı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\bin\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\Interop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\AlarmProgramı\obj\Debug\AlarmProgramı.csproj.ResolveComReference.cache

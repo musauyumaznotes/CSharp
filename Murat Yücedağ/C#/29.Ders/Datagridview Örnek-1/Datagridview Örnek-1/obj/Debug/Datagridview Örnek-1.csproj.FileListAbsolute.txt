@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\bin\Debug\Datagridview Örnek-1.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\bin\Debug\Datagridview Örnek-1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\bin\Debug\Datagridview Örnek-1.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\obj\Debug\Datagridview_Örnek_1.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\obj\Debug\Datagridview_Örnek_1.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\obj\Debug\Datagridview Örnek-1.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\obj\Debug\Datagridview Örnek-1.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\obj\Debug\Datagridview Örnek-1.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\29.Ders\Datagridview Örnek-1\Datagridview Örnek-1\obj\Debug\Datagridview Örnek-1.pdb

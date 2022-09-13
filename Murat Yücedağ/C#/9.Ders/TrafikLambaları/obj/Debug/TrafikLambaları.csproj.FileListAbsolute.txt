@@ -1,0 +1,10 @@
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\bin\Debug\TrafikLambaları.exe.config
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\bin\Debug\TrafikLambaları.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\bin\Debug\TrafikLambaları.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.Form1.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.Properties.Resources.resources
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.csproj.GenerateResource.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.exe
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.pdb
+C:\Users\musau\Desktop\Murat Yücedağ\C#\9.Ders\TrafikLambaları\obj\Debug\TrafikLambaları.csproj.AssemblyReference.cache
