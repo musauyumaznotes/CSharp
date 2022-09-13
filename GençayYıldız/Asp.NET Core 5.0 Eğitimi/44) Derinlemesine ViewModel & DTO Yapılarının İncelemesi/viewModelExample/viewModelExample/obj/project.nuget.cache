@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "voH69/wBiIlZgpLkbo7te5AaUngP1IxsDxo5fPKBMTMIdm/pysLMDOuAAvV38fB18O5UMds2Oo+lXqlsHes1Ng==",
+  "success": true,
+  "projectFilePath": "D:\\GithubRepom\\CSharp\\Gençay Yıldız\\Asp.NET Core 5.0 Eğitimi\\43) Asp.NET Core 5.0 - Baştan Sona Areas Yapılanması\\viewModelExample\\viewModelExample\\viewModelExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musau\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

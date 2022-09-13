@@ -1,0 +1,27 @@
+﻿
+@model (List<Personel> personels,ErrorViewModel error,Deneme deneme)
+{
+    @Model.personels = ViewBag.Data
+    @Model.error = ViewBag.Data2
+    @Model.deneme = ViewBag.Deneme
+}
+    
+
+<table class="table">
+<thead>
+                        <tr>
+                            <th scope="col">Adı</th>
+                            <th scope="col">Soyadı</th>
+                        </tr>
+</thead>
+                    <tbody>
+        @foreach (var personel in Model.personels)
+        {
+                <tr>
+                                <td>@personel.Adi</td>
+                                <td>@personel.Soyadi</td>
+                               
+                            </tr>
+        }
+                    </tbody>                  
+</table>

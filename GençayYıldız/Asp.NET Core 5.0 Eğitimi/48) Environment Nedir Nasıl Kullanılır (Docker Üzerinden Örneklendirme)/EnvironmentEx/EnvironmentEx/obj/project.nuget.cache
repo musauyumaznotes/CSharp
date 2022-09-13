@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWe2x1L20Z3bK3EmvHydu2RwG9RrvS3ReYP3/b4o6v021fyA6bVzDmjt8XIpuU7YwV0gdLymVsxIewmHCkX65Q==",
+  "success": true,
+  "projectFilePath": "D:\\GithubRepom\\CSharp\\Gençay Yıldız\\Asp.NET Core 5.0 Eğitimi\\48) Asp.NET Core 5.0 - Environment Nedir Nasıl Kullanılır (Docker Üzerinden Örneklendirme)\\EnvironmentEx\\EnvironmentEx\\EnvironmentEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

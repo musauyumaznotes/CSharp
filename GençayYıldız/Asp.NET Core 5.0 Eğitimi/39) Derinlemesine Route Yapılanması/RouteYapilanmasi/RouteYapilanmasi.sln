@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteYapilanmasi3", "RouteYapilanmasi3\RouteYapilanmasi3.csproj", "{B7FD79A7-B0D7-4EB8-8097-E74DBEAEDB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FD79A7-B0D7-4EB8-8097-E74DBEAEDB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FD79A7-B0D7-4EB8-8097-E74DBEAEDB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FD79A7-B0D7-4EB8-8097-E74DBEAEDB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FD79A7-B0D7-4EB8-8097-E74DBEAEDB90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {905EB8BE-324F-4EFD-8B33-AF79A277F786}
+	EndGlobalSection
+EndGlobal
