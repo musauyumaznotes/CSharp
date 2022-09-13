@@ -1,0 +1,6 @@
+﻿<h1>Get Products</h1>
+
+@Html.Partial("~/Views/Product/Partials/ListPartial.cshtml",new OrnekUygulama.Models.Product())
+@*Biz burada hem partial yolunu hem de gönderilecek modeli belirledik bu yüzden GetProducts'a gelen modelleri 
+artık partial tarafından göremeyiz çünkü sınırlamamızı gerçekleştirdik
+yani ben GetProducts'a user göndersem bile Partial göremez çünkü ben partial'a Product nesnesini gönderdim*@

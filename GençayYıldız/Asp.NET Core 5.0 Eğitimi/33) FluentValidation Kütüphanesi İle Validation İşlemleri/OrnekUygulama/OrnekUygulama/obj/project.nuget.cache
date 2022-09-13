@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOxjM8bzxxlIrZ7byx2tIUDy5hCvE5pZ95MNi2qQi3tepz+Mnab+do7BALbt0vAlSQLWK6BqgtP3NyyF0gK6Zw==",
+  "success": true,
+  "projectFilePath": "D:\\GithubRepom\\CSharp\\Gençay Yıldız\\Asp.NET Core 5.0 Eğitimi\\33) Asp.NET Core 5.0 - FluentValidation Kütüphanesi İle Validation İşlemleri\\OrnekUygulama\\OrnekUygulama\\OrnekUygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musau\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

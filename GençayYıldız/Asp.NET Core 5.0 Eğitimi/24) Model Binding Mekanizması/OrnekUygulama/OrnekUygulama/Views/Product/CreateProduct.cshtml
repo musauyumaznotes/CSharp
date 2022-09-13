@@ -1,0 +1,12 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@model OrnekUygulama.Models.Product
+
+<form asp-action="CreateProduct" asp-controller="Product" method="post">
+    <input type="text" asp-for="ProductName" placeholder="Product Name"/>
+    @*@Html.TextBoxFor(x=>x.ProductName ,"" , new {placeHolder = "Product Name"})*@
+    <br />
+    <input type="number" asp-for="Quantity" name="Quantity" placeholder="Quantity"/>
+    @*@Html.TextBoxFor(x=>x.Quantity ,"" , new {placeHolder = "Quantity",type="number"})*@
+    <br />
+    <button>Ürün Ekle</button>
+</form>

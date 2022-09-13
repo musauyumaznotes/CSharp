@@ -1,0 +1,80 @@
+﻿@*Razor Nedir? : Asp.NET Core MVC mimarisinde .cshtml uzantılı dosyalarda HTML ile birlikte yazılan C# kodlarının
+    server tarafında çalıştırılmasını sağlayan bir teknolojidir.
+*@
+@*@ Operatörü : @ Operatörü, razor operatörüdür. *@
+@*Razor İle Değişken Oluşturma*@
+
+@{
+    string metin = "agagh swswe gasewg qa";
+}
+
+@*Razor İle Değişken Okuma*@
+@{
+    int a = 5;
+    Console.WriteLine(a);
+}
+@*Razor İle Parçalı Scope Yapısı : Aynı derecedeki tüm scopeların içindeki değişkenlere erişilebilir çünkü sayfa
+derlendiği zaman aynı dereceli scopelar sadece tek bir scope varmış gibi davranır
+*@
+@{
+    Console.WriteLine(metin);
+    Console.WriteLine(a);
+}
+
+@*Razor İçerisinde HTML Kullanımı*@
+@{
+    <div></div>
+}
+
+
+@*Razor İçerisinde <text> Etiketi*@
+@{
+    if (true)
+    {
+        <text>Evet</text>
+    }
+    else
+    {
+        <text>Hayır</text>
+    }
+}
+@*Razor İle Tek Satırlık İşlemler*@
+<h3>@(metin)</h3>
+<h3>@metin</h3>
+@*Sayısal İşlemler*@
+<h3>@(5+4)</h3>
+@*Ternary Operatörü*@
+<h3>@(33 % 5 == 3 ? "Evet" : "Hayır")</h3>
+@*Koşul Yapıları*@
+
+@{
+    int sayi = 5;
+
+}
+@if (sayi == 5)
+{
+      <h3>gawogk seghsşlkghshosklegpsa</h3>
+}
+else
+{
+
+}
+@*Döngüler*@
+@foreach (var item in collection)
+{
+    
+}
+@for (int i = 0; i < length; i++)
+{
+    
+}
+@try
+{
+
+}
+catch (Exception)
+{
+    
+    throw;
+}
+<!--@*YORUM SATIRI*@-->

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzWujRV1lfStEdsJzDv2xfF5ms73Z+XNxyHkCiOVAMcEh/tc4SlVogjI8mRSn1eap+VP1H1r2oNvbmj9k1bA9A==",
+  "success": true,
+  "projectFilePath": "D:\\GithubRepom\\CSharp\\Gençay Yıldız\\Asp.NET Core 5.0 Eğitimi\\34) Asp.NET Core 5.0 - Server’da ki Validation’ları Dinamik Olarak Client Tabanlı Uygulamak\\OrnekUygulama\\OrnekUygulama\\OrnekUygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musau\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

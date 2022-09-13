@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/Asp.NET%20Core%205.0%20E%C4%9Fitimi/31)%20Asp.NET%20Core%205.0%20-%20Kullan%C4%B1c%C4%B1dan%20Gelen%20Verilerin%20Do%C4%9Frulanmas%C4%B1%20Validations/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-07-18%20163530.png" width="auto">
