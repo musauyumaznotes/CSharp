@@ -1,0 +1,25 @@
+using System;
+ 
+namespace var_dynamic_keywords
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region dynamic
+            //var a = 5;
+            //dynamic _a = "5";
+            //_a.ToStringAhmet();
+            //Console.WriteLine(_a.GetType());
+            //Console.WriteLine(_a * 5);
+ 
+            //dynamic keywordü runtime'da türü belirleyecektir lakin kararlı davranmayacaktır.
+            dynamic x = "Ahmet";
+            Console.WriteLine(x.GetType());
+            x = 3.14D;
+            Console.WriteLine(x.GetType());
+ 
+            #endregion
+        }
+    }
+}

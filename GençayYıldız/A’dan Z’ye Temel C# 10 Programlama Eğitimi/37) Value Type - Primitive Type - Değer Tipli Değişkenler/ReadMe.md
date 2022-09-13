@@ -1,0 +1,2 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/37)%20Value%20Type%20-%20Primitive%20Type%20-%20De%C4%9Fer%20Tipli%20De%C4%9Fi%C5%9Fkenler/gorsel-1-2.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/37)%20Value%20Type%20-%20Primitive%20Type%20-%20De%C4%9Fer%20Tipli%20De%C4%9Fi%C5%9Fkenler/gorsel2-2.jpg" width="auto">

@@ -1,0 +1,3 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/48)%20De%C4%9Fi%C5%9Fkene%20De%C4%9Fer%20Atama%20Kurallar%C4%B1/gorsel1-9.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/48)%20De%C4%9Fi%C5%9Fkene%20De%C4%9Fer%20Atama%20Kurallar%C4%B1/gorsel2-5.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/48)%20De%C4%9Fi%C5%9Fkene%20De%C4%9Fer%20Atama%20Kurallar%C4%B1/gorsel3-3.jpg" width="auto">

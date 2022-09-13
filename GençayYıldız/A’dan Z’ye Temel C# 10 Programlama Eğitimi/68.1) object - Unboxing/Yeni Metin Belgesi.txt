@@ -1,0 +1,34 @@
+using System;
+ 
+namespace objectType
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region object
+            #region Boxing
+            //object türdeki bir değişkene herhangi bir türdeki değeri göndermek Boxing olarak nitelendirilmektedir.
+ 
+            object _yas = 28; //Boxing
+ 
+            #endregion
+            #region Cast Operatörü
+ 
+            #endregion
+            #region UnBoxing
+ 
+            #region Casting
+            //int yas = (int)_yas;//UnBoxing
+            //Console.WriteLine(yas * 5);
+            string yas = (string)_yas;
+ 
+ 
+            #endregion
+            #endregion
+            #endregion
+        }
+    }
+}
+ 
+&nbsp;

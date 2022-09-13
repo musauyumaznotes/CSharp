@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\bin\Debug\net5.0\Varyasyonlar.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\bin\Debug\net5.0\Varyasyonlar.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\bin\Debug\net5.0\Varyasyonlar.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\bin\Debug\net5.0\Varyasyonlar.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\bin\Debug\net5.0\Varyasyonlar.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\bin\Debug\net5.0\Varyasyonlar.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\refint\Varyasyonlar.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\Varyasyonlar.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\62) Değişken Tanımlama Varyasyonları\Degiskenler\Varyasyonlar\obj\Debug\net5.0\ref\Varyasyonlar.dll

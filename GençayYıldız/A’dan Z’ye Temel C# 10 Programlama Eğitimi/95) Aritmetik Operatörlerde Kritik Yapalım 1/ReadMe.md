@@ -1,0 +1,2 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/95)%20Aritmetik%20Operat%C3%B6rlerde%20Kritik%20Yapal%C4%B1m%201/gorsel1-11-1536x878.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/95)%20Aritmetik%20Operat%C3%B6rlerde%20Kritik%20Yapal%C4%B1m%201/gorsel2-4-1536x878.jpg" width="auto">

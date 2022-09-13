@@ -1,0 +1,22 @@
+using System;
+ 
+namespace TypeConversion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Sayısal Türlerin bool Türüne Dönüştürülmesi
+            //Tür dönüşümlerinde dönüştürülecek türün hedef türe uygun olması gerekiyordu.
+            //Burada bir istisna var.
+            //normal de;
+            //1 -> true
+            //0 -> false
+            //eşit olması ve geri kalanının mümkün olmaması gerkmektedir. Halbuki burada 0'ın dışındaki tümmm değerler true olarak kabul edilmesi bir istisnadır.
+            int i = -123;
+            bool b = Convert.ToBoolean(i);
+            Console.WriteLine(b);
+            #endregion
+        }
+    }
+}

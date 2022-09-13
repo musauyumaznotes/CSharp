@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\bin\Debug\net5.0\Application.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\bin\Debug\net5.0\Application.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\bin\Debug\net5.0\Application.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\bin\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\bin\Debug\net5.0\Application.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\bin\Debug\net5.0\Application.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\refint\Application.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\Application.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\32) BreakPoint Nedir ve Nasıl Yapılır\Application\obj\Debug\net5.0\ref\Application.dll

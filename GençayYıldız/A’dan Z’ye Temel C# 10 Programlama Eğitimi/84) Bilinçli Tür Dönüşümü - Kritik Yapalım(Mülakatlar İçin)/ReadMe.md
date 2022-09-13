@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/84)%20Bilin%C3%A7li%20T%C3%BCr%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC%20-%20Kritik%20Yapal%C4%B1m(M%C3%BClakatlar%20%C4%B0%C3%A7in)/gorsel1-3-1536x891.jpg" width="auto">

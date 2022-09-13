@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "akis_kontrol_yapilanmalari/1.0.0": {
+        "runtime": {
+          "akis_kontrol_yapilanmalari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "akis_kontrol_yapilanmalari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

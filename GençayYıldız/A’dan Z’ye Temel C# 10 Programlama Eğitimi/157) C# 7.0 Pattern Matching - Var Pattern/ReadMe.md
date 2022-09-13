@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/157)%20C%23%207.0%20Pattern%20Matching%20-%20Var%20Pattern/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-23%20121608.png" width="auto">

@@ -1,0 +1,56 @@
+code lang=”js”]
+
+using System;
+
+namespace TypeConversion
+{
+class Program
+{
+static void Main(string[] args)
+{
+#region Sayısal İfadelerin Kendi Aralarında Tür Dönüşümü
+#region Bilinçsiz Tür Dönüşümü
+//Bir sayısal türün kendisinden daha geniş aralıktaki bir başka sayısal türe atanması bilinçsiz tür dönüşümüdür.
+#region Örnek 1
+//int a = 3000;
+//float f = a;
+#endregion
+#region Örnek 2
+//short x = 123;
+//long y = x;
+#endregion
+#endregion
+#region Bilinçli Tür Dönüşümü
+//int x = 60000;
+//byte y = (byte)x;
+//Console.WriteLine(y);
+#region checked
+//Bilinçli tür dö. esnasında bir veri kaybı söz konusu olursa eğer runtime’da bizleri uyaracak olan bir kontrol mekanizmasıdır.
+//checked
+//{
+// int a = 500;
+// byte b = (byte)a;
+// Console.WriteLine(b);
+//}
+
+#endregion
+#region unchecked
+unchecked
+{
+int a = 500;
+byte b = (byte)a;
+Console.WriteLine(b);
+}
+
+#endregion
+#endregion
+#region Kritik
+//int a = 3000;
+//short s = (byte)a;
+#endregion
+#endregion
+}
+}
+}
+
+[/code]

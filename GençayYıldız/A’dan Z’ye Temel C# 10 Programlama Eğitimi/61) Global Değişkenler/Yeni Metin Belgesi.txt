@@ -1,0 +1,26 @@
+using System;
+ 
+namespace Sabitler
+{
+    class Program
+    {
+        //Bir değişken class scope içerisinde tanımlanıyorsa buna global değişken diyoruz...
+        int a;//Global değişken
+        int b;
+        int c;
+        static void Main(string[] args)
+        {
+            int z;
+ 
+            {
+ 
+            }
+            {
+                {
+ 
+                }
+            }
+ 
+        }
+    }
+}

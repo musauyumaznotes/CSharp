@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/119)%20C%23%20Operat%C3%B6rler%20-%20is%20null%20Operat%C3%B6r%C3%BC/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-17%20184635.png" width="auto">

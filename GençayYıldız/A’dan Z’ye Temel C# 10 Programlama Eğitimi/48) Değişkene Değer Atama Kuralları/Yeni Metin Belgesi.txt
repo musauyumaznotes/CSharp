@@ -1,0 +1,86 @@
+using System;
+ 
+namespace Degiskenler
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Tanımlanmış Değişkene Değer Atama
+            #region Tanımlama Aşamasında Değer Atama
+            //int x = 123;
+            //string adi = "Gençay";
+            //string soyadi = "Yıldız";
+            //char basHarf = 'g';
+            #endregion
+            #region Tanımlandıktan Sonra Değer Atama
+            #region Örnek 1
+            //int x;
+            //x = 15;
+            #endregion
+            #region Örnek 2
+            //int a = 5;
+            //int b = 15;
+            //string c;
+ 
+            //c = "Hilmi";
+            #endregion
+            #region Örnek 3
+            //int x = 5;
+            //char y = 'a';
+            //bool p;
+            //decimal d = 3.14m;
+            //p = false;
+            #endregion
+            #endregion
+            //Dikkat
+            //Bir değişkene atanan en son değer geçerlidir.
+            //int a = 5;
+            //a = 15;
+            //a = 20;
+ 
+            //Tanımlanmış olan değişkene türüne uygun bir değer atılmalıdır.
+ 
+            #region Değişkene Değer Atama Kuralları
+            #region Metinsel
+            //string adSoyad = "Gençay Yıldız";
+            #endregion
+            #region Karakter
+            //char basHarf = 'G';
+            #endregion
+            #region Mantıksal
+            //bool medeniHal = true;
+            #endregion
+            #region Sayısal
+            //int x = 3;
+            //int y = 3000000;
+            //byte x = 3;
+            //byte y = 500;
+            //int z = 9999999999;
+ 
+            #region Küsütratlı/Ondalıklı Türler
+            //float f = 3.14F;
+            //double d = 3.14;
+            //decimal de = 3.14M;
+            #endregion
+ 
+ 
+            #endregion
+            #endregion
+ 
+            #region (_a, _b) = (a, b) Tuple Türüyle Değer Atama
+ 
+            #endregion
+            #region Literal Düzenlemeler(C# 7.0)
+ 
+            #endregion
+            #region Değişken Türüne Uygun Default Değer Atama
+            decimal x = default;
+            #endregion
+            #region Default Literals
+ 
+            #endregion
+            #endregion
+        }
+    }
+}

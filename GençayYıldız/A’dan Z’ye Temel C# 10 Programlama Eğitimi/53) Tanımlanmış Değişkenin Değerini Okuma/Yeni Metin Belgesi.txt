@@ -1,0 +1,21 @@
+&nbsp;
+using System;
+ 
+namespace Degiskenler
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Tanımlanmış Değişkenin Değerini Okuma
+ 
+            //int x = 5;
+            //Bir değişkenin değerini elde edebilmek için değişkenin adından faydalanmaktayız.
+            //Bir değişkenin adı assign(=) operatörünün sağında yahut metotların parametrelerinde çağrılıyorsa ilgili değişkenin değeri gönderilir.
+            //Console.WriteLine(x);
+            //int y = x;
+ 
+            #endregion
+        }
+    }
+}

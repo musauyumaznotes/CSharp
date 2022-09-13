@@ -1,0 +1,65 @@
+using System;
+ 
+namespace Operators
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Aritmatik Operatörler
+            // +
+            // -
+            // *
+            // /
+            // %
+            #region Aritmetik Operatörler Geriye Dönüş Değeri
+            //Aritmetik operatörler, iki sayısal değer üzeirnde işlem yapan operatörler oldukları için işlem neticesinde geriye "uygun türde" sonuç dönerler.
+ 
+            #region İnceleme 1
+            //int sonuc = 3 + 5;
+            #endregion
+            #region İnceleme 2
+            //int x = 3, y = 5;
+            ////int y = 5;
+            //int sonuc = x * y;
+            #endregion
+            //Aynı türde olan sayısal değer üzerinde işlem yaparken sonuç türü aynı olacaktır.
+            #region İnceleme 3
+            //double s1 = 123;
+            //double s2 = 321;
+            //double sonuc = s1 + s2;
+            #endregion
+            #region İnceleme 4
+            //decimal s1 = 123123;
+            //decimal s2 = 3214532;
+            //decimal sonuc = s1 % s2;
+            #endregion
+            #endregion
+            #region (int) * (int) = ?
+            //int s1 = 123;
+            //int s2 = 3213;
+            //int sonuc = s1 / s2;
+            #endregion
+            #region (int) * (double) = ?
+            //İki farklı türde sayısal değer üzerinde yapılan aritmetik işlem neticesinde sonuç büyük olan türde dönecektir.
+            //int s1 = 10;
+            //double s2 = 5;
+            //double sonuc = s1 + s2;
+            #endregion
+            #region (byte) * (int) = ?
+            //int s1 = 3;
+            //byte s2 = 123;
+            //int sonuc = s1 - s2;
+            #endregion
+            #region (byte) * (byte) = ?  (İstisna! - Mülakat!!!)
+            //byte s1 = 10;
+            //byte s2 = 5;
+            //int sonuc = s1 - s2;
+            #endregion
+            #region Matematiksel İşlemler(Öncelik Sırası)
+ 
+            #endregion
+            #endregion
+        }
+    }
+}

@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/78)%20Metinsel%20%C4%B0fadelerin%20Di%C4%9Fer%20%C4%B0fadelere%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BClmesi%20%20Parse%20Metodu/gorsel1-29-1536x891.jpg" width="auto">

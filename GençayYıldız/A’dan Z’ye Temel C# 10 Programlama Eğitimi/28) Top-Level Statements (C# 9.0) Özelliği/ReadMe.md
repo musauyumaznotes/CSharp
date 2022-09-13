@@ -1,0 +1,3 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/28)%20Top-Level%20Statements%20(C%23%209.0)%20%C3%96zelli%C4%9Fi/gorsel1-2.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/28)%20Top-Level%20Statements%20(C%23%209.0)%20%C3%96zelli%C4%9Fi/gorsel2.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/28)%20Top-Level%20Statements%20(C%23%209.0)%20%C3%96zelli%C4%9Fi/gorsel3.jpg" width="auto">

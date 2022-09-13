@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/38-)%20De%C4%9Fer%20T%C3%BCrl%C3%BC%20De%C4%9Fi%C5%9Fkenlerde%20Primitive%20Kontrol%C3%BC%20-%20Isprimitive/kodlar.jpg" width="auto">

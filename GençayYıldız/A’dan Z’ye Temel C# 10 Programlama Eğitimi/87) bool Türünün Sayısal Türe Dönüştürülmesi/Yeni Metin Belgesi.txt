@@ -1,0 +1,19 @@
+using System;
+ 
+namespace TypeConversion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region bool Türünün Sayısal Türe Dönüştürülmesi
+            //Elimizdeki mantıksal bir değeri herhangi bir sayısal değere Convert edersek ilgil ğideğerin mantıksal karşılığını elde edebiliriz...
+            bool b = true;
+            decimal i = Convert.ToDecimal(b);
+            Console.WriteLine(i);
+            #endregion
+        }
+    }
+}
+ 
+&nbsp;

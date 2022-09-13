@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\bin\Debug\net5.0\ProjectExample.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\bin\Debug\net5.0\ProjectExample.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\bin\Debug\net5.0\ProjectExample.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\bin\Debug\net5.0\ProjectExample.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\bin\Debug\net5.0\ProjectExample.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\bin\Debug\net5.0\ProjectExample.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\refint\ProjectExample.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ProjectExample.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\7) Visual Studio İle Proje Oluşturma ve Derleme\ProjectExample\obj\Debug\net5.0\ref\ProjectExample.dll

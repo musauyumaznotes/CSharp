@@ -1,0 +1,15 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\bin\Debug\net6.0\OrnekProje.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\bin\Debug\net6.0\OrnekProje.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\bin\Debug\net6.0\OrnekProje.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\bin\Debug\net6.0\OrnekProje.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\bin\Debug\net6.0\OrnekProje.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\refint\OrnekProje.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\OrnekProje.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\9) Visual Studio Code İle Proje Oluşturma ve Derleme\OrnekProje\obj\Debug\net6.0\ref\OrnekProje.dll

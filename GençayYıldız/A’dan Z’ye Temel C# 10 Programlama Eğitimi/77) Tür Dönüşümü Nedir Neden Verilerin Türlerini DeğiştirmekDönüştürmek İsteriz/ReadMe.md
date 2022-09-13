@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/77)%20T%C3%BCr%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC%20Nedir%20Neden%20Verilerin%20T%C3%BCrlerini%20De%C4%9Fi%C5%9FtirmekD%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek%20%C4%B0steriz/gorsel1-28-1536x891.jpg" width="auto">

@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/144)%20Ak%C4%B1%C5%9F%20Kontrol%20Mekanizmalar%C4%B1%20-%20if%20Else%20if%20Yap%C4%B1s%C4%B1/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-19%20185638.png" width="auto">

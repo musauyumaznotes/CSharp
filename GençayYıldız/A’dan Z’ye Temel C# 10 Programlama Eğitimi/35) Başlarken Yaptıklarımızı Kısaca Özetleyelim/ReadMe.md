@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/35)%20Ba%C5%9Flarken%20Yapt%C4%B1klar%C4%B1m%C4%B1z%C4%B1%20K%C4%B1saca%20%C3%96zetleyelim/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-05%20161352.png" width="auto">

@@ -1,0 +1,16 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\bin\Debug\net5.0\Operators.exe
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\bin\Debug\net5.0\Operators.deps.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\bin\Debug\net5.0\Operators.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\bin\Debug\net5.0\Operators.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\refint\Operators.dll
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.pdb
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\A’dan Z’ye Temel C# 10 Programlama Eğitimi\92) Programlamada Operatör Nedir\Operators\Operators\obj\Debug\net5.0\ref\Operators.dll

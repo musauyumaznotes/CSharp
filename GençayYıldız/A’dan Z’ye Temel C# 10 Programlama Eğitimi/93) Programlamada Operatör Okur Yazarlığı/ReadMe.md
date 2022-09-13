@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/93)%20Programlamada%20Operat%C3%B6r%20Okur%20Yazarl%C4%B1%C4%9F%C4%B1/gorsel1-10-1536x878.jpg" width="auto">

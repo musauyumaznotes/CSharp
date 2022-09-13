@@ -1,0 +1,3 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/32)%20BreakPoint%20Nedir%20ve%20Nas%C4%B1l%20Yap%C4%B1l%C4%B1r/gorsel1-3.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/32)%20BreakPoint%20Nedir%20ve%20Nas%C4%B1l%20Yap%C4%B1l%C4%B1r/gorsel2-1.jpg" width="auto">
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/32)%20BreakPoint%20Nedir%20ve%20Nas%C4%B1l%20Yap%C4%B1l%C4%B1r/gorsel3-1.jpg" width="auto">

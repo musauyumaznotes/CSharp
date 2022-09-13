@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/49)%20(_a%2C%20_b)%20%3D%20(a%2C%20b)%20Tuple%20T%C3%BCr%C3%BCyle%20De%C4%9Fer%20Atama/gorsel1-10.jpg" width="auto">

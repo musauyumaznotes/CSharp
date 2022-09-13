@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/57)%20De%C4%9Fi%C5%9Fken%20Davran%C4%B1%C5%9Flar%C4%B1%20Genel%20Bak%C4%B1%C5%9F(ref%20i%C3%A7in%20fark%C4%B1ndal%C4%B1k)/gorsel1-16-1536x892.jpg" width="auto">

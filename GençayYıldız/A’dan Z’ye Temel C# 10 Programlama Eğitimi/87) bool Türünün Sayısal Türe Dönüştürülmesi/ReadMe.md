@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/87)%20bool%20T%C3%BCr%C3%BCn%C3%BCn%20Say%C4%B1sal%20T%C3%BCre%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BClmesi/gorsel1-7-1536x891.jpg" width="auto">

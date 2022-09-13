@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sabitler", "Sabitler.csproj", "{CAC954E3-D268-4637-BAE0-8C29890C328B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC954E3-D268-4637-BAE0-8C29890C328B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC954E3-D268-4637-BAE0-8C29890C328B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC954E3-D268-4637-BAE0-8C29890C328B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC954E3-D268-4637-BAE0-8C29890C328B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228C9FAB-B597-423E-AC2E-0D59FA5BF3BF}
+	EndGlobalSection
+EndGlobal

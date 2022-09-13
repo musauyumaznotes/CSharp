@@ -1,0 +1,21 @@
+using System;
+ 
+namespace Degiskenler
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //int a = 5;
+            //int b = 10;
+ 
+            //(int a, int b) c = (5, 10);
+            //(int yas, string adi, bool medeniHal) kisi = (28, "Gençay", true);
+            ////kisi.yas = 5;
+ 
+            //(int x, char y) z;
+ 
+            //z = (5, 'a');
+        }
+    }
+}

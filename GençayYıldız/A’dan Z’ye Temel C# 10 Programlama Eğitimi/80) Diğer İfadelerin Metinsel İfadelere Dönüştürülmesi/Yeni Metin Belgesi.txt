@@ -1,0 +1,25 @@
+using System;
+ 
+namespace TypeConversion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Diğer İfadelerin Metinsel İfadelere Dönüştürülmesi
+            #region Convert Fonksiyonu
+            //int a = 25;
+            //string a2 = Convert.ToString(a);
+ 
+            #endregion
+            #region ToString Fonksiyonu
+            //ToString fonksiyonu tüüümmmm ama tüm türlerde mevcuttur.
+            float f = 35;
+            string f2 = f.ToString();
+            #endregion
+            #endregion
+        }
+    }
+}
+ 
+&nbsp;

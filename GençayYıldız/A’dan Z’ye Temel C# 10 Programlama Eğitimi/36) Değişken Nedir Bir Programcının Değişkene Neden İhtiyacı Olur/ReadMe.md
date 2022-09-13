@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/36)%20De%C4%9Fi%C5%9Fken%20Nedir%20Bir%20Programc%C4%B1n%C4%B1n%20De%C4%9Fi%C5%9Fkene%20Neden%20%C4%B0htiyac%C4%B1%20Olur/gorsel1-4.jpg" width="auto">

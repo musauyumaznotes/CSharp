@@ -1,0 +1,28 @@
+using System;
+ 
+namespace Operators
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Karşılaştırma Operatörleri
+            //İki sayısal değer arasında büyüklük, küçüklük ve eşitlik durumuna göre karşılaştırma yapan operatörlerdir.
+            // <(küçüklük)
+            // >(büyüklük)
+            // <=(küçük veya eşitlik)
+            // >=(büyük veya eşitlik)
+            // ==(eşitlik)
+            #endregion
+            #region Karşılaştırma Operatörlerinin Geriye Dönüş Değerleri
+            //Karşılaştırma operatörleri geriye her daim bool türde bir değer döndürecektir.
+            int i1 = 123;
+            int i2 = 321;
+ 
+            bool sonuc = i1 == i2;
+            #endregion
+        }
+    }
+}
+ 
+&nbsp;

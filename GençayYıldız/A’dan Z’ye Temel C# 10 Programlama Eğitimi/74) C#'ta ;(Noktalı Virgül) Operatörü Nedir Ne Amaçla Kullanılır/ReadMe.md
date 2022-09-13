@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/74)%20C%23'ta%20%3B(Noktal%C4%B1%20Virg%C3%BCl)%20Operat%C3%B6r%C3%BC%20Nedir%20Ne%20Ama%C3%A7la%20Kullan%C4%B1l%C4%B1r/gorsel1-27-1536x889.jpg" width="auto">

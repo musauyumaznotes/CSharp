@@ -1,0 +1,26 @@
+using System;
+ 
+namespace DegiskenlerArasiDegerAtama
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Deep Copy
+            //Derin koplama
+            //Eldeki veri çoğaltılır, klonlanır.
+ 
+            int a = 5;
+            int b = a;
+ 
+            a = a * 5;
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+ 
+            #endregion
+            #region Shallow Copy
+ 
+            #endregion
+        }
+    }
+}

@@ -1,0 +1,22 @@
+&nbsp;
+using System;
+ 
+namespace var_dynamic_keywords
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region var
+            string adi = "Gencay";
+ 
+            var x = 3.14;
+ 
+            //1. var keyworduyle tanimlanan değişkenin değeri tanımlanma aşamasında verilmelidir. Verilmelidir ki türü belirleyip direkt ona dönüşebilsin o türde davranış sergileyebilsin...
+            //2. var keywordüyle tanımlanan değişkene ilk değer verildikten sonra o değerin türüne bürünceği için sonraki durumlarda değeri fakrlı türlerde verilemez!!!
+            //3. var - object arasındaki farkı ;
+            //var bir keyword iken object ise bir türdür. var atanan değerin türüne bürünürken, object atanan değeri Boxing yaparak object'te dönüştürür.
+            #endregion
+        }
+    }
+}

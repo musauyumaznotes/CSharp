@@ -1,0 +1,1 @@
+<img src="https://github.com/musauyumaz/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/A%E2%80%99dan%20Z%E2%80%99ye%20Temel%20C%23%2010%20Programlama%20E%C4%9Fitimi/103)%20Mant%C4%B1ksal%20Operat%C3%B6rlerde%20Geriye%20D%C3%B6n%C3%BC%C5%9F%20De%C4%9Ferleri%20Nelerdir/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-17%20114810.png" width="auto">
