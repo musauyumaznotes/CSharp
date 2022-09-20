@@ -75,8 +75,8 @@
 - OrnekModel w; //Senin bunu değişken türü olarak kullanabilmenin altında yatan şey esasında bu bir referans türlü bir değişken olmasıdır. 
 - Stack'te değişkenlerin değerleri,kendileri ve referans türlü değişkenlerin referansları kendileri tutulur
 - Heap'te sadece nesneler tutulur.
-- Deveoper direkt Stack'e erişebilir.Developerların heap'e direkt erişimi engellenmiş Heap'e erişebilmek için bir aracı kullanırız ve aracıyı Stack'te tutarız
-- Referans : Stack'te tutulan ve Heap'teki herhangi bir nesneyi işaretleyebilme özelliğine sahip olan değişken türüdür. Biz buna değişken türü değil referans noktası diyoruz. Çünk referans edebilme özelliğine sahip.
+- Developer direkt Stack'e erişebilir.Developerların heap'e direkt erişimi engellenmiş Heap'e erişebilmek için bir aracı kullanırız ve aracıyı Stack'te tutarız
+- Referans : Stack'te tutulan ve Heap'teki herhangi bir nesneyi işaretleyebilme özelliğine sahip olan değişken türüdür. Biz buna değişken türü değil referans noktası diyoruz. Çünkü referans edebilme özelliğine sahip.
 - Referans türlü değişkenler özünde nullable olan değişkenlerdir.
 
 ***
