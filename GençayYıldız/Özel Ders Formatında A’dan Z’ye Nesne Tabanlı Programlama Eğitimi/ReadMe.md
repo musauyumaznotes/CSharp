@@ -21,7 +21,7 @@
 
 ## Nesnenin Anatomisi
 - Tüm nesneler esasında bir sınıf modellemesinin örneğidir.
-- Kimlik kartının bir modeli vardır.Class modeli 80 milynda olan nesnesi vardır.
+- Kimlik kartının bir modeli vardır.Class modeli 80 milyonda olan nesnesi vardır.
 - Bir nesnenin nasıl olması gerektiğine dair bir tane tanımlama/modelleme yapıyorsun ve bundan sınırsız/n adet/belleğinin karşıladığı kadar nesne üretebiliyorsun.
 
 ## Nesne Kavramı
@@ -30,16 +30,16 @@
 - Yazılım simülasyonunda sana gerçek hayatıun ta kendisini, karşılığını sunuyor.
 
 ## Nesne Modellemesi
-- Nesnelerin oluşturulabilmesi için öncelikle modellemesi gerekmektedir.
+- Nesnelerin oluşturulabilmesi için öncelikle modellenmesi gerekmektedir.
 - Nesne içinde bir veya birden fazla değer barındıran değerler bütünüdür.
 - Developer Stack'teki değişkene direkt erişebilir ama Heap'e erişim sağlayamaz.Ama Stack'te Heap belleğe erişim sağlayabilir.
-- Biz Stack'te Heap'teki nesneleri işaret eden referanslar tanımlıyoruz. Haliyle Stacke'teki refaranslara ben erişiyorum o referansta kendisi Heap'teki nesneye eriştiği için dolaylı yoldan Heap'teki herahngi bir nesneyi işaretlemiş/Erişmiş oluyoruz.
+- Biz Stack'te Heap'teki nesneleri işaret eden referanslar tanımlıyoruz. Haliyle Stacke'teki refaranslara ben erişiyorum o referansta kendisi Heap'teki nesneye eriştiği için dolaylı yoldan Heap'teki herahangi bir nesneyi işaretlemiş/Erişmiş oluyoruz.
 
 ## Sınıf Nedir
 - OOP'de bir object oluşturabilmek için öncelikle o objectin modellemesi/tanımlanması gerekmektedir.
 - Bir objenin modelini/tanımını oluşturabilmek için class yapısı kullanılır.
 - Class esasında bir nesnenin modelidir.
-- Sınıf kodı yazdığımız/inşa ettiğimiz yerdir. Buradaki yazan kod işlevselliğini göstersin dediğimde obje oluşturup bunu objede çalıştırıyoruz.
+- Sınıf kodu yazdığımız/inşa ettiğimiz yerdir. Buradaki yazan kod işlevselliğini göstersin dediğimde obje oluşturup bunu objede çalıştırıyoruz.
 - Class OOP'nin temelidir.
 - Object oluşturabilmek için class'a ihtiyacımız var class üzerinden modelleme yaparız.
 
