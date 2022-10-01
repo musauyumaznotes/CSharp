@@ -1,5 +1,5 @@
 ***
-# [Bu notları Gençay Yıldız hocamın sayesinde izlediğim bu playlistten öğrendim.]([https://www.youtube.com/watch?v=48Z75_jZHv0&list=PLQVXoXFVVtp306cqgKyC8NoxCmHIuWVBK](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE))
+# [Bu notları Gençay Yıldız hocamın sayesinde izlediğim bu playlistten öğrendim.](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE)
 Herkesin izlemesini tavsiye ederim. Mükemmel bir anlatım. Böyle mükemmel bir içerikli [Türkçe kaynağı](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z) 
 hiçbir yerde bulamazsınız.
 ***
