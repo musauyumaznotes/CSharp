@@ -1180,7 +1180,7 @@ class Mudur : Personel
 
 ## Base Class ve Derived Class Nedir?
 - Kalıtımsal ilişkide olan iki sınıf arasında kalıtım veren sınıfa Base/Parent class Kalıtım alan class'a ise Derived/Child class denir.
-- Unutma bir sınıfın sade ve sadece tek bir Base class'ı olabilir! direkt türediği sııftır Base class'ı
+- Unutma bir sınıfın sade ve sadece tek bir Base class'ı olabilir! direkt türediği sınıftır Base class'ı
 - Base class dediğimiz kavram direkt birebir kalıtımı aldığınız sınıftır.
 - Lakin atalarındaki tüm sınıflar Base Class'ı değildir!
 - Bir class'ın birden fazla Derived Class'ı olabilir. yani benim bir tane babam vardır ama babamın birden fazla oğlu/kızı olabilir.
@@ -1234,7 +1234,7 @@ class A
 - Madem ki herhangi bir sınıftan nesne üretimi gerçekleştirilirken öncelikle base class'ından nesne üretiliyor, bu demektir ki önce base class'ın constructor'ı tetikleniyor.
 - Haliyle bizler nesne üretimi esnasında base class'ta üretilecek olan nesnenin istediğimiz constructor'larını tetikleyebilmeli yahut varsa parametre bu değerleri verebilmeliyiz.
 - İşte bunun için base Keyword'ünü kullanmaktayız.
-- Eğer ki base class'ın constructor'ı sadece parametre alan constructor ise derived class'larda o constructor'a bir değer GÖNDERMEK ZORUNDAYIZ bunuda base keywordüyle saplayabliriz...
+- Eğer ki base class'ın constructor'ı sadece parametre alan constructor ise derived class'larda o constructor'a bir değer GÖNDERMEK ZORUNDAYIZ bunuda base keywordüyle sağlayabiliriz...
 - Eğer ki base class'ta boş parametreli bir constructor varsa derived class'ta base ile bir bildirimde bulunmak zorunda değiliz... Çünkü varsayılan olarak kalıtımsal durumda base class'taki boş parametreli constructor tetiklenir
 - Bir class'ın constructor'ının yanında : base(...) kullanırsak eğer o class'ın tüm constructorlarını bize getirecektir. Haliyle ilgili sınıftan bir nesne üretilirken base class'tan nesne üretimi esnasında hangi constructor'ın tetikleneceğini bu şekilde belirleyebiliriz...
 
