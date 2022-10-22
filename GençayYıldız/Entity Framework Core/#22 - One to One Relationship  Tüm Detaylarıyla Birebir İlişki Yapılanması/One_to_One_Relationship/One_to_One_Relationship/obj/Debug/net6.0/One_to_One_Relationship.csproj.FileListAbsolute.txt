@@ -1,0 +1,2 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\Entity Framework Core\#22 - One to One Relationship  Tüm Detaylarıyla Birebir İlişki Yapılanması\One_to_One_Relationship\One_to_One_Relationship\obj\Debug\net6.0\One_to_One_Relationship.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Entity Framework Core\#22 - One to One Relationship  Tüm Detaylarıyla Birebir İlişki Yapılanması\One_to_One_Relationship\One_to_One_Relationship\obj\Debug\net6.0\One_to_One_Relationship.GeneratedMSBuildEditorConfig.editorconfig
