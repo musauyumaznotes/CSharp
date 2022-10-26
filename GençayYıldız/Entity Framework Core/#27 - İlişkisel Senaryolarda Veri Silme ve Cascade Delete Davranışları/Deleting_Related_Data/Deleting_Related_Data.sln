@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deleting_Related_Data", "Deleting_Related_Data\Deleting_Related_Data.csproj", "{F5330D78-7419-43D3-BFA3-1B98295C91AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5330D78-7419-43D3-BFA3-1B98295C91AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5330D78-7419-43D3-BFA3-1B98295C91AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5330D78-7419-43D3-BFA3-1B98295C91AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5330D78-7419-43D3-BFA3-1B98295C91AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A02C9F-D9B7-4E4D-83AF-8615E3162C13}
+	EndGlobalSection
+EndGlobal
