@@ -9,3 +9,4 @@ hiçbir yerde bulamazsınız.
 - ## [#4 SOLID - OpenClosed Principle](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/DesignPrinciples/%234%20SOLID%20-%20OpenClosed%20Principle/ReadMe.md)
 - ## [#5 SOLID - Liskov Substitution Principle](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/DesignPrinciples/%235%20SOLID%20-%20Liskov%20Substitution%20Principle/ReadMe.md)
 - ## [#6 SOLID - Interface Segregation Principle](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/DesignPrinciples/%236%20SOLID%20-%20Interface%20Segregation%20Principle/ReadMe.md)
+- ## [#7 SOLID - Dependency Inversion Principle](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/DesignPrinciples/%237%20SOLID%20-%20Dependency%20Inversion%20Principle/ReadMe.md)
