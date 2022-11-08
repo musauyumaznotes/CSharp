@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Table_Per_Concrete", "Inheritance_Table_Per_Concrete\Inheritance_Table_Per_Concrete.csproj", "{5235DB5B-B188-4F2A-B1D9-AA819AE0D40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5235DB5B-B188-4F2A-B1D9-AA819AE0D40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5235DB5B-B188-4F2A-B1D9-AA819AE0D40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5235DB5B-B188-4F2A-B1D9-AA819AE0D40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5235DB5B-B188-4F2A-B1D9-AA819AE0D40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EDAC899-FEED-4E6C-AE23-08BC181B8883}
+	EndGlobalSection
+EndGlobal

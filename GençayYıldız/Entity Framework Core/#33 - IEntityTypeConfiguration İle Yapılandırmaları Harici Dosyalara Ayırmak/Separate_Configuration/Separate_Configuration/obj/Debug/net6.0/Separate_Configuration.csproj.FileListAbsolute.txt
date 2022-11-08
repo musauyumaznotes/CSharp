@@ -1,0 +1,2 @@
+D:\GithubRepom\CSharp\Gençay Yıldız\Entity Framework Core\#33 - IEntityTypeConfiguration İle Yapılandırmaları Harici Dosyalara Ayırmak\Separate_Configuration\Separate_Configuration\obj\Debug\net6.0\Separate_Configuration.csproj.AssemblyReference.cache
+D:\GithubRepom\CSharp\Gençay Yıldız\Entity Framework Core\#33 - IEntityTypeConfiguration İle Yapılandırmaları Harici Dosyalara Ayırmak\Separate_Configuration\Separate_Configuration\obj\Debug\net6.0\Separate_Configuration.GeneratedMSBuildEditorConfig.editorconfig
