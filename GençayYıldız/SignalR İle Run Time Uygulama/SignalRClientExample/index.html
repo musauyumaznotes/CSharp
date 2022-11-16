@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="signalr.min.js"></script>
+    <script src="jquery.min.js"></script>
+
+    <script>
+      $(document).ready(() => {
+        const connection = new signalR.HubConnectionBuilder()
+          .withUrl("https://localhost:5001/myhub")
+          .withAutomaticReconnect([1000, 1000, 2000]) //0 - 2 - 10 - 30
+          .build();
+
+        // connection.start();
+        start();
+
+        function animation() {
+          durum.fadeIn(2000, () => {
+            setTimeout(() => {
+              durum.fadeOut(2000);
+            }, 2000);
+          });
+        }
+
+        const durum = $("#durum");
+        connection.onreconnecting((error) => {
+          durum.css("background-color", "blue");
+          durum.css("color", "white");
+          durum.html("Bağlantı Kuruluyor...");
+          animation();
+        });
+        connection.onreconnected((connectionId) => {
+          durum.css("background-color", "green");
+          durum.css("color", "white");
+          durum.html("Bağlantı Kuruldu...");
+          animation();
+        });
+        connection.onclose((connectionId) => {
+          durum.css("background-color", "red");
+          durum.css("color", "white");
+          durum.html("Bağlanılamadı...");
+          animation();
+        });
+
+        connection.on("userJoined", (connectionId) => {
+          durum.html(`${connectionId} bağlandı.`);
+          durum.css("background-color", "green");
+          animation();
+        });
+        connection.on("userLeaved", (connectionId) => {
+          durum.html(`${connectionId} ayrıldı.`);
+          durum.css("background-color", "red");
+          animation();
+        });
+
+        connection.on("clients", (clientsData) => {
+          let text = "";
+          $.each(clientsData, (index, item) => {
+            text += `<li>${item}</li>`;
+          });
+          $("#clients").html(text);
+        });
+
+        $("#btnGonder").click(() => {
+          let message = $("#txtMessage").val();
+          connection
+            .invoke("SendMessageAsync", message)
+            .catch((error) =>
+              console.log(`Mesaj Gönderilirken Hata Oluştuç ${error}`)
+            );
+        });
+        //Bu metotla RPC sistemiyle server tarafından hangi metot tetikleniyorsa on fonksiyonuya bu metodu buradan tanımlayabiliyoruz.
+        connection.on("receiveMessage", (message) => {
+          $("#mesajlar").append(message + "<br>");
+        });
+
+        //Bağlantı hiç kurulmadığı durumlarda bu fonksiyon kullanılır.
+        async function start() {
+          try {
+            await connection.start();
+          } catch (error) {
+            setTimeout(() => start(), 2000);
+          }
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <div id="durum" style="display: none"></div>
+
+    <input type="text" id="txtMessage" />
+    <button id="btnGonder">Gönder</button>
+    <div id="mesajlar"></div>
+
+    <div>
+      <ul id="clients"></ul>
+    </div>
+  </body>
+</html>
