@@ -1,0 +1,2 @@
+obj\Debug\net7.0/BiDirectionalStream.cs \
+obj\Debug\net7.0/BiDirectionalStreamGrpc.cs: biDirectionalStream.proto

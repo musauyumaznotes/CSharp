@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "biDirectionStreamServer";
+
+package BiDirectionStream;
+
+service BiDirectionStreamer{
+ rpc SendMessage(stream BiDirectionStreamRequest) returns (stream BiDirectionStreamResponse);
+}
+message BiDirectionStreamRequest{
+    string name = 1;
+    string message = 2;
+}
+message BiDirectionStreamResponse{
+    string message = 1;
+}

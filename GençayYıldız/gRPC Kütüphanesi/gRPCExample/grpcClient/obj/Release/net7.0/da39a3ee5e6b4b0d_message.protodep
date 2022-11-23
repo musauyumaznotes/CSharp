@@ -1,0 +1,2 @@
+obj\Release\net7.0/Message.cs \
+obj\Release\net7.0/MessageGrpc.cs: message.proto

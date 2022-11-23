@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/ServerStream.cs \
+obj\Debug\net7.0\Protos/ServerStreamGrpc.cs: Protos/serverStream.proto

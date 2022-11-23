@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grpcClient",
+    "\\grpcServer"
+  ],
+  "SelectedNode": "\\grpcServer\\grpcServer.csproj",
+  "PreviewInSolutionExplorer": false
+}

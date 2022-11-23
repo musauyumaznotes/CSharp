@@ -1,0 +1,26 @@
+syntax = "proto3";  //Syntax'ı bildirmemiz gerekiyor. Versiyon olarak düşünülebilir.
+
+option csharp_namespace = "grpcServer"; //Biz C# ortamında ilgili server'ı geliştireceğimizden dolayı namespace olarak hangi namespace altında geliştirileceğini ilgili arayüzlerin hangi namespace altında oluşturulacağını buradaki option etiketi üzerinden belirliyoruz.
+
+package greet;//Bu pakete isim veriyoruz.
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SayHello (HelloRequest) returns (HelloReply);//Bu yapılanmaya göre Bu protoyu compile ettiğinde generate edilecek olan servisin içerisinde SayHello isimli bir tane metot olacak bu metot ile Server'a bir client istekte bulunabilir. bu metot üstünden Client Server'a istekte bulunabilir. Server'da bu isimli bir metot olacak Client bu metodu çağıracak.
+  // Server'da bulunacak metodu temsil ediyor. Client bu metodu çağırırken göndereceği veri türü HelloRequest türünden olacak ve alacağı cevap/Response ise HelloReply metodunun türünden olacaktır.
+}
+
+// The request message containing the user's name.
+message HelloRequest {//İstek yapılırken kullanılacak verinin türünü bildiriyor.
+  string name = 1;//Taşınacak olan mesajların türlerinin içerisindeki property'ler gibi düşünebiliriz.
+  //Buradaki mesajlar binary formata dönüştürülecek ya O formata dönüştürülürken sıralı bir şekilde dönüştürüleceğinden dolayı hangi property'nin/alanın hangi sırada dönüştürüleceğini manuel bir şekilde bildiriyoruz. Dönüşüm sırasını biz bildiririz.
+
+}
+
+// The response message containing the greetings.
+message HelloReply {//İstek neticesinde gelecek olan Response verisinin türünü bildiriyor.
+  string message = 1;//Taşınacak olan mesajların türlerinin içerisindeki property'ler gibi düşünebiliriz.
+}
+
+// Message olarak gördüğünüz her bir tanımlama Client ile server arasındaki veri iletişiminde kullanılacak türü bildirir.

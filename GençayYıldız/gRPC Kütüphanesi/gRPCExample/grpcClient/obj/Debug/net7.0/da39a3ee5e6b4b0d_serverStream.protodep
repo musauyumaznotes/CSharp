@@ -1,0 +1,2 @@
+obj\Debug\net7.0/ServerStream.cs \
+obj\Debug\net7.0/ServerStreamGrpc.cs: serverStream.proto
