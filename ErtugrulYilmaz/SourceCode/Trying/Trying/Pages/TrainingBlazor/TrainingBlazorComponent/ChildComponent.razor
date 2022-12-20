@@ -1,0 +1,32 @@
+﻿
+
+<div >
+    <div style="@ElementStyle" class="alert alert-info">@Title</div>
+    <GrandChildComponent></GrandChildComponent>
+    <span>
+        @if (ChildContent == null)
+        {
+            <span>@Child2Content</span>
+        }
+        else
+        {
+            @ChildContent
+        }
+    </span>
+</div>
+
+
+
+@code {
+    [CascadingParameter]
+    public string ElementStyle { get; set; }
+
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public RenderFragment Child2Content { get; set; }
+}

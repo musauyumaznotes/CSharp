@@ -1,0 +1,31 @@
+﻿
+<h1>Child OnInit & OnInitAsync Demo</h1>
+
+@foreach (var item in EventType)
+{
+    @item
+    <hr />
+}
+<br />
+<span>@CurrentCount</span>
+
+@code {
+
+    [Parameter]
+    public int CurrentCount { get; set; }
+    List<string> EventType = new();
+
+    protected override void OnInitialized()
+    {
+        EventType.Add("Child OnInitialized is called");
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        EventType.Add("Child OnInitializedAsync is called");
+        await Task.Delay(1000);
+    }
+    protected override void OnParametersSet()
+    {
+        EventType.Add("Child OnParametersSet is called");
+    }
+}

@@ -1,0 +1,47 @@
+﻿@page "/bindprops"
+
+
+@*<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<Counter/>
+
+<SurveyPrompt Title="How is Blazor working for you?" />*@
+
+Course => @course.CourseName
+<br />
+Price => @course.Price
+<br />
+
+<input type="number" @bind-value="@course.Price" @bind-value:event="oninput" />
+<br />
+<input type="checkbox" @bind-value="@course.IsActive" checked="@course.IsActive" /> Is Active
+<br />
+<span>This Course is @(course.IsActive ? "Active" : "In Active")</span>
+<br />
+
+<select @bind="defaultSelectValue">
+    @foreach (var drop in dropdownProps)
+    {
+        <option value="@drop.Name">@drop.Name</option>
+    }
+</select>
+<br />
+<span>Selected Course is name : @defaultSelectValue </span>
+<br />
+
+<EditDeleteButtonComponent IsAdmin="true" ></EditDeleteButtonComponent>
+@code {
+    string defaultSelectValue = "Microservice";
+    CourseTraning course = new() { Id = 1, CourseName = "Blazor E-Commerce", IsActive = false, Price = 20 };
+    List<DropdownProps> dropdownProps = new()
+    {
+        new() {Id =1,Name="E-Commerce",Value="30"  },
+        new() {Id =2,Name="Microservice",Value="40"  },
+        new() {Id =3,Name="Social Media",Value="50"  },
+        new() {Id =4,Name="Dependency Injection",Value="60"  },
+    };
+}

@@ -1,0 +1,24 @@
+﻿@page "/parentcomponent"
+
+<h3 style="@Style" class="alert alert-danger">Parent Component</h3>
+
+<CascadingValue Value="Style">
+<ChildComponent Title="This title is passed as child component">
+    <ChildContent></ChildContent>
+    <Child2Content>Test 2 Description</Child2Content>
+</ChildComponent>
+</CascadingValue>
+
+<AttributeChildComponent InputAttributes="InputAttributes"></AttributeChildComponent>
+
+@code {
+    public string Style { get; set; } = "color:red";
+
+    [Parameter]
+    public Dictionary<string, object> InputAttributes { get; set; } = new()
+    {
+       {"required","required"},
+       {"placeholder","Enter Course Name"},
+       {"maxlength","11"},
+    };
+}

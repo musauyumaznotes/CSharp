@@ -1,0 +1,27 @@
+﻿@page "/test"
+@using System.Threading
+<h3>Test</h3>
+
+<p>@theTime</p>
+
+@code {
+
+    string theTime;
+    Timer aTimer;
+
+    protected override void OnInitialized()
+    {
+        aTimer = new Timer(Tick, null, 0, 1000);
+    }
+
+    private void Tick(object _)
+    {
+        theTime = DateTime.Now.ToLongTimeString();
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        aTimer?.Dispose();
+    }
+}

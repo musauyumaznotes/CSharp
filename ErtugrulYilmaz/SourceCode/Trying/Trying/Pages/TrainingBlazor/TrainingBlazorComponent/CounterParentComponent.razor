@@ -1,0 +1,17 @@
+﻿@page "/counter"
+
+<h3>CounterParentComponent</h3>
+
+<p>Current Count : @currentCount</p>
+
+
+<Counter SetCurrentCount="SetCurrentCount"></Counter>
+
+@code {
+    private int currentCount;
+
+    private void SetCurrentCount(int value)
+    {
+        currentCount = value;
+    }
+}

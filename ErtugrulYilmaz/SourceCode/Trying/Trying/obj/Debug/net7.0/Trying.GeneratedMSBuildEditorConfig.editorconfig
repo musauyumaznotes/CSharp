@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Trying
+build_property.RootNamespace = Trying
+build_property.ProjectDir = D:\GithubRepom\CSharp\ErtugrulYilmaz\SourceCode\Trying\Trying\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GithubRepom\CSharp\ErtugrulYilmaz\SourceCode\Trying\Trying
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/BindProps.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcQmluZFByb3BzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/Lifecycle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcTGlmZWN5Y2xlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/AttributeChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcQXR0cmlidXRlQ2hpbGRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/ChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcQ2hpbGRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/CounterParentComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcQ291bnRlclBhcmVudENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/EditDeleteButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcRWRpdERlbGV0ZUJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/GrandChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcR3JhbmRDaGlsZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/LifecycleChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcTGlmZWN5Y2xlQ2hpbGRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/TrainingBlazor/TrainingBlazorComponent/ParentComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdCbGF6b3JcVHJhaW5pbmdCbGF6b3JDb21wb25lbnRcUGFyZW50Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jcm3zju28f
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3zcsngdv6p
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Areas/Identity/Pages/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GithubRepom/CSharp/ErtugrulYilmaz/SourceCode/Trying/Trying/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

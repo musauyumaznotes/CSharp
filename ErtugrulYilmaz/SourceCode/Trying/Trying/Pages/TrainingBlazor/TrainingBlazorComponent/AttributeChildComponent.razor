@@ -1,0 +1,23 @@
+﻿
+
+<div>
+    <h4 class="text-primary">Attribute Child Component</h4>
+    <input id="courseName" @attributes="InputAttributes" />
+</div>
+
+@code {
+    //[Parameter]
+    //public string PlaceHolder { get; set; } = "Enter Course Default Name";
+    //[Parameter]
+    //public string Required { get; set; } = "required";
+    //[Parameter]
+    //public string MaxLength { get; set; } = "11";
+
+    [Parameter]
+    public Dictionary<string, object> InputAttributes { get; set; } = new()
+    {
+       {"required","required"},
+       {"placeholder","Enter Course Name"},
+       {"maxlength","11"},
+    };
+}
